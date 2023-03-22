@@ -13,4 +13,4 @@ Integrantes:
 - Saavedra Barboza, Tayel Christian: 
 - Salvatierra Guillermo, Diego Paul: 
 
-Señal de interés: EMG
+Señal de interés: EKG
