@@ -12,7 +12,7 @@ Bienvenidos al repositorio del Equipo 10 del curso "Introducción a Señales Bio
  6. [Metodología]
  7. [Miembros del equipo](https://github.com/MateoPortal/IntroSenales/edit/main/README.md#miembros-del-equipo-e10)
  8. [Docentes del curso](https://github.com/MateoPortal/IntroSenales/edit/main/README.md#docentes-del-curso)
- 9. [Referencias]
+ 9. [Referencias](https://github.com/MateoPortal/IntroSenales/edit/main/README.md#referencias)
 
 
 ## Introducción
