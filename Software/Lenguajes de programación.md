@@ -14,10 +14,8 @@ Además es muy sencillo programar con python, por ejemplo, el clásico:
 """
 print("Hola mundo")
 
-a = 1
-b = 2
-c = 3
-
-if c > 1:
-  print(a+b+c)
+  equipo=["Diego","Mateo","Alessandra","Rosmy","Tayel","Jose"]
+  for i in equipo:
+    print("Yo, ",equipo(i) + ", me comprometo a dar todo de mi para desarrollar un buen proyecto")
+  
 ```
