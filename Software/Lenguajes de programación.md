@@ -13,6 +13,4 @@ Se usará Python porque es un lenguaje de programación popular y ampliamente ut
 Además es muy sencillo programar con python, por ejemplo, el clásico:
 """
 ```python
-```
-print("Hola mundo")
-```
+print("Hola mundo")```
