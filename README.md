@@ -19,10 +19,10 @@ Bienvenidos al repositorio del Equipo 10 del curso "Introducción a Señales Bio
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/70663170/227679635-0451f4bf-2ef3-4582-98ab-ae85d2c239d6.png" alt="IMAGEN DE BIENVENIDA" width="25%">
-    <p align="center">
-     *Imagen 1. *
-    </p>
-</p>
+  </p>
+<p align="center">
+     *Imagen 1.
+     </p>
 
 <p align="justify">
 Este curso desarrollará los conocimientos necesarios para el tratamiento de señales provenientes de dispositivos médicos. Se abordaron temas como: el estudio de los sensores, la tecnología de adquisición, los procesos clínicos en los que se dan y protocolos que se usan para compartir la información entre los diferentes equipos que brindan señales. Las clases se desarrollarán en un laboratorio donde se complementará la teoría brindada con simulaciones en computadora utilizando programas desarrollados en Python y kits de desarrollo para la adquisición de bioseñales.
