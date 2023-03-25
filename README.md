@@ -33,10 +33,11 @@ Es una prueba médica que registra la actividad eléctrica del corazón usando e
 
 
 ## Docentes del curso: 
-- Alonso Cáceres.
-- Julissa Venancio.
-- Lewis De La Cruz.
-- Moises Meza.
+- De la Cruz Rodriguez, Lewis - umbert.de.la.cruz@upch.pe
+- Meza Rodriguez, Moises - moises.meza@upch.pe
+- Roman Gonzalez, Avid - avid.roman-gonzalez@ieee.org
+- Venancio Huerta, Julissa - julissa.venancio@upch.pe
+- Cáceres del Aguila, Jose Alonso - jo.alonsok@gmail.com
 
 
 ## Miembros del equipo E10:
