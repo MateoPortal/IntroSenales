@@ -17,8 +17,9 @@ Bienvenidos al repositorio del Equipo 10 del curso "Introducción a Señales Bio
   <img src="https://user-images.githubusercontent.com/70663170/227679635-0451f4bf-2ef3-4582-98ab-ae85d2c239d6.png" alt="IMAGEN DE BIENVENIDA" width="25%">
 </p>
 
-
+<p align="justify">
 Este curso desarrollará los conocimientos necesarios para el tratamiento de señales provenientes de dispositivos médicos. Se abordaron temas como: el estudio de los sensores, la tecnología de adquisición, los procesos clínicos en los que se dan y protocolos que se usan para compartir la información entre los diferentes equipos que brindan señales. Las clases se desarrollarán en un laboratorio donde se complementará la teoría brindada con simulaciones en computadora utilizando programas desarrollados en Python y kits de desarrollo para la adquisición de bioseñales.
+</p>
 
 ## ¿Qué es una bioseñal?
 <p align="justify">
@@ -30,8 +31,9 @@ Entre los tipos de métodos más comunes para registrar este tipo de señales en
 
 ## Señal de interés: 
 ### __Electrocardiograma (ECG)__
+<p align="justify">
 Es una prueba médica que registra la actividad eléctrica del corazón usando electrodos colocados en la piel. Se utiliza para diagnosticar y monitorear diversas afecciones cardíacas, como arritmias, ataques cardíacos e insuficiencia cardíaca. La máquina de ECG registra los impulsos eléctricos generados por el corazón y proporciona una representación visual de la actividad del corazón en forma de gráfico. Un ECG se puede realizar en un consultorio médico, clínica u hospital y es un procedimiento no invasivo e indoloro.
-
+</p>
 
 ## Docentes del curso: 
 - De la Cruz Rodriguez, Lewis - umbert.de.la.cruz@upch.pe
