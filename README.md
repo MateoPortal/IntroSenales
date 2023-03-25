@@ -46,14 +46,20 @@ Es una prueba médica que registra la actividad eléctrica del corazón usando e
  </p>
 
 ## Temática del proyecto
+<p align="justify">
+Por desarrollar durante el semestre.
+</p>
 
 
 ## Materiales
-
-
+<p align="justify">
+Por desarrollar durante el semestre.
+</p>
 
 ## Metodología
-
+<p align="justify">
+Por desarrollar durante el semestre.
+</p>
 
 
 ## Docentes del curso: 
