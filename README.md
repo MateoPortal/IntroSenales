@@ -63,4 +63,5 @@ Es una prueba médica que registra la actividad eléctrica del corazón usando e
 
 ## Referencias
 [1] V. C. Pezoulas, T. P. Exarchos, and D. I. Fotiadis, “Types and sources of medical and other related data,” *Medical Data Sharing, Harmonization and Analytics*, pp. 19–65, 2020, doi: https://doi.org/10.1016/b978-0-12-816507-2.00002-5.
+
 [2] “Signals,” *Mdpi.com*, 2023. https://www.mdpi.com/journal/signals/special_issues/Biosignals_Processing_Analysis_Biomedicine (accessed Mar. 25, 2023).
