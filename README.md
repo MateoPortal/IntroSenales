@@ -29,7 +29,7 @@ Este curso desarrollar√° los conocimientos necesarios para el tratamiento de se√
 - Aldave Javier, Alessandra Mercedes
 - Huaylinos Guerrero, Jose Augusto Modesto 
 - Portal Von Hesse, Mateo Luis
-- Postigo Yauce, Rosmy Leyla
+- Postigo Yauce, Rosmy Leyla - rosmy.postigo@upch.pe
 - Saavedra Barboza, Tayel Christian 
 - Salvatierra Guillermo, Diego Paul - diego.salvatierra@pucp.edu.pe
 
