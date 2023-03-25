@@ -38,6 +38,12 @@ Entre los tipos de métodos más comunes para registrar este tipo de señales en
 <p align="justify">
 Es una prueba médica que registra la actividad eléctrica del corazón usando electrodos colocados en la piel. Se utiliza para diagnosticar y monitorear diversas afecciones cardíacas, como arritmias, ataques cardíacos e insuficiencia cardíaca. La máquina de ECG registra los impulsos eléctricos generados por el corazón y proporciona una representación visual de la actividad del corazón en forma de gráfico. Un ECG se puede realizar en un consultorio médico, clínica u hospital y es un procedimiento no invasivo e indoloro.
 </p>
+<p align="center">
+  <img src="Documentación/Images/importancia-del-electrocardiograma.jpg" alt="ecg" width="50%">
+</p>
+<p align="center">
+ Hola
+ </p>
 
 ## Docentes del curso: 
 - De la Cruz Rodriguez, Lewis - umbert.de.la.cruz@upch.pe
@@ -56,12 +62,7 @@ Es una prueba médica que registra la actividad eléctrica del corazón usando e
 - Salvatierra Guillermo, Diego Paul - diego.salvatierra@pucp.edu.pe
 
 
-<p align="center">
-  <img src="Documentación/Images/importancia-del-electrocardiograma.jpg" alt="ecg" width="50%">
-</p>
-<p align="center">
- Hola
- </p>
+
 
 ## Referencias
 [1] V. C. Pezoulas, T. P. Exarchos, and D. I. Fotiadis, “Types and sources of medical and other related data,” *Medical Data Sharing, Harmonization and Analytics*, pp. 19–65, 2020, doi: https://doi.org/10.1016/b978-0-12-816507-2.00002-5.
