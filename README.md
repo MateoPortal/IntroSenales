@@ -10,8 +10,8 @@ Bienvenidos al repositorio del Equipo 10 del curso "Introducción a Señales Bio
  4. [Temática del proyecto](https://github.com/MateoPortal/IntroSenales/blob/main/README.md#tem%C3%A1tica-del-proyecto)
  5. [Materiales](https://github.com/MateoPortal/IntroSenales/blob/main/README.md#materiales)
  6. [Metodología](https://github.com/MateoPortal/IntroSenales/blob/main/README.md#metodolog%C3%ADa)
- 7. [Miembros del equipo](https://github.com/MateoPortal/IntroSenales/blob/main/README.md#miembros-del-equipo-e10)
- 8. [Docentes del curso](https://github.com/MateoPortal/IntroSenales/blob/main/README.md#docentes-del-curso)
+ 7. [Docentes del curso](https://github.com/MateoPortal/IntroSenales/blob/main/README.md#docentes-del-curso)
+ 8. [Miembros del equipo](https://github.com/MateoPortal/IntroSenales/blob/main/README.md#miembros-del-equipo-e10)
  9. [Referencias](https://github.com/MateoPortal/IntroSenales/blob/main/README.md#referencias)
 
 
