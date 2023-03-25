@@ -3,7 +3,7 @@ Dutante el curso se utilizará  Python.
 
 ## Python
 
-```python
+
 """
 Se usará Python porque es un lenguaje de programación popular y ampliamente utilizado en la industria debido a sus numerosas ventajas, que incluyen:
 - Amplia gama de bibliotecas y frameworks: Python tiene una gran cantidad de bibliotecas y frameworks para diversas tareas de programación, como ciencia de datos, aprendizaje automático, desarrollo web, etc. Esto hace que sea fácil para los programadores implementar soluciones en sus proyectos sin tener que escribir todo el código desde cero.
@@ -12,5 +12,6 @@ Se usará Python porque es un lenguaje de programación popular y ampliamente ut
 
 Además es muy sencillo programar con python, por ejemplo, el clásico:
 """
+```python
 print("Hola mundo")
 ```
