@@ -12,7 +12,7 @@
 ## Introducción
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/70663170/227679635-0451f4bf-2ef3-4582-98ab-ae85d2c239d6.png" alt="IMAGEN DE BIENVENIDA" width="50%">
+  <img src="https://user-images.githubusercontent.com/70663170/227679635-0451f4bf-2ef3-4582-98ab-ae85d2c239d6.png" alt="IMAGEN DE BIENVENIDA" width="25%">
 </p>
 
 
