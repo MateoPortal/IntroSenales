@@ -32,7 +32,7 @@ Este curso desarrollará los conocimientos necesarios para el tratamiento de se�
 - Portal Von Hesse, Mateo Luis
 - Postigo Yauce, Rosmy Leyla
 - Saavedra Barboza, Tayel Christian 
-- Salvatierra Guillermo, Diego Paul 
+- Salvatierra Guillermo, Diego Paul (diego.salvatierra@pucp.edu.pe)
 
 ## ¿Qué es una bioseñal?
 
