@@ -1,6 +1,6 @@
 # Introducción a Señales Biomédicas - Equipo 10
 
-Bienvenidos al repositorio del Equipo 10 del curso "Introducción a Señales Biomédicas"
+Bienvenidos al repositorio del Equipo 10 del curso "Introducción a Señales Biomédicas"✨
 
 ## Tabla de contenidos
 
