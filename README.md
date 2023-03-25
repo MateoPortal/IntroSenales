@@ -34,7 +34,7 @@ Este curso desarrollará los conocimientos necesarios para el tratamiento de se�
 - Salvatierra Guillermo, Diego Paul - diego.salvatierra@pucp.edu.pe
 
 ## ¿Qué es una bioseñal?
-
+ 
 
 ## Señal de interés: 
 ### __Electrocardiograma (ECG)__
@@ -44,3 +44,10 @@ Es una prueba médica que registra la actividad eléctrica del corazón usando e
   <img src="Documentación/Images/importancia-del-electrocardiograma.jpg" alt="ecg" width="50%">
 </p>
 
+```python
+# Este es un ejemplo de código en Python
+def hola_mundo():
+    print("Hola, mundo!")
+
+hola_mundo()
+```
