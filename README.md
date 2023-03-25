@@ -43,11 +43,3 @@ Es una prueba médica que registra la actividad eléctrica del corazón usando e
 <p align="center">
   <img src="Documentación/Images/importancia-del-electrocardiograma.jpg" alt="ecg" width="50%">
 </p>
-
-```python
-# Este es un ejemplo de código en Python
-def hola_mundo():
-    print("Hola, mundo!")
-
-hola_mundo()
-```
