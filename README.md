@@ -21,11 +21,12 @@ Bienvenidos al repositorio del Equipo 10 del curso "Introducción a Señales Bio
 Este curso desarrollará los conocimientos necesarios para el tratamiento de señales provenientes de dispositivos médicos. Se abordaron temas como: el estudio de los sensores, la tecnología de adquisición, los procesos clínicos en los que se dan y protocolos que se usan para compartir la información entre los diferentes equipos que brindan señales. Las clases se desarrollarán en un laboratorio donde se complementará la teoría brindada con simulaciones en computadora utilizando programas desarrollados en Python y kits de desarrollo para la adquisición de bioseñales.
 
 ## ¿Qué es una bioseñal?
+<p align="justify">
 Se define como una señal producida por la actividad eléctrica que surge de una actividad biológica, la cual toma lugar en diferentes tejidos y órganos dentro del cuerpo humano. 
 Las bioseñales proveen información útil sobre el estado fisiológico, patofisiológico y emocional de un individuo, jugando un rol fundamental en el monitoreo de la salud y en los diagnósticos clínicos.
 El procesamiento y el análisis de estas señales son manejados por un área interdisciplinaria y dinámica, contando con ciencias como biología, física, medicina, ingeniería y ciencias de la computación.
 Entre los tipos de métodos más comunes para registrar este tipo de señales en el ámbito clínico está la Electroencefalografía (EEG), la Magnetoencefalografía (MEG), la Electrocardiogra (EMG), el Electrocardiograma (ECG o EKG), entre otros.
-
+</p>
 
 ## Señal de interés: 
 ### __Electrocardiograma (ECG)__
