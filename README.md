@@ -25,7 +25,6 @@ Este curso desarrollar√° los conocimientos necesarios para el tratamiento de se√
 - Moises Meza.
 
 
-
 ## Miembros del equipo E10:
 - Aldave Javier, Alessandra Mercedes
 - Huaylinos Guerrero, Jose Augusto Modesto 
