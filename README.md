@@ -42,7 +42,7 @@ Es una prueba médica que registra la actividad eléctrica del corazón usando e
   <img src="Documentación/Images/importancia-del-electrocardiograma.jpg" alt="ecg" width="50%">
 </p>
 <p align="center">
- Hola
+ Imagen2.- P wave
  </p>
 
 ## Docentes del curso: 
