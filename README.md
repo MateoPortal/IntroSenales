@@ -5,10 +5,10 @@ Bienvenidos al repositorio del Equipo 10 del curso "Introducción a Señales Bio
 ## Tabla de contenidos
 
  1. [Introducción](https://github.com/MateoPortal/IntroSenales/edit/main/README.md#introduccion)
- 2. [Miembros del equipo](https://github.com/MateoPortal/IntroSenales/edit/main/README.md#miembros-del-equipo-e10)
- 3. [Docentes del curso](https://github.com/MateoPortal/IntroSenales/edit/main/README.md#docentes-del-curso)
- 4. [¿Qué es una bioseñal?](https://github.com/MateoPortal/IntroSenales/edit/main/README.md#qu%C3%A9-es-una-biose%C3%B1al)
- 5. [Señal de Interés](https://github.com/MateoPortal/IntroSenales/edit/main/README.md#se%C3%B1al-de-inter%C3%A9s)
+ 2. [¿Qué es una bioseñal?](https://github.com/MateoPortal/IntroSenales/edit/main/README.md#qu%C3%A9-es-una-biose%C3%B1al)
+ 3. [Señal de Interés](https://github.com/MateoPortal/IntroSenales/edit/main/README.md#se%C3%B1al-de-inter%C3%A9s)
+ 4. [Miembros del equipo](https://github.com/MateoPortal/IntroSenales/edit/main/README.md#miembros-del-equipo-e10)
+ 5. [Docentes del curso](https://github.com/MateoPortal/IntroSenales/edit/main/README.md#docentes-del-curso)
 
 
 ## Introducción
@@ -19,6 +19,18 @@ Bienvenidos al repositorio del Equipo 10 del curso "Introducción a Señales Bio
 
 
 Este curso desarrollará los conocimientos necesarios para el tratamiento de señales provenientes de dispositivos médicos. Se abordaron temas como: el estudio de los sensores, la tecnología de adquisición, los procesos clínicos en los que se dan y protocolos que se usan para compartir la información entre los diferentes equipos que brindan señales. Las clases se desarrollarán en un laboratorio donde se complementará la teoría brindada con simulaciones en computadora utilizando programas desarrollados en Python y kits de desarrollo para la adquisición de bioseñales.
+
+## ¿Qué es una bioseñal?
+Se define como una señal producida por la actividad eléctrica que surge de una actividad biológica, la cual toma lugar en diferentes tejidos y órganos dentro del cuerpo humano. 
+Las bioseñales proveen información útil sobre el estado fisiológico, patofisiológico y emocional de un individuo, jugando un rol fundamental en el monitoreo de la salud y en los diagnósticos clínicos.
+El procesamiento y el análisis de estas señales son manejados por un área interdisciplinaria y dinámica, contando con ciencias como biología, física, medicina, ingeniería y ciencias de la computación.
+Entre los tipos de métodos más comunes para registrar este tipo de señales en el ámbito clínico está la Electroencefalografía (EEG), la Magnetoencefalografía (MEG), la Electrocardiogra (EMG), el Electrocardiograma (ECG o EKG), entre otros.
+
+
+## Señal de interés: 
+### __Electrocardiograma (ECG)__
+Es una prueba médica que registra la actividad eléctrica del corazón usando electrodos colocados en la piel. Se utiliza para diagnosticar y monitorear diversas afecciones cardíacas, como arritmias, ataques cardíacos e insuficiencia cardíaca. La máquina de ECG registra los impulsos eléctricos generados por el corazón y proporciona una representación visual de la actividad del corazón en forma de gráfico. Un ECG se puede realizar en un consultorio médico, clínica u hospital y es un procedimiento no invasivo e indoloro.
+
 
 ## Docentes del curso: 
 - Alonso Cáceres.
@@ -35,16 +47,6 @@ Este curso desarrollará los conocimientos necesarios para el tratamiento de se�
 - Saavedra Barboza, Tayel Christian 
 - Salvatierra Guillermo, Diego Paul - diego.salvatierra@pucp.edu.pe
 
-## ¿Qué es una bioseñal?
-Se define como una señal producida por la actividad eléctrica que surge de una actividad biológica, la cual toma lugar en diferentes tejidos y órganos dentro del cuerpo humano. 
-Las bioseñales proveen información útil sobre el estado fisiológico, patofisiológico y emocional de un individuo, jugando un rol fundamental en el monitoreo de la salud y en los diagnósticos clínicos.
-El procesamiento y el análisis de estas señales son manejados por un área interdisciplinaria y dinámica, contando con ciencias como biología, física, medicina, ingeniería y ciencias de la computación.
-Entre los tipos de métodos más comunes para registrar este tipo de señales en el ámbito clínico está la Electroencefalografía (EEG), la Magnetoencefalografía (MEG), la Electrocardiogra (EMG), el Electrocardiograma (ECG o EKG), entre otros.
-
-
-## Señal de interés: 
-### __Electrocardiograma (ECG)__
-Es una prueba médica que registra la actividad eléctrica del corazón usando electrodos colocados en la piel. Se utiliza para diagnosticar y monitorear diversas afecciones cardíacas, como arritmias, ataques cardíacos e insuficiencia cardíaca. La máquina de ECG registra los impulsos eléctricos generados por el corazón y proporciona una representación visual de la actividad del corazón en forma de gráfico. Un ECG se puede realizar en un consultorio médico, clínica u hospital y es un procedimiento no invasivo e indoloro.
 
 <p align="center">
   <img src="Documentación/Images/importancia-del-electrocardiograma.jpg" alt="ecg" width="50%">
