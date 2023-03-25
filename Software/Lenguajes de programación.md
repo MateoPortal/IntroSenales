@@ -1,5 +1,5 @@
 # Lenguajes de programación
-Dutante el curso se utilizará  Python.
+Durante el curso se utilizará  Python.
 
 ## Python
 
