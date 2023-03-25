@@ -38,7 +38,7 @@ Este curso desarrollará los conocimientos necesarios para el tratamiento de se�
 ## ¿Qué es una bioseñal?
 Se define como una señal producida por la actividad eléctrica que surge de una actividad biológica, la cual toma lugar en diferentes tejidos y órganos dentro del cuerpo humano. 
 Las bioseñales proveen información útil sobre el estado fisiológico, patofisiológico y emocional de un individuo, jugando un rol fundamental en el monitoreo de la salud y en los diagnósticos clínicos.
-El procesamiento y análisis de estas señales se maneja por un área interdisciplinaria y dinámica, contando con ciencias como la biología, la física, medicina, ingeniería y ciencias de la computación.
+El procesamiento y el análisis de estas señales son manejados por un área interdisciplinaria y dinámica, contando con ciencias como biología, física, medicina, ingeniería y ciencias de la computación.
 Entre los tipos de métodos más comunes para registrar este tipo de señales en el ámbito clínico está la Electroencefalografía (EEG), la Magnetoencefalografía (MEG), la Electrocardiogra (EMG), el Electrocardiograma (ECG o EKG), entre otros.
 
 
