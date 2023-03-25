@@ -2,9 +2,8 @@
 
 ## Tabla de contenidos
 
--
--
--
+- 1. Miembros del equipo
+- 2.
 
 Grupo E10
 
