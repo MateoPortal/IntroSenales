@@ -1,5 +1,7 @@
 # IntroSenales
 
+Bienvenidos al repositorio del Equipo 10 del curso "Introducción a Señales Biomédicas"
+
 ## Tabla de contenidos
 
  1. [Introducción](https://github.com/MateoPortal/IntroSenales/edit/main/README.md#introduccion)
