@@ -14,8 +14,17 @@ Además es muy sencillo programar con python, por ejemplo, el clásico:
 """
 print("Hola mundo")
 
-  equipo=["Diego","Mateo","Alessandra","Rosmy","Tayel","Jose"]
-  for i in equipo:
-    print("Yo, ",equipo(i) + ", me comprometo a dar todo de mi para desarrollar un buen proyecto")
-  
+equipo=["Diego","Mateo","Alessandra","Rosmy","Tayel","Jose"]
+for i in equipo:
+  print("Yo, ",equipo(i) + ", me comprometo a dar todo de mi para desarrollar un buen proyecto")
+
+a = 1
+b = 2
+c = 3
+vec = [a,b,c]
+for i in vec:
+  if i = 1:
+    print(vec(1))
+  else:
+    print(vec(i)+vec(i-1))
 ```
