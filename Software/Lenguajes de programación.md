@@ -92,4 +92,24 @@ equipo2 = ["Diego","Mateo","Alessandra","Rosmy","Tayel","Jose"]
 while i < length(equipo2):
   print(equipo(i) + " forma parte del equipo E10 del curso Introducción a Señales Biomédicas")
 
+print("Hola mundo")
+
+equipo=["Diego","Mateo","Alessandra","Rosmy","Tayel","Jose"]
+for i in equipo:
+  print("Yo, ",equipo(i) + ", me comprometo a dar todo de mi para desarrollar un buen proyecto")
+
+a = 1
+b = 2
+c = 3
+vec = [a,b,c]
+for i in vec:
+  if i = 1:
+    print(vec(1))
+  else:
+    print(vec(i)+vec(i-1))
+
+equipo2 = ["Diego","Mateo","Alessandra","Rosmy","Tayel","Jose"]
+while i < length(equipo2):
+  print(equipo(i) + " forma parte del equipo E10 del curso Introducción a Señales Biomédicas")
+
 ```
