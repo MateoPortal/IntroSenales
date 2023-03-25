@@ -2,17 +2,24 @@
 
 ## Tabla de contenidos
 
-- 1. Miembros del equipo
-- 2.
+ 1. Introducción
+ 2. Miembros del equipo
+ 3. Docentes del curso
+ 4. Señal de Interés
 
 Grupo E10
-
+## Introducción
 Este curso desarrollará los conocimientos necesarios para el tratamiento de señalesprovenientes de dispositivos médicos. Se abordaron temas como: el estudio de lossensores, la tecnología de adquisición, los procesos clínicos en los que se dan yprotocolos que se usan para compartir la información entre los diferentes equipos quebrindan señales. Las clases se desarrollarán en un laboratorio donde se complementarála teoría brindada con simulaciones en computadora utilizando programas desarrolladosen Python y kits de desarrollo para la adquisición de bioseñales.
 
-## Profesor: 
-Moises Meza.
+## Docentes del curso: 
+- Alonso Cáceres.
+- Julissa Venancio.
+- Lewis De La Cruz.
+- Moises Meza.
 
-## Miembros del equipo:
+
+
+## Miembros del equipo E10:
 - Aldave Javier, Alessandra Mercedes
 - Huaylinos Guerrero, Jose Augusto Modesto 
 - Portal Von Hesse, Mateo Luis
