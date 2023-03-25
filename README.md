@@ -15,7 +15,7 @@ Bienvenidos al repositorio del Equipo 10 del curso "Introducción a Señales Bio
  9. [Referencias](https://github.com/MateoPortal/IntroSenales/edit/main/README.md#referencias)
 
 
-## Introducción
+## Contenido del curso
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/70663170/227679635-0451f4bf-2ef3-4582-98ab-ae85d2c239d6.png" alt="IMAGEN DE BIENVENIDA" width="25%">
@@ -44,6 +44,17 @@ Es una prueba médica que registra la actividad eléctrica del corazón usando e
 <p align="center">
  *Imagen2.- P wave*
  </p>
+
+## Temática del proyecto
+
+
+## Materiales
+
+
+
+## Metodología
+
+
 
 ## Docentes del curso: 
 - De la Cruz Rodriguez, Lewis - umbert.de.la.cruz@upch.pe
