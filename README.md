@@ -78,7 +78,7 @@ Por desarrollar durante el semestre.
 ## Miembros del equipo E10:
 - Aldave Javier, Alessandra Mercedes - alessandra.aldave@upch.pe
 - Huaylinos Guerrero, Jose Augusto Modesto 
-- Portal Von Hesse, Mateo Luis
+- Portal Von Hesse, Mateo Luis - mateo.portal@upch.pe
 - Postigo Yauce, Rosmy Leyla - rosmy.postigo@upch.pe
 - Saavedra Barboza, Tayel Christian 
 - Salvatierra Guillermo, Diego Paul - diego.salvatierra@pucp.edu.pe
