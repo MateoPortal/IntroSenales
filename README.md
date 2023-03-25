@@ -77,7 +77,7 @@ Por desarrollar durante el semestre.
 
 ## Miembros del equipo E10:
 - Aldave Javier, Alessandra Mercedes - alessandra.aldave@upch.pe
-- Huaylinos Guerrero, Jose Augusto Modesto 
+- Huaylinos Guerrero, Jose Augusto Modesto - jose.huaylinos@upch.pe
 - Portal Von Hesse, Mateo Luis - mateo.portal@upch.pe
 - Postigo Yauce, Rosmy Leyla - rosmy.postigo@upch.pe
 - Saavedra Barboza, Tayel Christian 
