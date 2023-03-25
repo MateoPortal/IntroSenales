@@ -26,7 +26,7 @@ Este curso desarrollar√° los conocimientos necesarios para el tratamiento de se√
 
 
 ## Miembros del equipo E10:
-- Aldave Javier, Alessandra Mercedes
+- Aldave Javier, Alessandra Mercedes - alessandra.aldave@upch.pe
 - Huaylinos Guerrero, Jose Augusto Modesto 
 - Portal Von Hesse, Mateo Luis
 - Postigo Yauce, Rosmy Leyla - rosmy.postigo@upch.pe
