@@ -2,14 +2,20 @@
 
 ## Tabla de contenidos
 
- 1. Introducción
- 2. Miembros del equipo
- 3. Docentes del curso
- 4. ¿Qué es una bioseñal?
- 5. Señal de Interés
+ 1. [Introducción](https://github.com/MateoPortal/IntroSenales/edit/main/README.md#introduccion)
+ 2. [Miembros del equipo](https://github.com/MateoPortal/IntroSenales/edit/main/README.md#miembros-del-equipo-e10)
+ 3. [Docentes del curso](https://github.com/MateoPortal/IntroSenales/edit/main/README.md#docentes-del-curso)
+ 4. [¿Qué es una bioseñal?](https://github.com/MateoPortal/IntroSenales/edit/main/README.md#qu%C3%A9-es-una-biose%C3%B1al)
+ 5. [Señal de Interés](https://github.com/MateoPortal/IntroSenales/edit/main/README.md#se%C3%B1al-de-inter%C3%A9s)
 
 
 ## Introducción
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/70663170/227679635-0451f4bf-2ef3-4582-98ab-ae85d2c239d6.png" alt="IMAGEN DE BIENVENIDA" width="50%">
+</p>
+
+
 Este curso desarrollará los conocimientos necesarios para el tratamiento de señalesprovenientes de dispositivos médicos. Se abordaron temas como: el estudio de lossensores, la tecnología de adquisición, los procesos clínicos en los que se dan yprotocolos que se usan para compartir la información entre los diferentes equipos quebrindan señales. Las clases se desarrollarán en un laboratorio donde se complementarála teoría brindada con simulaciones en computadora utilizando programas desarrolladosen Python y kits de desarrollo para la adquisición de bioseñales.
 
 ## Docentes del curso: 
@@ -27,6 +33,9 @@ Este curso desarrollará los conocimientos necesarios para el tratamiento de se�
 - Postigo Yauce, Rosmy Leyla
 - Saavedra Barboza, Tayel Christian 
 - Salvatierra Guillermo, Diego Paul 
+
+## ¿Qué es una bioseñal?
+
 
 ## Señal de interés: 
 ### __Electrocardiograma (ECG)__
