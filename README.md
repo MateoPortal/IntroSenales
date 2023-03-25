@@ -12,6 +12,7 @@ Bienvenidos al repositorio del Equipo 10 del curso "Introducción a Señales Bio
  6. [Metodología]
  7. [Miembros del equipo](https://github.com/MateoPortal/IntroSenales/edit/main/README.md#miembros-del-equipo-e10)
  8. [Docentes del curso](https://github.com/MateoPortal/IntroSenales/edit/main/README.md#docentes-del-curso)
+ 9. [Referencias]
 
 
 ## Introducción
@@ -26,10 +27,10 @@ Este curso desarrollará los conocimientos necesarios para el tratamiento de se�
 
 ## ¿Qué es una bioseñal?
 <p align="justify">
-Se define como una señal producida por la actividad eléctrica que surge de una actividad biológica, la cual toma lugar en diferentes tejidos y órganos dentro del cuerpo humano. 
+Se define como una señal producida por la actividad eléctrica que surge de una actividad biológica, la cual toma lugar en diferentes tejidos y órganos dentro del cuerpo humano [1]. 
 Las bioseñales proveen información útil sobre el estado fisiológico, patofisiológico y emocional de un individuo, jugando un rol fundamental en el monitoreo de la salud y en los diagnósticos clínicos.
-El procesamiento y el análisis de estas señales son manejados por un área interdisciplinaria y dinámica, contando con ciencias como biología, física, medicina, ingeniería y ciencias de la computación.
-Entre los tipos de métodos más comunes para registrar este tipo de señales en el ámbito clínico está la Electroencefalografía (EEG), la Magnetoencefalografía (MEG), la Electrocardiogra (EMG), el Electrocardiograma (ECG o EKG), entre otros.
+El procesamiento y el análisis de estas señales son manejados por un área interdisciplinaria y dinámica, contando con ciencias como biología, física, medicina, ingeniería y ciencias de la computación [2].
+Entre los tipos de métodos más comunes para registrar este tipo de señales en el ámbito clínico está la Electroencefalografía (EEG), la Magnetoencefalografía (MEG), la Electrocardiogra (EMG), el Electrocardiograma (ECG o EKG), entre otros [1].
 </p>
 
 ## Señal de interés: 
@@ -59,3 +60,7 @@ Es una prueba médica que registra la actividad eléctrica del corazón usando e
   <img src="Documentación/Images/importancia-del-electrocardiograma.jpg" alt="ecg" width="50%">
   Prueba
 </p>
+
+## Referencias
+[1] V. C. Pezoulas, T. P. Exarchos, and D. I. Fotiadis, “Types and sources of medical and other related data,” *Medical Data Sharing, Harmonization and Analytics*, pp. 19–65, 2020, doi: https://doi.org/10.1016/b978-0-12-816507-2.00002-5.
+[2] “Signals,” *Mdpi.com*, 2023. https://www.mdpi.com/journal/signals/special_issues/Biosignals_Processing_Analysis_Biomedicine (accessed Mar. 25, 2023).
