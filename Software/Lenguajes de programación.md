@@ -1,5 +1,5 @@
 # Lenguajes de programación
-Durante el curso se utilizará  Python.
+Dutante el curso se utilizará  Python.
 
 ## Python
 
@@ -27,4 +27,8 @@ for i in vec:
     print(vec(1))
   else:
     print(vec(i)+vec(i-1))
+
+equipo2 = ["Diego","Mateo","Alessandra","Rosmy","Tayel","Jose"]
+while i < length(equipo2):
+  print(equipo(i) + " forma parte del equipo E10 del curso Introducción a Señales Biomédicas")
 ```
