@@ -5,7 +5,8 @@
  1. Introducción
  2. Miembros del equipo
  3. Docentes del curso
- 4. Señal de Interés
+ 4. ¿Qué es una bioseñal?
+ 5. Señal de Interés
 
 Grupo E10
 ## Introducción
