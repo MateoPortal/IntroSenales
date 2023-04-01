@@ -80,7 +80,7 @@ Por desarrollar durante el semestre.
 - Huaylinos Guerrero, Jose Augusto Modesto - jose.huaylinos@upch.pe
 - Portal Von Hesse, Mateo Luis - mateo.portal@upch.pe
 - Postigo Yauce, Rosmy Leyla - rosmy.postigo@upch.pe
-- Saavedra Barboza, Tayel Christian 
+- Saavedra Barboza, Tayel Christian - tayel.saavedra@upch.pe
 - Salvatierra Guillermo, Diego Paul - diego.salvatierra@pucp.edu.pe
 
 
