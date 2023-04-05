@@ -31,4 +31,4 @@
 
 ### Video de señal
 
-## Resultados
+## Resultadosy
