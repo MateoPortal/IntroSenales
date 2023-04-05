@@ -12,12 +12,23 @@
   3. Comparar una señal leída de un osciloscopio y el arduino Nano 33 IoT.
 
 ## Materiales
+### BITalino
 
-<p align="center">
-  <img src= "https://github.com/MateoPortal/IntroSenales/blob/1d56ad8cad6dc9aad80c139bfcd66b159c634ace/Documentaci%C3%B3n/Images/imagen1.jpg" alt="Materiales Laboratorio 3" width="50%">
-</p>
+### Cable de 2 hilos
+
+### Cable de 3 hilos
+
+### 5 electrodos
+
+### 1 Bateria
+
+### 1 Guia de inicio rapido
 
 
 ## Procedimientos
+
+### Fotos de conexion
+
+### Video de señal
 
 ## Resultados
