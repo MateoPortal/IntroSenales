@@ -1,6 +1,4 @@
 # LABORATORIO 3: USO DE BITALINO PARA EMG Y ECG
-
- ***
  
 ## Tabla de contenidos
  1. [Objetivos](https://github.com/MateoPortal/IntroSenales/Documentaci%C3%B3n/Laboratorio3/blob/main/README.md#Objetivos)
