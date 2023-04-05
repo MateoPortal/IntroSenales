@@ -31,4 +31,12 @@
 
 ### Video de señal
 
-## Resultadosy
+### Ploteo de la señal
+
+### Resumen de la señal 
+
+### Archivo de datos de la señal ploteada
+
+### Ploteo de la señal en Python
+
+## Resultados
