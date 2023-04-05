@@ -14,7 +14,7 @@
 ## Materiales
 
 <p align="center">
-  <img src= "https://github.com/MateoPortal/IntroSenales/blob/1d56ad8cad6dc9aad80c139bfcd66b159c634ace/Documentaci%C3%B3n/Images/imagen1.jpg" alt="Materiales Laboratorio 3" width="75%">
+  <img src= "https://github.com/MateoPortal/IntroSenales/blob/1d56ad8cad6dc9aad80c139bfcd66b159c634ace/Documentaci%C3%B3n/Images/imagen1.jpg" alt="Materiales Laboratorio 3" width="50%">
 </p>
 
 
