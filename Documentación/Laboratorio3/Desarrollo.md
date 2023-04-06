@@ -63,6 +63,7 @@ Es un manual que explica cómo configurar y utilizar BITalino. Incluye informaci
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/503321ac6b98dd412af11dc4987800b30d8a27e1/Documentaci%C3%B3n/Laboratorio3/Pictures/conexion2.jpeg" alt="Conexión al Biceps" width="25%">
   </p>
+  
 ### Video de señal
 
 ### Ploteo de la señal
