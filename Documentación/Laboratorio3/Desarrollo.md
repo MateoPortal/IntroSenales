@@ -81,15 +81,15 @@ En la figura se observa la colocación de los electrodos en el músculo bíceps,
 
 
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/reposo.jpeg" alt="1" width="40%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/pasivo_nuevo.png" alt="1" width="40%">
 <p align="center">
- Ploteo del músculo en relajación</em>
+ Ploteo en OpenSignals del músculo en relajación</em>
   </p>
   
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/activo.jpeg" alt="1" width="40%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/activo_nuevo.png" alt="1" width="40%">
  <p align="center">
- Ploteo del músculo en flexión</em>
+ Ploteo en OpenSignals del músculo en contracción</em>
   </p>
 
 
