@@ -71,28 +71,27 @@ Utilizamos la entrada EMG de Bitalino. Dos de los electrodos fueron colocados en
  
 ### Video de señal
 En el siguiente video, observamos cómo cambia la señal del Bitalino dependiendo si el músculo en cuestión permanece en reposo o realiza flexión.
+<iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/embed/UmX4kyB2wfg"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
 
 ### Ploteo de la señal
-
-
-<p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/reposo.png" alt="1" width="100%">
-  </p>
-  
-<p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/activo.png" alt="1" width="100%">
-  </p>
-  
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/senal_bitalino.jpeg" alt="1" width="100%">
   </p>
-  
-<p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/figuraeditada.png" alt="1" width="100%">
-  </p>
 
 ### Resumen de la señal 
+La señal obtenida representa la respuesta en el tiempo de la amplitud de la señal EMG. Se realizó la secuencia relajación-flexión-relajación-flexión. Observamos que durante la etapa de relajación o reposo, la amplitud de la señal es mucho menor a comparación de cuando el músculo realiza flexión, o en otras palabras, cuando el bíceps se contrae.
 
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/brazo_reposo.jpeg" alt="Brazo en relajación" width="40%">
+  </p>
 ### Archivo de datos de la señal ploteada
 
 ### Ploteo de la señal en Python
