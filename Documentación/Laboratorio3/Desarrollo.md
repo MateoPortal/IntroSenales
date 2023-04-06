@@ -103,7 +103,7 @@ Se realizó la secuencia relajación-flexión-relajación-flexión. Observamos q
   </p>
   
 # Archivo de datos de la señal ploteada
-
+[Data cruda del EMG](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/emg.txt)
 
 ### Codigo en Python
 
