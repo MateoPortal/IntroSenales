@@ -57,6 +57,7 @@ Es un manual que explica cómo configurar y utilizar BITalino. Incluye informaci
 ## Procedimientos
 
 ### Fotos de conexion
+Utilizamos la entrada EMG de Bitalino. Dos de los electrodos fueron colocados en el músculo Bisceps y un tercero en el hueso de la muñeca, este funciona como "tierra"
 
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/tree/main/Documentaci%C3%B3n/Laboratorio3/Pictures/electrodos_en_biceps.jpeg" alt="1" width="25%">
