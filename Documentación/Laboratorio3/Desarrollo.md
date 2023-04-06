@@ -98,6 +98,7 @@ Se realizó la secuencia relajación-flexión-relajación-flexión. Observamos q
 
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/brazo_reposo.jpeg" width="40%"> 
+ 
  Brazo en relajación</em>
   </p>
   
