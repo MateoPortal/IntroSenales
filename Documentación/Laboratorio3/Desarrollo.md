@@ -109,10 +109,9 @@ Se realizó la secuencia relajación-flexión-relajación-flexión. Observamos q
   
 ### Archivo de datos de la señal ploteada
 
-### Ploteo de la señal en Python
+### Codigo en Python
 
 # Lectura y graficación de una señal almacenada en un archivo txt
-
 
 ```python
 import numpy as np
@@ -123,7 +122,6 @@ import re
 ```
 
 ## Abrimos el archivo txt para ver  el contenido
-
 
 ```python
 f = open("signal1.txt","r")
@@ -226,10 +224,8 @@ plt.subplot(3,2,6);plt.plot(np.arange(len(data_mV[14000:])),data_mV[14000:]),plt
 
 
     
-![png](output_9_1.png)
-    
-
-
+!
+   
 ## Ploteamos la lectura
 
 
@@ -244,7 +240,7 @@ plt.show()
 
 
     
-![png](output_11_0.png)
+!
     
 
 
@@ -277,9 +273,9 @@ plt.title("FFT en el decibelios")
 plt.show()
 ```
     
-![png](output_13_0.png)
+!
     
-
+## Resultado del ploteo de la señal en Python
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/plot1.jpeg" alt="1" width="100%">
   </p>
