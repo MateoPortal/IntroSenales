@@ -75,7 +75,14 @@ En el siguiente video, observamos cómo cambia la señal del Bitalino dependiend
 
 ### Ploteo de la señal
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/senal_bitalino.jpeg" alt="1" width="100%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/reposo.jpeg" alt="1" width="100%">
+<p align="center">
+ Ploteo del músculo en relajación</em>
+  </p>
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/activo.jpeg" alt="1" width="100%">
+ <p align="center">
+ Ploteo del músculo en flexión</em>
   </p>
 
 Resumen de la señal 
