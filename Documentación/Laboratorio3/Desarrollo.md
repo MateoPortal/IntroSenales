@@ -79,13 +79,15 @@ En el siguiente video, observamos cómo cambia la señal del Bitalino dependiend
 <p align="center">
  Ploteo del músculo en relajación</em>
   </p>
+  
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/activo.jpeg" alt="1" width="100%">
  <p align="center">
  Ploteo del músculo en flexión</em>
   </p>
 
-Resumen de la señal 
+Resumen de la señal:
+
 Se realizó la secuencia relajación-flexión-relajación-flexión. Observamos que durante la etapa de relajación o reposo, las señales ploteadas adquiridas son las que presentan una muy baja amplitud en mV. En este caso, la amplitud de la señal es mucho menor a comparación de cuando el músculo realiza flexión, o en otras palabras, cuando el bíceps se contrae.
 
 <p align="center">
