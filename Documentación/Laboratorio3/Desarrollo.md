@@ -68,7 +68,7 @@ Utilizamos la entrada EMG de Bitalino. Dos de los electrodos fueron colocados en
 
  
  
-### Video de señal
+#Video del experimento 
 En el siguiente video, observamos cómo cambia la señal del Bitalino dependiendo si el músculo en cuestión permanece en reposo o realiza flexión.
 "https://www.youtube.com/embed/UmX4kyB2wfg"
  
@@ -78,7 +78,7 @@ En el siguiente video, observamos cómo cambia la señal del Bitalino dependiend
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/senal_bitalino.jpeg" alt="1" width="100%">
   </p>
 
-### Resumen de la señal 
+Resumen de la señal 
 Se realizó la secuencia relajación-flexión-relajación-flexión. Observamos que durante la etapa de relajación o reposo, las señales ploteadas adquiridas son las que presentan una muy baja amplitud en mV. En este caso, la amplitud de la señal es mucho menor a comparación de cuando el músculo realiza flexión, o en otras palabras, cuando el bíceps se contrae.
 
 <p align="center">
@@ -93,7 +93,7 @@ Se realizó la secuencia relajación-flexión-relajación-flexión. Observamos q
  Brazo en flexion</em>
   </p>
   
-### Archivo de datos de la señal ploteada
+# Archivo de datos de la señal ploteada
 
 
 ### Codigo en Python
@@ -202,7 +202,7 @@ plt.subplot(3,2,6);plt.plot(np.arange(len(data_mV[14000:])),data_mV[14000:]),plt
      Text(0.5, 1.0, 'EMG de superficie en músculo biceps: reposo-contracción 2-reposo'))
 
 
-#Ploteamos la lectura
+####Ploteamos la lectura
 
 
 ```python
@@ -243,7 +243,7 @@ plt.show()
     
 !
     
-## Resultado del ploteo de la señal en Python
+Resultados del ploteo de la señal en Python
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/plot1.jpeg" alt="1" width="100%">
   </p>
@@ -256,5 +256,3 @@ plt.show()
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/Frequency.jpeg" alt="1" width="100%">
   </p>
-  
-## Resultados
