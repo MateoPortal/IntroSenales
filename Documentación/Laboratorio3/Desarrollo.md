@@ -78,7 +78,7 @@ En el siguiente video, observamos cómo cambia la señal del Bitalino dependiend
   </p>
 
 ### Resumen de la señal 
-
+La señal obtenida representa la respuesta en el tiempo de la amplitud de la señal EMG. Se realizó la secuencia relajación-flexión-relajación-flexión. Observamos que durante la etapa de relajación o reposo, la amplitud de la señal es mucho menor a comparación de cuando el músculo realiza flexión, o en otras palabras, cuando el bíceps se contrae.
 ### Archivo de datos de la señal ploteada
 
 ### Ploteo de la señal en Python
