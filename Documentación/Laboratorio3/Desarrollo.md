@@ -88,7 +88,8 @@ En el siguiente video, observamos cómo cambia la señal del Bitalino dependiend
 
 Resumen de la señal:
 
-Se realizó la secuencia relajación-flexión-relajación-flexión. Observamos que durante la etapa de relajación o reposo, las señales ploteadas adquiridas son las que presentan una muy baja amplitud en mV. En este caso, la amplitud de la señal es mucho menor a comparación de cuando el músculo realiza flexión, o en otras palabras, cuando el bíceps se contrae.
+En la figura se observa la colocación de los electrodos en el músculo bíceps, utilizados con la finalidad de obtener una señal durante el reposo y flexión del músculo en cuestión. En el estado de reposo,  las señales ploteadas adquiridas son las que presentan una muy baja amplitud en mV . Por el otro lado, cuando se realiza la flexión se puede apreciar que la señal adquiere un mayor valor de voltaje. La amplitud y duración de cada pico varía, lo que indica distintos niveles de fuerza. Por otro lado, también se aprecia en la grafica [Grafica de frecuencias vs dB] la presencia de bajas frecuencias en la señal, esto se debe probablemente a la interferencia de músculos cercanos con alta actividad o de las fuentes eléctricas cercanas, esto último explicaría el pico presente en la señal en aproximadamente 60 Hz. En general, la señal es una representación clara y bien definida del cambio de actividad del músculo, con un detalle suficiente como para una análisis e interpretación.
+
 
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/brazo_reposo.jpeg" width="40%"> 
@@ -103,7 +104,7 @@ Se realizó la secuencia relajación-flexión-relajación-flexión. Observamos q
   </p>
   
 # Archivo de datos de la señal ploteada
-[Data cruda del EMG](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/emg.txt)
+[Descargar raw data del EMG](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/emg.txt)
 
 ### Codigo en Python
 
