@@ -120,5 +120,8 @@ Se realizó la secuencia relajación-flexión-relajación-flexión. Observamos q
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/plot3.jpeg" alt="1" width="100%">
   </p>
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/Frequency.jpeg" alt="1" width="100%">
+  </p>
   
 ## Resultados
