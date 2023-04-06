@@ -59,7 +59,7 @@ Es un manual que explica cómo configurar y utilizar BITalino. Incluye informaci
 ### Fotos de conexion
 
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/b369fe5e0d1f1d11d12c900606117ab97e5308a4/Documentaci%C3%B3n/Laboratorio3/Pictures/conexion1.jpeg" alt="1" width="25%">
+  <img src="https://raw.githubusercontent.com/MateoPortal/IntroSenales/Laboratorio3/Pictures/conexion1.jpeg" alt="1" width="25%">
   </p>
   
 ### Video de señal
