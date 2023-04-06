@@ -70,22 +70,8 @@ Utilizamos la entrada EMG de Bitalino. Dos de los electrodos fueron colocados en
  
 ### Video de señal
 En el siguiente video, observamos cómo cambia la señal del Bitalino dependiendo si el músculo en cuestión permanece en reposo o realiza flexión.
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/embed/UmX4kyB2wfg"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UmX4kyB2wfg" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LxSqwbDHh7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="<iframe width="560" height="315" src="https://www.youtube.com/embed/LxSqwbDHh7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>" frameborder="0" allowfullscreen></iframe>
-
+"https://www.youtube.com/embed/UmX4kyB2wfg"
+ 
 
 ### Ploteo de la señal
 <p align="center">
@@ -109,6 +95,7 @@ Se realizó la secuencia relajación-flexión-relajación-flexión. Observamos q
   
 ### Archivo de datos de la señal ploteada
 
+
 ### Codigo en Python
 
 # Lectura y graficación de una señal almacenada en un archivo txt
@@ -120,9 +107,6 @@ import pandas as pd
 import seaborn as sns
 import re
 ```
-
-## Abrimos el archivo txt para ver  el contenido
-
 ```python
 f = open("signal1.txt","r")
 raw_data = f.readline()  # con f.read() leemos todo el contenido
@@ -140,7 +124,7 @@ raw_data
 
 
 ```python
-## Expresion regular para buscar automaticamente el contenido de un numero dentro de un string
+
 x = re.findall("[0-5][0-9]\d", raw_data)
 
 print(x)
@@ -161,8 +145,7 @@ print(f" Fs={Fs} hz\n Ts={Ts} s")
      Ts=0.0025 s
     
 
-## Leemos el archivo excluyendo las 2 primeras filas del archivo
-
+# Leemos el archivo excluyendo las 3 primeras filas del archivo
 
 ```python
 array = np.genfromtxt("./emg.txt", delimiter="\t",skip_header = 3)
@@ -221,12 +204,7 @@ plt.subplot(3,2,6);plt.plot(np.arange(len(data_mV[14000:])),data_mV[14000:]),plt
      Text(0.5, 1.0, 'EMG de superficie en músculo biceps: reposo-contracción 2-reposo'))
 
 
-
-
-    
-!
-   
-## Ploteamos la lectura
+#Ploteamos la lectura
 
 
 ```python
@@ -237,14 +215,6 @@ plt.ylabel("Amplitud")
 plt.legend(loc="upper right")
 plt.show()
 ```
-
-
-    
-!
-    
-
-
-## La forma de sabes la frecuencia de la señal es viendo en el dominio de la frecuencia
 
 
 ```python
