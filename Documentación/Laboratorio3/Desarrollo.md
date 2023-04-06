@@ -85,6 +85,9 @@ En el siguiente video, observamos cómo cambia la señal del Bitalino dependiend
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LxSqwbDHh7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="<iframe width="560" height="315" src="https://www.youtube.com/embed/LxSqwbDHh7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>" frameborder="0" allowfullscreen></iframe>
+
+
 ### Ploteo de la señal
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/senal_bitalino.jpeg" alt="1" width="100%">
