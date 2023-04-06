@@ -16,7 +16,7 @@
 ### BITalino
 
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/503321ac6b98dd412af11dc4987800b30d8a27e1/Documentaci%C3%B3n/Laboratorio3/Pictures/Bitalino.jpeg" alt="bitalino" width="25%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/503321ac6b98dd412af11dc4987800b30d8a27e1/Documentaci%C3%B3n/Laboratorio3/Pictures/Bitalino.jpeg" alt="bitalino" width="45%">
   </p>
 
 ### Cable de 2 hilos
@@ -60,14 +60,22 @@ Es un manual que explica cómo configurar y utilizar BITalino. Incluye informaci
 Utilizamos la entrada EMG de Bitalino. Dos de los electrodos fueron colocados en el músculo Bisceps y un tercero en el hueso de la muñeca, este funciona como "tierra"
 
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/tree/main/Documentaci%C3%B3n/Laboratorio3/Pictures/electrodos_en_biceps.jpeg" alt="1" width="25%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/d6cd5bdafd6c2734a6577b80e178de1b1586cadd/Documentaci%C3%B3n/Laboratorio3/Pictures/electrodos_en_biceps.jpeg" alt="1" width="40%">
   </p>
-  
+ 
+ <p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/d6cd5bdafd6c2734a6577b80e178de1b1586cadd/Documentaci%C3%B3n/Laboratorio3/Pictures/electrodo_en_mu%C3%B1eca.jpeg" alt="1" width="40%">
+  </p>
+
+ 
+ 
 ### Video de señal
 En el siguiente video, observamos cómo cambia la señal del Bitalino dependiendo si el músculo en cuestión permanece en reposo o realiza flexión.
 
 ### Ploteo de la señal
-
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/senal_bitalino.jpeg" alt="1" width="40%">
+  </p>
 
 ### Resumen de la señal 
 
