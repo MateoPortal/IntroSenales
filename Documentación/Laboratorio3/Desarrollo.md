@@ -73,10 +73,24 @@ Utilizamos la entrada EMG de Bitalino. Dos de los electrodos fueron colocados en
 En el siguiente video, observamos cómo cambia la señal del Bitalino dependiendo si el músculo en cuestión permanece en reposo o realiza flexión.
 
 ### Ploteo de la señal
+
+
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/reposo.png" alt="1" width="100%">
+  </p>
+
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/activo.png" alt="1" width="100%">
+  </p>
+  
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/senal_bitalino.jpeg" alt="1" width="100%">
   </p>
-
+  
+  <p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/figuraeditada.png" alt="1" width="100%">
+</p>
+  
 ### Resumen de la señal 
 
 ### Archivo de datos de la señal ploteada
