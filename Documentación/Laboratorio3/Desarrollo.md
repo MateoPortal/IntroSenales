@@ -4,8 +4,7 @@
  1. [Objetivos](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Desarrollo.md#Objetivos)
  2. [Materiales](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Desarrollo.md#Materiales)
  3. [Procedimientos](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Desarrollo.md#Procedimientos)
- 4. [Resultados] (https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Desarrollo.md#Resultados)
-
+ 4. [Resultados] 
 
 ## Objetivos:
   1. Generar 3 señales sinusoidales con cierta frecuencia y amplitud.
