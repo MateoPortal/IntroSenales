@@ -111,6 +111,175 @@ Se realizó la secuencia relajación-flexión-relajación-flexión. Observamos q
 
 ### Ploteo de la señal en Python
 
+# Lectura y graficación de una señal almacenada en un archivo txt
+
+
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+import seaborn as sns
+import re
+```
+
+## Abrimos el archivo txt para ver  el contenido
+
+
+```python
+f = open("signal1.txt","r")
+raw_data = f.readline()  # con f.read() leemos todo el contenido
+f.close()
+
+raw_data
+```
+
+
+
+
+    'Fs=400\n'
+
+
+
+
+```python
+## Expresion regular para buscar automaticamente el contenido de un numero dentro de un string
+x = re.findall("[0-5][0-9]\d", raw_data)
+
+print(x)
+```
+
+    ['400']
+    
+
+
+```python
+Fs = float(x[0])
+Ts=1/Fs
+
+print(f" Fs={Fs} hz\n Ts={Ts} s")
+```
+
+     Fs=400.0 hz
+     Ts=0.0025 s
+    
+
+## Leemos el archivo excluyendo las 2 primeras filas del archivo
+
+
+```python
+array = np.genfromtxt("./emg.txt", delimiter="\t",skip_header = 3)
+array
+```
+
+
+
+
+    array([[  0.,   0.,   0., ...,   0., 476.,  nan],
+           [  1.,   0.,   0., ...,   0., 487.,  nan],
+           [  2.,   0.,   0., ...,   0., 493.,  nan],
+           ...,
+           [ 15.,   0.,   0., ...,   0., 479.,  nan],
+           [  0.,   0.,   0., ...,   0., 482.,  nan],
+           [  1.,   0.,   0., ...,   0., 494.,  nan]])
+
+
+
+
+```python
+array[:,-2]
+data_mV = (array[:,-2])*(3.3/1023) #resolucion*Vref/1023 segun el puerto A1 para EMG
+n=np.arange(0,len(data_mV)) #numero de muestras
+print(n)
+t=n/1000 #tiempo
+print(t)
+```
+
+    [    0     1     2 ... 22047 22048 22049]
+    [0.0000e+00 1.0000e-03 2.0000e-03 ... 2.2047e+01 2.2048e+01 2.2049e+01]
+    
+
+
+```python
+plt.figure(figsize=(20,20))
+plt.suptitle("Señal EMG en el tiempo y en el dominio discreto");
+plt.subplot(3,2,1);plt.plot(t,data_mV),plt.ylabel("mV"),plt.xlabel("Tiempo (s)"),plt.title("Señal completa de EMG de superficie en músculo biceps")
+plt.subplot(3,2,2);plt.plot(np.arange(len(data_mV)),data_mV),plt.ylabel("mV"),plt.xlabel("Número de muestras [n]"),plt.title("Señal completa de EMG de superficie en músculo biceps")
+
+t1=np.arange(0,len(data_mV[:14000]))/1000
+plt.subplot(3,2,3);plt.plot(t1,data_mV[:14000]),plt.ylabel("mV"),plt.xlabel("Tiempo (s)"),plt.title("EMG de superficie en músculo biceps: reposo-contracción 1-reposo")
+plt.subplot(3,2,4);plt.plot(np.arange(len(data_mV[:14000])),data_mV[:14000]),plt.ylabel("mV"),plt.xlabel("Número de muestras [n]"),plt.title("EMG de superficie en músculo biceps: reposo-contracción 1-reposo")
+
+t2=np.arange(0,len(data_mV[14000:]))/1000
+plt.subplot(3,2,5);plt.plot(t2,data_mV[14000:]),plt.ylabel("mV"),plt.xlabel("Tiempo (s)"),plt.title("EMG de superficie en músculo biceps: reposo-contracción 2-reposo")
+plt.subplot(3,2,6);plt.plot(np.arange(len(data_mV[14000:])),data_mV[14000:]),plt.ylabel("mV"),plt.xlabel("Número de muestras [n]"),plt.title("EMG de superficie en músculo biceps: reposo-contracción 2-reposo")
+```
+
+
+
+
+    ([<matplotlib.lines.Line2D at 0x1c971c5f310>],
+     Text(0, 0.5, 'mV'),
+     Text(0.5, 0, 'Número de muestras [n]'),
+     Text(0.5, 1.0, 'EMG de superficie en músculo biceps: reposo-contracción 2-reposo'))
+
+
+
+
+    
+![png](output_9_1.png)
+    
+
+
+## Ploteamos la lectura
+
+
+```python
+plt.plot(array[:,2], array[:], label="señal")      # graficamos la señal
+plt.grid(linestyle=":")
+plt.xlabel("Tiempo (s)")
+plt.ylabel("Amplitud")
+plt.legend(loc="upper right")
+plt.show()
+```
+
+
+    
+![png](output_11_0.png)
+    
+
+
+## La forma de sabes la frecuencia de la señal es viendo en el dominio de la frecuencia
+
+
+```python
+N = 2**10                                     # 10 bits, 0-1023
+Fs=1000
+signal1 = array[:,-2]
+
+signal_fft = np.fft.fft(signal1, N)           # fft magtinud
+signal_fft = np.round(np.abs(signal_fft),3)[0:N//2] # nos quedamos con los componente de la derecha de la FFT
+signal_aux = signal_fft/signal_fft.max()     # hallamos el maximo para pasar la magnitud a escala db
+
+with np.errstate(divide='ignore'):
+    signal_fft_db = 10*np.log10(signal_aux)  # , out=signal_aux, where=signal_aux >= 0 para evitar division por zero
+
+F_list = np.linspace(0,Fs/2, N//2)
+F = np.round(F_list[np.argmax(signal_fft_db)], 1)   # argmax, encuentra el argumento max en un array
+
+plt.plot(F_list, signal_fft_db)  #10 * np.log10(P / Pref) , decibelios
+plt.text(F,0, f"{F}Hz")
+plt.grid(linestyle=":")
+plt.ylabel("Magnitud (db)")
+plt.xlabel("Frecuencias (Hz)")
+plt.title("FFT en el decibelios")
+#plt.xlim([0,20])
+#plt.xticks(np.arange(0,200,10))
+plt.show()
+```
+    
+![png](output_13_0.png)
+    
+
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/plot1.jpeg" alt="1" width="100%">
   </p>
