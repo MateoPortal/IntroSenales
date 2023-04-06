@@ -98,8 +98,6 @@ Se realizó la secuencia relajación-flexión-relajación-flexión. Observamos q
 
 ### Codigo en Python
 
-# Lectura y graficación de una señal almacenada en un archivo txt
-
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
@@ -145,7 +143,7 @@ print(f" Fs={Fs} hz\n Ts={Ts} s")
      Ts=0.0025 s
     
 
-# Leemos el archivo excluyendo las 3 primeras filas del archivo
+#### Leemos el archivo excluyendo las 3 primeras filas del archivo
 
 ```python
 array = np.genfromtxt("./emg.txt", delimiter="\t",skip_header = 3)
