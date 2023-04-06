@@ -83,6 +83,7 @@ La señal obtenida representa la respuesta en el tiempo de la amplitud de la se�
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/brazo_reposo.jpeg" alt="Brazo en relajación" width="40%">
   </p>
+  
 ### Archivo de datos de la señal ploteada
 
 ### Ploteo de la señal en Python
