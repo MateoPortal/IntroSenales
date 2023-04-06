@@ -102,6 +102,12 @@ Se realizó la secuencia relajación-flexión-relajación-flexión. Observamos q
  Brazo en relajación</em>
   </p>
   
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/brazo_flexion.jpeg" width="40%"> 
+ <p align="center">
+ Brazo en flexion</em>
+  </p>
+  
 ### Archivo de datos de la señal ploteada
 
 ### Ploteo de la señal en Python
