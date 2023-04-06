@@ -202,7 +202,7 @@ plt.subplot(3,2,6);plt.plot(np.arange(len(data_mV[14000:])),data_mV[14000:]),plt
      Text(0.5, 1.0, 'EMG de superficie en músculo biceps: reposo-contracción 2-reposo'))
 
 
-####Ploteamos la lectura
+#### Ploteamos la lectura
 
 
 ```python
@@ -243,7 +243,7 @@ plt.show()
     
 !
     
-Resultados del ploteo de la señal en Python
+# Resultados del ploteo de la señal en Python
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/plot1.jpeg" alt="1" width="100%">
   </p>
