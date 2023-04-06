@@ -64,6 +64,7 @@ Utilizamos la entrada EMG de Bitalino. Dos de los electrodos fueron colocados en
   </p>
   
 ### Video de señal
+En el siguiente video, observamos cómo cambia la señal del Bitalino dependiendo si el músculo en cuestión permanece en reposo o realiza extensión.
 
 ### Ploteo de la señal
 
