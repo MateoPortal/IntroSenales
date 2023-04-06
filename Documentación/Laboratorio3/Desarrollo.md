@@ -111,4 +111,14 @@ Se realizó la secuencia relajación-flexión-relajación-flexión. Observamos q
 
 ### Ploteo de la señal en Python
 
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/plot1.jpeg" alt="1" width="100%">
+  </p>
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/plot2.jpeg" alt="1" width="100%">
+  </p>
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/plot3.jpeg" alt="1" width="100%">
+  </p>
+  
 ## Resultados
