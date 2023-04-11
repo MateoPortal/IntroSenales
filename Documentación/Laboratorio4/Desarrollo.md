@@ -8,8 +8,8 @@
 * Extraer la información de las señales EMG y ECG del software OpenSignals (r)evolutio
 
 # Tabla de contenidos
- 1. [Objetivos](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Desarrollo.md#Objetivos)
- 2. [Materiales](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Desarrollo.md#Materiales)
+ 1. [Objetivos](https://github.com/MateoPortal/IntroSenales/edit/main/Documentaci%C3%B3n/Laboratorio4/Desarrollo.md#objetivos-1)
+ 2. [Materiales](https://github.com/MateoPortal/IntroSenales/edit/main/Documentaci%C3%B3n/Laboratorio4/Desarrollo.md#materiales)
  3. [Procedimientos](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Desarrollo.md#Procedimientos)
  4. [Resultados](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Desarrollo.md#resultados-del-ploteo-de-la-se%C3%B1al-en-python)
 
