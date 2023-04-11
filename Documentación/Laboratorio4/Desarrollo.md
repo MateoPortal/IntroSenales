@@ -10,8 +10,8 @@
 # Tabla de contenidos
  1. [Objetivos](https://github.com/MateoPortal/IntroSenales/edit/main/Documentaci%C3%B3n/Laboratorio4/Desarrollo.md#objetivos-1)
  2. [Materiales](https://github.com/MateoPortal/IntroSenales/edit/main/Documentaci%C3%B3n/Laboratorio4/Desarrollo.md#materiales)
- 3. [Procedimientos](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Desarrollo.md#Procedimientos)
- 4. [Resultados](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Desarrollo.md#resultados-del-ploteo-de-la-se%C3%B1al-en-python)
+ 3. [Procedimientos](https://github.com/MateoPortal/IntroSenales/edit/main/Documentaci%C3%B3n/Laboratorio4/Desarrollo.md#procedimientos)
+ 4. [Resultados](https://github.com/MateoPortal/IntroSenales/edit/main/Documentaci%C3%B3n/Laboratorio4/Desarrollo.md#resultados-del-ploteo-de-la-se%C3%B1al-en-python)
 
 ## Objetivos:
   1. Generar 3 señales sinusoidales con cierta frecuencia y amplitud.
@@ -113,3 +113,18 @@ Resumen de la señal:
 [Descargar raw data del ECG](LINKPARA DESCARGAR)
 
 ### Codigo en Python
+
+
+# Resultados del ploteo de la señal en Python
+<p align="center">
+  <img src="IMAGENLINK" alt="1" width="100%">
+  </p>
+<p align="center">
+  <img src="IMAGENLINK" alt="1" width="100%">
+  </p>
+<p align="center">
+  <img src="IMAGENLINK" alt="1" width="100%">
+  </p>
+<p align="center">
+  <img src="IMAGENLINK" alt="1" width="100%">
+  </p>
