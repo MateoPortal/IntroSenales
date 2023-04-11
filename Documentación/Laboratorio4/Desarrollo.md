@@ -61,3 +61,55 @@ Es un manual que explica cómo configurar y utilizar BITalino. Incluye informaci
 - Para EMG se utilizó: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide1_EMG.pdf 
 
 - Para ECG se utilizó: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide2_ECG.pdf
+
+## Procedimientos
+
+### Fotos de conexion
+Utilizamos la entrada ECG de Bitalino. Dos de los electrodos fueron colocados en el músculo Bisceps y un tercero en un hueso ubicado en la zona de la muñeca, este funciona como "tierra"
+
+
+ 
+ 
+#Video del experimento 
+En el siguiente video, observamos cómo cambia la señal del Bitalino dependiendo si el músculo en cuestión permanece en reposo o realiza flexión.
+
+ 
+
+### Ploteo de la señal
+
+Resumen de la señal:
+
+
+
+
+<p align="center">
+  <img src="IMAGENLINK" alt="1" width="40%">
+<p align="center">
+ Ploteo en OpenSignals del músculo en relajación</em>
+  </p>
+  
+<p align="center">
+  <img src="IMAGENLINK" alt="1" width="40%">
+ <p align="center">
+ Ploteo en OpenSignals del músculo en contracción</em>
+  </p>
+
+
+
+
+<p align="center">
+  <img src="IMAGENLINK" width="40%"> 
+ <p align="center">
+ Brazo en relajación</em>
+  </p>
+  
+<p align="center">
+  <img src="IMAGENLINK" width="40%"> 
+ <p align="center">
+ Brazo en flexion</em>
+  </p>
+  
+# Archivo de datos de la señal ploteada
+[Descargar raw data del ECG](LINKPARA DESCARGAR)
+
+### Codigo en Python
