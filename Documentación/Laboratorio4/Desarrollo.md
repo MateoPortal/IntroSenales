@@ -129,14 +129,19 @@ Resumen de la señal:
 <p align="center">
   <i>Señal ECG en reposo</i>
   </p>
+  
 <p align="center">
   <img src="IMAGENLINK" alt="1" width="100%">
   </p>
 <p align="center">
+  <i>Señal ECG respiración profunda</i>
+  </p>
+
+<p align="center">
   <img src="IMAGENLINK" alt="1" width="100%">
   </p>
 <p align="center">
-  <img src="IMAGENLINK" alt="1" width="100%">
+  <i>Señal ECG después de actividad física</i>
   </p>
 
 # Bibliografía
