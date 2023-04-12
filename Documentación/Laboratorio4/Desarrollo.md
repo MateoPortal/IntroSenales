@@ -144,5 +144,8 @@ Resumen de la señal:
   <i>Señal ECG después de actividad física</i>
   </p>
 
+# Discusión
+
+
 # Bibliografía
 [1] “ELECTROCARDIOGRAMA DEFINICION.” Disponible en: http://www.areasaludplasencia.es/wasp/pdfs/7/711091.pdf
