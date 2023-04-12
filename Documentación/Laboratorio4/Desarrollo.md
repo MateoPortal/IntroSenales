@@ -145,4 +145,4 @@ Resumen de la señal:
   </p>
 
 # Bibliografía
-[1] “ELECTROCARDIOGRAMA DEFINICION.” Available: http://www.areasaludplasencia.es/wasp/pdfs/7/711091.pdf
+[1] “ELECTROCARDIOGRAMA DEFINICION.” Disponible en: http://www.areasaludplasencia.es/wasp/pdfs/7/711091.pdf
