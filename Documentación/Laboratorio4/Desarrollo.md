@@ -92,13 +92,13 @@ Resumen de la señal:
 <p align="center">
   <img src="IMAGENLINK" alt="1" width="40%">
 <p align="center">
- <i>Ploteo en OpenSignals del músculo en relajación<i></em>
+ <i>Ploteo en OpenSignals del músculo en relajación</i></em>
   </p>
   
 <p align="center">
   <img src="IMAGENLINK" alt="1" width="40%">
  <p align="center">
- <i>Ploteo en OpenSignals del músculo en contracción<i></em>
+ <i>Ploteo en OpenSignals del músculo en contracción</i></em>
   </p>
 
 
@@ -107,13 +107,13 @@ Resumen de la señal:
 <p align="center">
   <img src="IMAGENLINK" width="40%"> 
  <p align="center">
- Brazo en relajación</em>
+ <i>Brazo en relajación</i></em>
   </p>
   
 <p align="center">
   <img src="IMAGENLINK" width="40%"> 
  <p align="center">
- Brazo en flexion</em>
+ <i>Brazo en flexion</i></em>
   </p>
   
 # Archivo de datos de la señal ploteada
