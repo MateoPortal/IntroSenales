@@ -88,13 +88,26 @@ En el siguiente video, observamos cómo cambia la señal del Bitalino dependiend
 
 ### Ploteo de la señal
 
-Resumen de la señal:
+Ploteamos la señal ECG en milivoltios versus tiempo en los 3 casos que realizamos durante el laboratorio: en reposo, durante inhalación y exhalación y posterior a realizar actividad física.
 
 <p align="center">
  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/ecg_time.jpg" width="100%">
  </p>
  
-  
+Además, también se realizó el ploteo de la señal ECG en el dominio de la frecuencia, de igual manera en cada uno de los 3 casos ya mencionados.
+
+<p align="center">
+ <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/frec_reposo.jpg" width="100%">
+ </p>
+ 
+ <p align="center">
+ <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/ecg_resp.jpg" width="100%">
+ </p>
+ 
+ <p align="center">
+ <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/ecg_ejercicio.jpg" width="100%">
+ </p>
+ 
 # Archivo de datos de la señal ploteada
 [Descargar raw data del ECG](LINKPARA DESCARGAR)
 
