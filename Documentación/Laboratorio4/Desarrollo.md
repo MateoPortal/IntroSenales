@@ -12,7 +12,7 @@
  2. [Materiales](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Desarrollo.md#materiales)
  3. [Procedimientos](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Desarrollo.md#procedimientos)
  4. [Resultados](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Desarrollo.md#resultados-del-ploteo-de-la-se%C3%B1al-en-python)
- 5. [Bibliorafía](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Desarrollo.md#bibliograf%C3%ADa)
+ 5. [Bibliografía](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Desarrollo.md#bibliograf%C3%ADa)
 
 ## Objetivos:
   1. Generar 3 señales sinusoidales con cierta frecuencia y amplitud.
