@@ -91,7 +91,7 @@ En el siguiente video, observamos cómo cambia la señal del Bitalino dependiend
 Resumen de la señal:
 
 <p align="center">
- <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/ecg_tiempo.png" alt="2hilo" width="100%">
+ <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/ecg_time.jpg" width="100%">
  </p>
  
   
