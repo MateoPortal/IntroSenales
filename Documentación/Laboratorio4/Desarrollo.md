@@ -57,16 +57,7 @@ Es la fuente de energía para BITalino. La batería incluida en el kit es recarg
   <img src="https://github.com/MateoPortal/IntroSenales/blob/b369fe5e0d1f1d11d12c900606117ab97e5308a4/Documentaci%C3%B3n/Laboratorio3/Pictures/BATERIA.jpeg" alt="2hilo" width="25%">
   </p>
  
-### Conexion Final
 
-<p align="center">
- <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/conexion_final.jpeg" alt="2hilo" width="40%">
- </p>
- 
-<p align="center">
- <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/conexion_diego.jpeg" alt="2hilo" width="40%">
- </p>
- 
 ### 1 Guia de inicio rapido
 Es un manual que explica cómo configurar y utilizar BITalino. Incluye información sobre cómo conectar los electrodos, cómo cargar la batería, cómo configurar el software, entre otros aspectos relevantes. La guía de inicio rápido es fundamental para utilizar BITalino de forma efectiva y segura.
 - Para EMG se utilizó: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide1_EMG.pdf 
@@ -79,9 +70,18 @@ Es un manual que explica cómo configurar y utilizar BITalino. Incluye informaci
 Utilizamos la entrada ECG de Bitalino. Dos de los electrodos fueron colocados en la muñeca y un tercero en el hueso ..., este funciona como "tierra"
 
 
+<p align="center">
+ <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/conexion_final.jpeg" alt="2hilo" width="40%">
+ </p>
+ 
+<p align="center">
+ <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/conexion_diego.jpeg" alt="2hilo" width="40%">
+ </p>
  
  
-#Video del experimento 
+ 
+### Video del experimento 
+
 En el siguiente video, observamos cómo cambia la señal del Bitalino dependiendo si el músculo en cuestión permanece en reposo o realiza flexión.
 
  
@@ -90,35 +90,10 @@ En el siguiente video, observamos cómo cambia la señal del Bitalino dependiend
 
 Resumen de la señal:
 
-
-
-
 <p align="center">
-  <img src="IMAGENLINK" alt="1" width="40%">
-<p align="center">
- <i>Ploteo en OpenSignals del músculo en relajación</i></em>
-  </p>
-  
-<p align="center">
-  <img src="IMAGENLINK" alt="1" width="40%">
- <p align="center">
- <i>Ploteo en OpenSignals del músculo en contracción</i></em>
-  </p>
-
-
-
-
-<p align="center">
-  <img src="IMAGENLINK" width="40%"> 
- <p align="center">
- <i>Brazo en relajación</i></em>
-  </p>
-  
-<p align="center">
-  <img src="IMAGENLINK" width="40%"> 
- <p align="center">
- <i>Brazo en flexion</i></em>
-  </p>
+ <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/ecg_tiempo.png" alt="2hilo" width="40%">
+ </p>
+ 
   
 # Archivo de datos de la señal ploteada
 [Descargar raw data del ECG](LINKPARA DESCARGAR)
