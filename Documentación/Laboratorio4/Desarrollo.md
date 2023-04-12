@@ -101,11 +101,11 @@ Además, también se realizó el ploteo de la señal ECG en el dominio de la fre
  </p>
  
  <p align="center">
- <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/ecg_resp.jpg" width="100%">
+ <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/frec_resp.jpg" width="100%">
  </p>
  
  <p align="center">
- <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/ecg_ejercicio.jpg" width="100%">
+ <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/frec_ejercicio.jpg" width="100%">
  </p>
  
 # Archivo de datos de la señal ploteada
