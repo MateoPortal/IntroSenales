@@ -67,17 +67,19 @@ Es un manual que explica cómo configurar y utilizar BITalino. Incluye informaci
 ## Procedimientos
 
 ### Fotos de conexion
-Utilizamos la entrada ECG de Bitalino. Dos de los electrodos fueron colocados en la muñeca y un tercero en el hueso ..., este funciona como "tierra"
-
+Para el presente laboratorio, utilizamos la entrada ECG de Bitalino. 
 
 <p align="center">
  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/conexion_final.jpeg" alt="2hilo" width="40%">
  </p>
  
+ Dos de los electrodos fueron colocados en la muñeca y un tercero en el hueso ..., este funciona como "tierra"
+ 
 <p align="center">
  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/conexion_diego.jpeg" alt="2hilo" width="40%">
  </p>
  
+ Sin embargo, las lecturas que adquirimos de este primer arreglo no resultó la esperada. Consecuentemente, se decidió a cambiar de ubicación al electrodo positivo y al negativo.
  
  
 ### Video del experimento 
