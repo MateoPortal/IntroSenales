@@ -92,13 +92,13 @@ Resumen de la señal:
 <p align="center">
   <img src="IMAGENLINK" alt="1" width="40%">
 <p align="center">
- Ploteo en OpenSignals del músculo en relajación</em>
+ <i>Ploteo en OpenSignals del músculo en relajación<i></em>
   </p>
   
 <p align="center">
   <img src="IMAGENLINK" alt="1" width="40%">
  <p align="center">
- Ploteo en OpenSignals del músculo en contracción</em>
+ <i>Ploteo en OpenSignals del músculo en contracción<i></em>
   </p>
 
 
