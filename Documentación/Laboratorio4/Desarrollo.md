@@ -88,6 +88,20 @@ En el siguiente video, observamos cómo cambia la señal del Bitalino dependiend
 
 ### Ploteo de la señal
 
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/" width="100%">
+  </p>
+<p align="center">
+  <i>Señal ECG en OpenSignals</i>
+  </p>
+ 
+# Archivo de datos de la señal ploteada
+[Descargar raw data del ECG](LINKPARA DESCARGAR)
+
+### Codigo en Python
+
+
+# Resultados del ploteo de la señal en Python
 Ploteamos la señal ECG en milivoltios versus tiempo en los 3 casos que realizamos durante el laboratorio: en reposo, durante inhalación y exhalación y posterior a realizar actividad física.
 
 <p align="center">
@@ -97,40 +111,21 @@ Ploteamos la señal ECG en milivoltios versus tiempo en los 3 casos que realizam
 Además, también se realizó el ploteo de la señal ECG en el dominio de la frecuencia, de igual manera en cada uno de los 3 casos ya mencionados.
 
 <p align="center">
- <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/frec_reposo.jpg" width="100%">
- </p>
- 
- <p align="center">
- <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/frec_resp.jpg" width="100%">
- </p>
- 
- <p align="center">
- <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/frec_ejercicio.jpg" width="100%">
- </p>
- 
-# Archivo de datos de la señal ploteada
-[Descargar raw data del ECG](LINKPARA DESCARGAR)
-
-### Codigo en Python
-
-
-# Resultados del ploteo de la señal en Python
-<p align="center">
-  <img src="IMAGENLINK" alt="1" width="100%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/frec_reposo.jpg" width="100%">
   </p>
 <p align="center">
   <i>Señal ECG en reposo</i>
   </p>
   
 <p align="center">
-  <img src="IMAGENLINK" alt="1" width="100%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/frec_resp.jpg" width="100%">
   </p>
 <p align="center">
   <i>Señal ECG respiración profunda</i>
   </p>
 
 <p align="center">
-  <img src="IMAGENLINK" alt="1" width="100%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/frec_ejercicio.jpg" width="100%">
   </p>
 <p align="center">
   <i>Señal ECG después de actividad física</i>
