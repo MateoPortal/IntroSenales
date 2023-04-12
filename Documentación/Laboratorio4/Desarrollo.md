@@ -127,6 +127,9 @@ Resumen de la señal:
   <img src="IMAGENLINK" alt="1" width="100%">
   </p>
 <p align="center">
+  <i>Señal ECG en reposo</i>
+  </p>
+<p align="center">
   <img src="IMAGENLINK" alt="1" width="100%">
   </p>
 <p align="center">
