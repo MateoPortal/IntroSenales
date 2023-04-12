@@ -148,5 +148,5 @@ Resumen de la señal:
 
 
 # Bibliografía
-[1] “ELECTROCARDIOGRAMA DEFINICION.” Disponible en: http://www.areasaludplasencia.es/wasp/pdfs/7/711091.pdf
+[1] “ELECTROCARDIOGRAMA DEFINICION.” Disponible en: http://www.areasaludplasencia.es/wasp/pdfs/7/711091.pdf<br>
 [2] J. Gallo-Villegas, Medicina y Laboratorio. pp. 63–84, 2015. https://docs.bvsalud.org/biblioref/2021/04/907752/prueba-de-esfuerzo.pdf
