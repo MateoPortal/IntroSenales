@@ -81,6 +81,12 @@ Para el presente laboratorio, utilizamos la entrada ECG de Bitalino.
  
  Sin embargo, las lecturas que adquirimos de este primer arreglo no resultó la esperada. Consecuentemente, se decidió a cambiar de ubicación al electrodo positivo y al negativo.
  
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/electrodos_posicion.jpg" width="40%">
+  </p>
+<p align="center">
+  <i>Colocación de los electrodos</i>
+  </p>
  
 ### Video del experimento 
 
