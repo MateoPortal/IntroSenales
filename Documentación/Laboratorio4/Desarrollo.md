@@ -146,7 +146,7 @@ Tras una actividad física intensa, la señal del ECG puede experimentar cambios
 # Bibliografía
 [1] “ELECTROCARDIOGRAMA DEFINICION.” Disponible en: http://www.areasaludplasencia.es/wasp/pdfs/7/711091.pdf<br>
 [2] J. Gallo-Villegas, Medicina y Laboratorio. pp. 63–84, 2015. https://docs.bvsalud.org/biblioref/2021/04/907752/prueba-de-esfuerzo.pdf
-[3] "Using BITalino Mini with Electrocardiography (ECG) Sensor Application Notes". Disponible en:https://www.bitalino.com/storage/uploads/media/bitalino-application-notes---bitalino-mini-solo-ecg.pdf
+[3] "Using BITalino Mini with Electrocardiography (ECG) Sensor Application Notes". Disponible en:https://www.bitalino.com/storage/uploads/media/bitalino-application-notes---bitalino-mini-solo-ecg.pdf<br>
 [4] L. B. Andersen, N. Maffulli, J. A. Casajús, F. Pigozzi, and Y. P. Pitsiladis, "The future of electrocardiograms in pre-participation screening: a call to action," The Physician and Sportsmedicine, vol. 46, no. 1, pp. 1-3, 2018.<br>
 [5] M. Buchheit, M. Lacome, and Y. Cholley, "The use of GPS-based data in soccer: challenges and opportunities from an athlete and coach perspective," International Journal of Sports Physiology and Performance, vol. 14, no. 3, pp. 1-27, 2019.<br>
 [6] A. L. Goldberger, V. K. Le, and M. Lahiri, "Is the normal heart rate 'chaotic' due to respiration?" Chaos: An Interdisciplinary Journal of Nonlinear Science, vol. 28, no. 8, 085711, 2018.<br>
