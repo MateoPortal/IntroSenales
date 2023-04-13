@@ -99,7 +99,7 @@ https://youtu.be/BDQO8avbaoo <br/>
 [Descargar raw data del ECG](https://github.com/MateoPortal/IntroSenales/tree/main/Documentaci%C3%B3n/Laboratorio4/ECG_RawData)
 
 ### Codigo en Python
-[Visualizar código de procesamiento de las señales en Python](https://github.com/MateoPortal/IntroSenales/tree/main/Documentaci%C3%B3n/Laboratorio4/ECG_RawData)
+[Visualizar código de procesamiento de las señales en Python](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/ecg.py)
 
 # Resultados del ploteo de la señal en Python
 Ploteamos la señal ECG en milivoltios versus tiempo en los 3 casos que realizamos durante el laboratorio: en reposo, durante inhalación y exhalación y posterior a realizar actividad física.
