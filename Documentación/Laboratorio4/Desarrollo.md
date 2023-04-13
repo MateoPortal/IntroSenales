@@ -35,7 +35,7 @@ Se utiliza para conectar BITalino a los electrodos. Está compuesto por tres hil
   </p>
 
 
-### 5 electrodos
+### 3 electrodos
 Son sensores que se colocan en el cuerpo para medir la actividad eléctrica de los músculos, el corazón, el cerebro, entre otros. En el kit BITalino se incluyen cinco electrodos para poder realizar mediciones en distintas partes del cuerpo.
 
 <p align="center">
