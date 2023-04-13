@@ -37,7 +37,7 @@ Se utiliza para conectar BITalino a los electrodos. Está compuesto por tres hil
 
 
 ### 3 electrodos
-Son sensores que se colocan en el cuerpo para medir la actividad eléctrica de los músculos, el corazón, el cerebro, entre otros. En el kit BITalino se incluyen cinco electrodos para poder realizar mediciones en distintas partes del cuerpo.
+Son sensores que se colocan en el cuerpo para medir la actividad eléctrica de los músculos, el corazón, el cerebro, entre otros. En el kit BITalino se incluyen cinco electrodos para poder realizar mediciones en distintas partes del cuerpo. En esta oportunidad utilizamos la entrada para ECG.
 
 <p align="center">
   <img src="https://cdn.shopify.com/s/files/1/0146/9569/4436/products/Electrodo_Backvolt_Circular_2_800x.png?v=1565294606" alt="2hilo" width="25%">
@@ -54,7 +54,7 @@ Es la fuente de energía para BITalino. La batería incluida en el kit es recarg
 ## Procedimientos
 
 ### Fotos de conexion
-Para el presente laboratorio, utilizamos la entrada ECG de Bitalino. 
+Para el presente laboratorio, realizamos una conexión muy parecida a la sesión pasado; pero en esta oportunidad, como ya mencionamos, utilizamos la entrada ECG de Bitalino en vez de la entrada EMG. 
 
 <p align="center">
  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/conexion_final.jpeg" alt="2hilo" width="40%">
@@ -66,7 +66,7 @@ Para el presente laboratorio, utilizamos la entrada ECG de Bitalino.
  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/conexion_diego.jpeg" alt="2hilo" width="40%">
  </p>
  
- Sin embargo, las lecturas que adquirimos de este primer arreglo no resultó la esperada. Consecuentemente, se decidió a cambiar de ubicación al electrodo positivo y al negativo.
+ Sin embargo, las lecturas que adquirimos de este primer arreglo no resultaron ser las esperadas. Consecuentemente, se decidió cambiar de ubicación al electrodo positivo y al negativo.
  
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/electrodos.jpg" width="60%">
