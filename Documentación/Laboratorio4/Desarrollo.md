@@ -3,9 +3,9 @@
 ### Fecha: 12 de abril de 2023
 
 ## Objetivos
-* Adquirir señales biomédicas de EMG y ECG.
+* Adquirir señales biomédicas de ECG.
 * Hacer una correcta configuración de BiTalino.
-* Extraer la información de las señales EMG y ECG del software OpenSignals (r)evolutio
+* Extraer la información de las señales ECG del software OpenSignals (r)evolutio
 
 # Tabla de contenidos
  1. [Objetivos](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Desarrollo.md#objetivos-1)
