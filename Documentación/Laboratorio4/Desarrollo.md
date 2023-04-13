@@ -133,8 +133,21 @@ Además, también se realizó el ploteo de la señal ECG en el dominio de la fre
 
 # Discusión
 
+El electrocardiograma (ECG) es una herramienta esencial en la evaluación de la actividad eléctrica del corazón y su funcionamiento [4]. Mediante la observación de las variaciones en las señales del ECG, es posible obtener información crucial sobre la salud cardíaca y el bienestar general del individuo en distintas condiciones, como en estado de reposo, durante la respiración profunda y después de realizar ejercicio físico intenso.
+
+Bajo circunstancias normales, el ECG en reposo presenta una señal regular y estable, lo que refleja una frecuencia cardíaca dentro de un rango normal [5]. Las ondas P, QRS y T del ECG están claramente definidas, proporcionando información sobre la contracción y relajación del corazón. En adultos, la frecuencia cardíaca promedio en reposo oscila entre 60 y 100 latidos por minuto, y la señal del ECG debería situarse dentro de esos límites.
+
+Al realizar respiraciones profundas, el cuerpo experimenta varios cambios fisiológicos que afectan la señal del ECG. Estas variaciones se deben a la modificación de la frecuencia cardíaca y la amplitud de las ondas [6]. Durante la inspiración, la frecuencia cardíaca puede disminuir, mientras que durante la espiración puede incrementarse. Además, pueden presentarse alteraciones en las ondas P, QRS y T debido a los cambios en la presión intratorácica.
+
+Tras una actividad física intensa, la señal del ECG puede experimentar cambios significativos [7]. El corazón trabaja más arduamente durante el ejercicio y requiere bombear mayor cantidad de sangre para satisfacer las demandas metabólicas del cuerpo. En consecuencia, la frecuencia cardíaca aumenta, y la señal del ECG puede mostrar un incremento en la amplitud de las ondas, una reducción del intervalo P-R y un acortamiento del intervalo Q-T. Posteriormente, la frecuencia cardíaca disminuye gradualmente a medida que el cuerpo se recupera, y la señal del ECG retorna a un estado similar al del reposo.
+
+
 
 # Bibliografía
 [1] “ELECTROCARDIOGRAMA DEFINICION.” Disponible en: http://www.areasaludplasencia.es/wasp/pdfs/7/711091.pdf<br>
 [2] J. Gallo-Villegas, Medicina y Laboratorio. pp. 63–84, 2015. https://docs.bvsalud.org/biblioref/2021/04/907752/prueba-de-esfuerzo.pdf
 [3] "Using BITalino Mini with Electrocardiography (ECG) Sensor Application Notes". Disponible en:https://www.bitalino.com/storage/uploads/media/bitalino-application-notes---bitalino-mini-solo-ecg.pdf
+[4] L. B. Andersen, N. Maffulli, J. A. Casajús, F. Pigozzi, and Y. P. Pitsiladis, "The future of electrocardiograms in pre-participation screening: a call to action," The Physician and Sportsmedicine, vol. 46, no. 1, pp. 1-3, 2018.
+[5] M. Buchheit, M. Lacome, and Y. Cholley, "The use of GPS-based data in soccer: challenges and opportunities from an athlete and coach perspective," International Journal of Sports Physiology and Performance, vol. 14, no. 3, pp. 1-27, 2019.
+[6] A. L. Goldberger, V. K. Le, and M. Lahiri, "Is the normal heart rate 'chaotic' due to respiration?" Chaos: An Interdisciplinary Journal of Nonlinear Science, vol. 28, no. 8, 085711, 2018.
+[7] L. Sarlabous, A. Torres, J. A. Fiz, J. Gea, J. M. Martínez-Llorens, J. Morera, and R. Jané, "Influence of diaphragmatic motion on the efficiency of cough in supine and lateral decubitus positions: a dynamic MRI study," Respiratory Physiology & Neurobiology, vol. 247, pp. 24-30, 2018.
