@@ -84,10 +84,10 @@ En el siguiente video, observamos cómo cambia la señal del Bitalino dependiend
 ### Ploteo de la señal
 
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/" width="100%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/ecg_reposo.png" width="60%">
   </p>
 <p align="center">
-  <i>Señal ECG en OpenSignals</i>
+  <i>Señal ECG en OpenSignals, reposo</i>
   </p>
  
 # Archivo de datos de la señal ploteada
