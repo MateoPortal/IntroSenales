@@ -50,12 +50,6 @@ Es la fuente de energía para BITalino. La batería incluida en el kit es recarg
   </p>
  
 
-### 1 Guia de inicio rapido
-Es un manual que explica cómo configurar y utilizar BITalino. Incluye información sobre cómo conectar los electrodos, cómo cargar la batería, cómo configurar el software, entre otros aspectos relevantes. La guía de inicio rápido es fundamental para utilizar BITalino de forma efectiva y segura.
-- Para EMG se utilizó: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide1_EMG.pdf 
-
-- Para ECG se utilizó: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide2_ECG.pdf
-
 ## Procedimientos
 
 ### Fotos de conexion
