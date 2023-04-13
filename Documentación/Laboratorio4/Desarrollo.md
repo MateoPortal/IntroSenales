@@ -77,9 +77,13 @@ Para el presente laboratorio, utilizamos la entrada ECG de Bitalino.
  
 ### Video del experimento 
 
-En el siguiente video, observamos cómo cambia la señal del Bitalino dependiendo si el músculo en cuestión permanece en reposo o realiza flexión.
+En los siguientes videos, se presentan las señales adquiridas mediante los electrodos del dispositivo BITalino, los cuales fueron ubicados en la clavícula del individuo sometido a prueba.
 
-<video src="https://www.youtube.com/watch?v=ww7lRXT72hk"></video>
+Debido al tamaño de los videos(mayor a 10mb, lo cual no admite github), se decidió insertar links en youtube.
+
+https://youtu.be/ww7lRXT72hk
+https://youtu.be/EzKz_8wJHfU
+https://youtu.be/BDQO8avbaoo
 
 
 ### Ploteo de la señal
