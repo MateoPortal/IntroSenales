@@ -85,7 +85,7 @@ Para el presente laboratorio, utilizamos la entrada ECG de Bitalino.
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/electrodos_posicion.jpg" width="40%">
   </p>
 <p align="center">
-  <i>Colocación de los electrodos</i>
+  <i>Colocación de los electrodos [3]</i>
   </p>
  
 ### Video del experimento 
@@ -145,3 +145,4 @@ Además, también se realizó el ploteo de la señal ECG en el dominio de la fre
 # Bibliografía
 [1] “ELECTROCARDIOGRAMA DEFINICION.” Disponible en: http://www.areasaludplasencia.es/wasp/pdfs/7/711091.pdf<br>
 [2] J. Gallo-Villegas, Medicina y Laboratorio. pp. 63–84, 2015. https://docs.bvsalud.org/biblioref/2021/04/907752/prueba-de-esfuerzo.pdf
+[3] "Using BITalino Mini with Electrocardiography (ECG) Sensor Application Notes". Disponible en:https://www.bitalino.com/storage/uploads/media/bitalino-application-notes---bitalino-mini-solo-ecg.pdf
