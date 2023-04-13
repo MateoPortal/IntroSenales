@@ -54,7 +54,7 @@ Es la fuente de energía para BITalino. La batería incluida en el kit es recarg
 ## Procedimientos
 
 ### Fotos de conexion
-Para el presente laboratorio, realizamos una conexión muy parecida a la sesión pasado; pero en esta oportunidad, como ya mencionamos, utilizamos la entrada ECG de Bitalino en vez de la entrada EMG. 
+Para el presente laboratorio, realizamos una conexión muy parecida a la sesión pasada; pero en esta oportunidad, como ya mencionamos, utilizamos la entrada ECG de Bitalino en vez de la entrada EMG. 
 
 <p align="center">
  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/conexion_final.jpeg" alt="2hilo" width="40%">
