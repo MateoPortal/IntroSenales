@@ -21,6 +21,7 @@
 
 ## Materiales
 ### BITalino
+De igual forma que en el laboratorio 3, utilizamos la plataforma BITalino para el presente entregable
 
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/503321ac6b98dd412af11dc4987800b30d8a27e1/Documentaci%C3%B3n/Laboratorio3/Pictures/Bitalino.jpeg" alt="bitalino" width="45%">
