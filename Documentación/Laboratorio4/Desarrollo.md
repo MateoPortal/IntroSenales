@@ -79,7 +79,7 @@ Para el presente laboratorio, utilizamos la entrada ECG de Bitalino.
 
 En los siguientes videos, se presentan las señales adquiridas mediante los electrodos del dispositivo BITalino, los cuales fueron ubicados en la clavícula del individuo sometido a prueba.
 
-Debido al tamaño de los videos(mayor a 10mb, lo cual no admite github), se decidió insertar links en youtube.
+Debido al tamaño de los videos (mayor a 10 MB, lo cual no admite github), se decidió insertar los links correspondientes a cada video grabado.
 
 https://youtu.be/ww7lRXT72hk <br/>
 https://youtu.be/EzKz_8wJHfU <br/>
@@ -96,10 +96,10 @@ https://youtu.be/BDQO8avbaoo <br/>
   </p>
  
 # Archivo de datos de la señal ploteada
-[Descargar raw data del ECG](LINKPARA DESCARGAR)
+[Descargar raw data del ECG](https://github.com/MateoPortal/IntroSenales/tree/main/Documentaci%C3%B3n/Laboratorio4/ECG_RawData)
 
 ### Codigo en Python
-
+[Visualizar código de procesamiento de las señales en Python](https://github.com/MateoPortal/IntroSenales/tree/main/Documentaci%C3%B3n/Laboratorio4/ECG_RawData)
 
 # Resultados del ploteo de la señal en Python
 Ploteamos la señal ECG en milivoltios versus tiempo en los 3 casos que realizamos durante el laboratorio: en reposo, durante inhalación y exhalación y posterior a realizar actividad física.
