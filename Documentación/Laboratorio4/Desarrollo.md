@@ -79,7 +79,7 @@ Para el presente laboratorio, utilizamos la entrada ECG de Bitalino.
 
 En el siguiente video, observamos cómo cambia la señal del Bitalino dependiendo si el músculo en cuestión permanece en reposo o realiza flexión.
 
- 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/ww7lRXT72hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Ploteo de la señal
 
