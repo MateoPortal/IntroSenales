@@ -81,9 +81,7 @@ En los siguientes videos, se presentan las señales adquiridas mediante los elec
 
 Debido al tamaño de los videos (mayor a 10 MB, lo cual no admite github), se decidió insertar los links correspondientes a cada video grabado.
 
-https://youtu.be/ww7lRXT72hk <br/>
-https://youtu.be/EzKz_8wJHfU <br/>
-https://youtu.be/BDQO8avbaoo <br/>
+links
 
 
 ### Ploteo de la señal
