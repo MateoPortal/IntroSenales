@@ -141,7 +141,7 @@ Además, también se realizó el ploteo de la señal ECG en el dominio de la fre
 
 
 # Bibliografía
-[1] 
+[1] “BITalino (r)evolution Lab Guide.” Revisado en: Abril 19, 2023. [Online]. Disponible en: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf
 [2] 
 [3] 
 [4] 
