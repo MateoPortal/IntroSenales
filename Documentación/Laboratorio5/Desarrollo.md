@@ -16,9 +16,9 @@
  6. [Bibliografía](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Desarrollo.md#bibliograf%C3%ADa)
 
 ## Objetivos:
-  1. Generar 3 señales sinusoidales con cierta frecuencia y amplitud.
-  2. Guardar las señales adquiridas en el osciloscopio en archivo CSV y las adquiridas en ARDUINO mediante el ploteo por el código en ARDUINO IDLE.
-  3. Comparar una señal leída de un osciloscopio y el arduino Nano 33 IoT.
+  1. Adquirir señales biomédicas de EEG.
+  2. Hacer una correcta configuración de BITalino.
+  3. Extraer la información de las señales ECG del software OpenSignals (r)evolution
 
 ## Materiales
 ### BITalino
