@@ -50,7 +50,7 @@ Son sensores que se colocan en el cuerpo para medir la actividad eléctrica de l
 Para el presente laboratorio, realizamos una conexión muy parecida a la sesión pasada; pero en esta oportunidad, como ya mencionamos, utilizamos la entrada EEG de Bitalino en vez de la entrada ECG. Los electrodos fueron ubicados tomando como referencia la distribución proporcionada por la guía de laboratorio de BITalino.
 
 <p align="center">
- <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Im%C3%A1genes/Electrodos%20colocados.jpg" alt="2hilo" width="40%">
+ <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Im%C3%A1genes/Screenshot%202023-04-19%20121008.png" alt="2hilo" width="40%">
  </p>
 <p align="center">
   <i>Referencia de colocación de los electrodos [1]</i>
