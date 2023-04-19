@@ -63,6 +63,15 @@ Para el presente laboratorio, realizamos una conexión muy parecida a la sesión
   <i>Colocación de los electrodos y conexiones realizadas al BITalino</i>
   </p> 
  
+Las pruebas realizadas fueron vendando los ojos a la compañera a la que se le harían las pruebas. Le pedimos memorizar y repetir después de cinco minutos una secuencia de palabras simple y una compleja, además de pedirle que encuentre el resultado a dos problemas matemáticos, igualmente uno simple y uno complejo.
+
+<p align="center">
+ <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Im%C3%A1genes/vendada.jpeg" alt="2hilo" width="40%">
+ </p>
+<p align="center">
+  <i>Compañera con ojos vendados antes de realizar las pruebas</i>
+  </p> 
+ 
 ### Video del experimento 
 
 En los siguientes videos, se presentan las señales adquiridas mediante los electrodos del dispositivo BITalino, los cuales fueron ubicados según la distribución mostrada anteriormente.
