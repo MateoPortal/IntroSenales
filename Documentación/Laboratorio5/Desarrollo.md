@@ -25,7 +25,7 @@
 De igual forma que en el laboratorio 3, utilizamos la plataforma BITalino para el presente entregable
 
 <p align="center">
-  <img src="linkdelaimagen" alt="bitalino" width="45%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Im%C3%A1genes/bitalino%20y%20bateria.jpg" alt="bitalino" width="45%">
   </p>
 
 
@@ -33,7 +33,7 @@ De igual forma que en el laboratorio 3, utilizamos la plataforma BITalino para e
 Se utiliza para conectar BITalino a los electrodos. Está compuesto por tres hilos: uno para la transmisión de datos, otro para la transmisión de energía y un tercero para la conexión a tierra.
 
 <p align="center">
-  <img src="linkdelaimagen" alt="2hilo" width="25%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Im%C3%A1genes/electrodo%203%20hilos.jpg" alt="2hilo" width="25%">
   </p>
 
 
@@ -41,48 +41,51 @@ Se utiliza para conectar BITalino a los electrodos. Está compuesto por tres hil
 Son sensores que se colocan en el cuerpo para medir la actividad eléctrica de los músculos, el corazón, el cerebro, entre otros. En el kit BITalino se incluyen cinco electrodos para poder realizar mediciones en distintas partes del cuerpo. En esta oportunidad utilizamos la entrada para ECG.
 
 <p align="center">
-  <img src="linkdelaimagen" alt="2hilo" width="25%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Im%C3%A1genes/diodos%20separados.jpg" alt="2hilo" width="25%">
   </p>
 
 ### 1 Bateria
 Es la fuente de energía para BITalino. La batería incluida en el kit es recargable y tiene una capacidad de 700mAh.
 
 <p align="center">
-  <img src="linkdelaimagen" alt="2hilo" width="25%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Im%C3%A1genes/bitalino%20y%20bateria.jpg" alt="2hilo" width="25%">
   </p>
  
 
 ## Procedimientos
 
 ### Fotos de conexion
-Para el presente laboratorio, realizamos una conexión muy parecida a la sesión pasada; pero en esta oportunidad, como ya mencionamos, utilizamos la entrada ECG de Bitalino en vez de la entrada EMG. 
+Para el presente laboratorio, realizamos una conexión muy parecida a la sesión pasada; pero en esta oportunidad, como ya mencionamos, utilizamos la entrada EEG de Bitalino en vez de la entrada ECG. 
 
 <p align="center">
  <img src="linkdelaimagen" alt="2hilo" width="40%">
  </p>
  
- Dos de los electrodos(el positivo y el negativo) fueron colocados en cada una de las muñecas y el tercero(el electrodo de referencia), en la cresta iliaca
+ Los electrodos fueron ubicados tomando como referencia la distribución proporcionada por la guía de laboratorio de BITalino.
  
 <p align="center">
- <img src="linkdelaimagen" alt="2hilo" width="40%">
+ <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Im%C3%A1genes/Screenshot%202023-04-19%20121008.png" alt="2hilo" width="40%">
  </p>
- 
- Sin embargo, las lecturas que adquirimos de este primer arreglo no resultaron ser las esperadas. Consecuentemente, se decidió cambiar de ubicación al electrodo positivo y al negativo.
+<p align="center">
+  <i>Referencia de colocación de los electrodos [1]</i>
+  </p>
  
 <p align="center">
-  <img src="linkdelaimagen" width="60%">
-  </p>
+ <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Im%C3%A1genes/Screenshot%202023-04-19%20121008.png" alt="2hilo" width="40%">
+ </p>
 <p align="center">
-  <i>Colocación de los electrodos [3]</i>
-  </p>
+  <i>Colocación de los electrodos</i>
+  </p> 
  
 ### Video del experimento 
 
 En los siguientes videos, se presentan las señales adquiridas mediante los electrodos del dispositivo BITalino, los cuales fueron ubicados en la clavícula del individuo sometido a prueba.
 
-Debido al tamaño de los videos (mayor a 10 MB, lo cual no admite github), se decidió insertar los links correspondientes a cada video grabado.
+Debido al tamaño de los videos (mayor a 10 MB, lo cual no admite GitHub), se decidió insertar los links correspondientes a cada video grabado.
 
-links
+- link
+- link
+- link
 
 
 ### Ploteo de la señal
@@ -101,7 +104,7 @@ links
 [Visualizar código de procesamiento de las señales en Python](linkparaver)
 
 # Resultados del ploteo de la señal en Python
-Ploteamos la señal ECG en milivoltios versus tiempo en los 3 casos que realizamos durante el laboratorio: en reposo, durante inhalación y exhalación y posterior a realizar actividad física.
+Ploteamos la señal EEG en milivoltios versus tiempo en los 3 casos que realizamos durante el laboratorio: en reposo, durante inhalación y exhalación y posterior a realizar actividad física.
 
 <p align="center">
  <img src="linkdelaimagen" width="100%">
@@ -142,8 +145,7 @@ Además, también se realizó el ploteo de la señal ECG en el dominio de la fre
 
 
 # Bibliografía
-[a] “BITalino (r)evolution Lab Guide.” Revisado en: Abril 19, 2023. [Online]. Disponible en: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf
-[1]
+[1] “BITalino (r)evolution Lab Guide.” Revisado en: Abril 19, 2023. [Online]. Disponible en: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf
 [2] 
 [3] 
 [4] 
