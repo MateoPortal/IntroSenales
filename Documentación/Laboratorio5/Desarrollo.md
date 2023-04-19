@@ -5,7 +5,7 @@
 ## Objetivos
 * Adquirir señales biomédicas de EEG.
 * Hacer una correcta configuración de BiTalino.
-* Extraer la información de las señales EEG del software OpenSignals (r)evolutio
+* Extraer la información de las señales EEG del software OpenSignals (r)evolution
 
 # Tabla de contenidos
  1. [Objetivos]()
