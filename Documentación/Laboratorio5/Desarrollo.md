@@ -132,7 +132,7 @@ Además, también se realizó el ploteo de la señal ECG en el dominio de la fre
 # Discusión
 
 <p align="center">
-  <img src="Screenshot 2023-04-19 112220.png" width="100%">
+  <img src="Screenshot 2023-04-19 112220.png](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Im%C3%A1genes/Screenshot%202023-04-19%20112220.png" width="100%">
   </p>
 <p align="center">
   <i>Funciones de los lóbulos del cerebro</i>
