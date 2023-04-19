@@ -60,7 +60,7 @@ Para el presente laboratorio, realizamos una conexión muy parecida a la sesión
  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Im%C3%A1genes/Electrodos%20colocados.jpg" alt="2hilo" width="40%">
  </p>
 <p align="center">
-  <i>Colocación de los electrodos</i>
+  <i>Colocación de los electrodos y conexiones realizadas al BITalino</i>
   </p> 
  
 ### Video del experimento 
