@@ -135,13 +135,14 @@ Además, también se realizó el ploteo de la señal ECG en el dominio de la fre
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Im%C3%A1genes/Screenshot%202023-04-19%20112220.png" width="100%">
   </p>
 <p align="center">
-  <i>Funciones de los lóbulos del cerebro</i>
+  <i>Funciones de los lóbulos del cerebro [a]</i>
   </p>
 
 
 
 # Bibliografía
-[1] “BITalino (r)evolution Lab Guide.” Revisado en: Abril 19, 2023. [Online]. Disponible en: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf
+[a] “BITalino (r)evolution Lab Guide.” Revisado en: Abril 19, 2023. [Online]. Disponible en: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf
+[1]
 [2] 
 [3] 
 [4] 
