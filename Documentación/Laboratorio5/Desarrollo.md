@@ -21,8 +21,8 @@
   3. Extraer la información de las señales EEG del software OpenSignals (r)evolution
 
 ## Materiales
-### BITalino
-De igual forma que en el laboratorio 3, utilizamos la plataforma BITalino para el presente entregable
+### BITalino y batería
+De igual forma que en el laboratorio 3, utilizamos la plataforma BITalino para el presente entregable con una batería que está incluida en el kit. Es recargable y tiene una capacidad de 700mAh.
 
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Im%C3%A1genes/bitalino%20y%20bateria.jpg" alt="bitalino" width="45%">
@@ -42,36 +42,22 @@ Son sensores que se colocan en el cuerpo para medir la actividad eléctrica de l
 
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Im%C3%A1genes/diodos%20separados.jpg" alt="2hilo" width="25%">
-  </p>
-
-### 1 Bateria
-Es la fuente de energía para BITalino. La batería incluida en el kit es recargable y tiene una capacidad de 700mAh.
-
-<p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Im%C3%A1genes/bitalino%20y%20bateria.jpg" alt="2hilo" width="25%">
-  </p>
- 
+  </p> 
 
 ## Procedimientos
 
 ### Fotos de conexion
-Para el presente laboratorio, realizamos una conexión muy parecida a la sesión pasada; pero en esta oportunidad, como ya mencionamos, utilizamos la entrada EEG de Bitalino en vez de la entrada ECG. 
+Para el presente laboratorio, realizamos una conexión muy parecida a la sesión pasada; pero en esta oportunidad, como ya mencionamos, utilizamos la entrada EEG de Bitalino en vez de la entrada ECG. Los electrodos fueron ubicados tomando como referencia la distribución proporcionada por la guía de laboratorio de BITalino.
 
 <p align="center">
- <img src="linkdelaimagen" alt="2hilo" width="40%">
- </p>
- 
- Los electrodos fueron ubicados tomando como referencia la distribución proporcionada por la guía de laboratorio de BITalino.
- 
-<p align="center">
- <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Im%C3%A1genes/Screenshot%202023-04-19%20121008.png" alt="2hilo" width="40%">
+ <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Im%C3%A1genes/Electrodos%20colocados.jpg" alt="2hilo" width="40%">
  </p>
 <p align="center">
   <i>Referencia de colocación de los electrodos [1]</i>
   </p>
  
 <p align="center">
- <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Im%C3%A1genes/Screenshot%202023-04-19%20121008.png" alt="2hilo" width="40%">
+ <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Im%C3%A1genes/Electrodos%20colocados.jpg" alt="2hilo" width="40%">
  </p>
 <p align="center">
   <i>Colocación de los electrodos</i>
