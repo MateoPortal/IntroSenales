@@ -131,6 +131,12 @@ Además, también se realizó el ploteo de la señal ECG en el dominio de la fre
 
 # Discusión
 
+<p align="center">
+  <img src="Screenshot 2023-04-19 112220.png" width="100%">
+  </p>
+<p align="center">
+  <i>Funciones de los lóbulos del cerebro</i>
+  </p>
 
 
 
