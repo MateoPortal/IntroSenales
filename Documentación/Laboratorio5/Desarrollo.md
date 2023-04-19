@@ -18,7 +18,7 @@
 ## Objetivos:
   1. Adquirir señales biomédicas de EEG.
   2. Hacer una correcta configuración de BITalino.
-  3. Extraer la información de las señales ECG del software OpenSignals (r)evolution
+  3. Extraer la información de las señales EEG del software OpenSignals (r)evolution
 
 ## Materiales
 ### BITalino
@@ -79,7 +79,7 @@ Para el presente laboratorio, realizamos una conexión muy parecida a la sesión
  
 ### Video del experimento 
 
-En los siguientes videos, se presentan las señales adquiridas mediante los electrodos del dispositivo BITalino, los cuales fueron ubicados en la clavícula del individuo sometido a prueba.
+En los siguientes videos, se presentan las señales adquiridas mediante los electrodos del dispositivo BITalino, los cuales fueron ubicados según la distribución mostrada anteriormente.
 
 Debido al tamaño de los videos (mayor a 10 MB, lo cual no admite GitHub), se decidió insertar los links correspondientes a cada video grabado.
 
@@ -110,7 +110,7 @@ Ploteamos la señal EEG en milivoltios versus tiempo en los 3 casos que realizam
  <img src="linkdelaimagen" width="100%">
  </p>
  
-Además, también se realizó el ploteo de la señal ECG en el dominio de la frecuencia, de igual manera en cada uno de los 3 casos ya mencionados.
+Además, también se realizó el ploteo de la señal EEG en el dominio de la frecuencia, de igual manera en cada uno de los 3 casos ya mencionados.
 
 <p align="center">
   <img src="linkdelaimagen" width="100%">
