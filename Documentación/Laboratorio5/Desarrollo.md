@@ -118,6 +118,9 @@ Debido al tamaño de los videos (mayor a 10 MB, lo cual no admite GitHub), se de
   <i>Señal EEG en OpenBCI, segunda pregunta compleja</i>
   </p>
 
+# Código usado
+[Descargar código de Python](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/py.txt)
+
 # Datos ploteados
 [Descargar .txt del EEG](https://github.com/MateoPortal/IntroSenales/tree/main/Documentaci%C3%B3n/Laboratorio5/Ejercicios)
 
