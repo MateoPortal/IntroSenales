@@ -76,11 +76,12 @@ Las pruebas realizadas fueron vendando los ojos a la compañera a la que se le h
 
 En los siguientes videos, se presentan las señales adquiridas mediante los electrodos del dispositivo BITalino, los cuales fueron ubicados según la distribución mostrada anteriormente.
 
-Debido al tamaño de los videos (mayor a 10 MB, lo cual no admite GitHub), se decidió insertar los links correspondientes a cada video grabado.
+Debido al tamaño de los videos (mayor a 10 MB, lo cual no admite GitHub), se decidió insertar la lista de reproduccion de los experimentos realizados.
 
-- link
-- link
-- link
+[![Alt text](https://img.youtube.com/vi/PLxvSOOUjLVFjCd0TcEhHNcCiBGNQsKtGS/0.jpg)](https://www.youtube.com/playlist?list=PLxvSOOUjLVFjCd0TcEhHNcCiBGNQsKtGS)
+
+
+
 
 
 ### Ploteo de la señal
