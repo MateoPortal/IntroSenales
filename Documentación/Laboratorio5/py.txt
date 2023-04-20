@@ -1,0 +1,62 @@
+path = '/content/drive/MyDrive/PUCP/2023-1/INTRO A SEÑALES/OpenBCI-RAW-2023-04-19_12-56-16.txt'
+df = pd.read_csv(path, index_col=0)
+pd.set_option('display.max_rows', None)  # Replace '100' with your desired number of rows
+pd.set_option('display.max_columns', None)  # Replace '50' with your desired number of columns
+
+lst = [
+ ' Accel Channel 0',
+ ' Accel Channel 1',
+ ' Accel Channel 2',
+ ' Other',
+ ' Other.1',
+ ' Other.2',
+ ' Other.3',
+ ' Other.4',
+ ' Other.5',
+ ' Other.6',
+ ' Analog Channel 0',
+ ' Analog Channel 1',
+ ' Analog Channel 2',
+ ' Timestamp',
+ ' Other.7',
+ ' Timestamp (Formatted)']
+df = df.drop(lst, axis = 1)
+df.reset_index(drop=True, inplace=True)
+df.index = df.index / 250
+
+
+scaling_factor = 1 / 100
+df_scaled = df * scaling_factor
+
+# Assuming your DataFrame is called df_scaled
+
+fig, axes = plt.subplots(8, 1, figsize=(10, 15), sharex=True)
+
+# Define the time intervals and titles
+time_intervals = [(0, 6), (6, 12), (21, 65), (66, 105), (106, 125)]
+titles = ['Primera Pregunta ', 'Segunda Pregunta', 'Primera Pregunta Compleja',
+          'Segunda Pregunta Compleja', 'Secuencia de palabras']
+
+colors = plt.cm.viridis(np.linspace(0, 1, 8))  # Generate 8 different colors from the 'viridis' colormap
+
+for start, end in time_intervals:
+    title = titles[time_intervals.index((start, end))]
+    
+    # Slice the DataFrame for the current time interval
+    df_interval = df_scaled.loc[start:end]
+
+    # Reset the index
+    df_interval.index = df_interval.index - start
+
+    # Create the subplots
+    fig, axes = plt.subplots(8, 1, figsize=(10, 15), sharex=True)
+
+    for i, column in enumerate(df_interval.columns):
+        axes[i].plot(df_interval.index, df_interval[column], label=column, color=colors[i])
+        axes[i].set_ylabel(column)
+        axes[i].grid(True)  # Add gridlines
+
+    axes[-1].set_xlabel('Time (s)')  # Set x-axis label only for the last plot
+    plt.suptitle(title, fontsize=16)  # Set the title for the current plot
+    plt.tight_layout(rect=[0, 0, 1, 0.96])  # Adjust the layout to avoid overlapping of labels and title
+    plt.show()
