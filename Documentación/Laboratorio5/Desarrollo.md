@@ -122,7 +122,7 @@ Debido al tamaño de los videos (mayor a 10 MB, lo cual no admite GitHub), se de
 
 
 <p align="left">
- [Video de secuencia de palabras (raw data)](https://github.com/MateoPortal/IntroSenales/tree/main/Documentaci%C3%B3n/Laboratorio5/video%CB%86)
+ [Raw data de video de secuencia de palabras](https://github.com/MateoPortal/IntroSenales/tree/main/Documentaci%C3%B3n/Laboratorio5/video%CB%86)
  </p>
  
 # Discusión
