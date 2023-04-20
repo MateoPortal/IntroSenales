@@ -83,47 +83,43 @@ Debido al tamaño de los videos (mayor a 10 MB, lo cual no admite GitHub), se de
 ### Ploteo de la señal
 
 <p align="center">
-  <img src="linkdelaimagen" width="60%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Im%C3%A1genes/PrimeraPreguntaMateo.png" width="60%">
   </p>
 <p align="center">
-  <i>Señal ECG en OpenSignals, reposo</i>
+  <i>Señal EEG en OpenBCI, primera pregunta simple</i>
+  </p>
+
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Im%C3%A1genes/PrimerapreguntaComplejaMateo.png" width="60%">
+  </p>
+<p align="center">
+  <i>Señal EEG en OpenBCI, primera pregunta compleja</i>
   </p>
  
-# Archivo de datos de la señal ploteada
-[Descargar raw data del EEG](linkdedescarga)
-
-### Codigo en Python
-[Visualizar código de procesamiento de las señales en Python](linkparaver)
-
-# Resultados del ploteo de la señal en Python
-Ploteamos la señal EEG en milivoltios versus tiempo en los 3 casos que realizamos durante el laboratorio: en reposo, durante inhalación y exhalación y posterior a realizar actividad física.
-
 <p align="center">
- <img src="linkdelaimagen" width="100%">
- </p>
- 
-Además, también se realizó el ploteo de la señal EEG en el dominio de la frecuencia, de igual manera en cada uno de los 3 casos ya mencionados.
-
-<p align="center">
-  <img src="linkdelaimagen" width="100%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Im%C3%A1genes/SecuenciadePalabrasMateo.png" width="60%">
   </p>
 <p align="center">
-  <i>Señal ECG en reposo</i>
+  <i>Señal EEG en OpenBCI, secuencia de palabras</i>
   </p>
   
 <p align="center">
-  <img src="linkdelaimagen" width="100%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Im%C3%A1genes/SegundaPreguntaMateo.png" width="60%">
   </p>
 <p align="center">
-  <i>Señal ECG respiración profunda</i>
+  <i>Señal EEG en OpenBCI, segunda pregunta simple</i>
   </p>
 
 <p align="center">
-  <img src="linkdelaimagen" width="100%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Im%C3%A1genes/SegundaPreguntacomplejaMateo.png" width="60%">
   </p>
 <p align="center">
-  <i>Señal EEG después de actividad física</i>
+  <i>Señal EEG en OpenBCI, segunda pregunta compleja</i>
   </p>
+
+# Datos ploteados
+[Descargar .txt del EEG]((https://github.com/MateoPortal/IntroSenales/tree/main/Documentaci%C3%B3n/Laboratorio5/Ejercicios)
+[Video de secuencia de palabras (raw data)](https://github.com/MateoPortal/IntroSenales/tree/main/Documentaci%C3%B3n/Laboratorio5/video%CB%86)
 
 # Discusión
 
