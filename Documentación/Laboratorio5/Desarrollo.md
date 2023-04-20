@@ -78,10 +78,7 @@ En los siguientes videos, se presentan las señales adquiridas mediante los elec
 
 Debido al tamaño de los videos (mayor a 10 MB, lo cual no admite GitHub), se decidió insertar la lista de reproduccion de los experimentos realizados.
 
-[Lista de videos](https://img.youtube.com/vi/PLxvSOOUjLVFjCd0TcEhHNcCiBGNQsKtGS/0.jpg)](https://www.youtube.com/playlist?list=PLxvSOOUjLVFjCd0TcEhHNcCiBGNQsKtGS)
-
-
-
+[Lista de videos](https://www.youtube.com/playlist?list=PLxvSOOUjLVFjCd0TcEhHNcCiBGNQsKtGS)
 
 
 ### Ploteo de la señal
