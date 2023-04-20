@@ -118,13 +118,19 @@ Debido al tamaño de los videos (mayor a 10 MB, lo cual no admite GitHub), se de
   </p>
 
 # Datos ploteados
-[Descargar .txt del EEG](https://github.com/MateoPortal/IntroSenales/tree/main/Documentaci%C3%B3n/Laboratorio5/Ejercicios)
-[Video de secuencia de palabras (raw data)](https://github.com/MateoPortal/IntroSenales/tree/main/Documentaci%C3%B3n/Laboratorio5/video%CB%86)
+<p>
+ [Descargar .txt del EEG](https://github.com/MateoPortal/IntroSenales/tree/main/Documentaci%C3%B3n/Laboratorio5/Ejercicios)
+ </p>
 
+<p>
+ [Video de secuencia de palabras (raw data)](https://github.com/MateoPortal/IntroSenales/tree/main/Documentaci%C3%B3n/Laboratorio5/video%CB%86)
+ </p>
+ 
 # Discusión
 
 <p align="center">
  El encefalograma es un examen médico que permite realizar la medición de los potenciales eléctricos absolutos generados por las neuronas [2].
+ </p>
 En el presente laboratorio, de las señales obtenidas en ambos sujetos de prueba, se observa que existe un incremento de la actividad eléctrica producida por el cerebro cuando ellos se encontraban resolviendo mentalemente el set de 2 ejercicios simples y el set de 2 ejercicios complejos en los que se les plantearon preguntas acerca de cálculos aritméticos. Además, según la revisión de la literatura, se conoce que la actividad cerebral representada a través de los ritmos alfa y theta es sensitiva a este tipo de procesamiento cognitivo de la información en el que se requiere un gran esfuerzo mental [3]. Esto es evidente al observar las señales de EEG en el dominio de la frecuencia, de cuando se les dictó las preguntas complejas, y compararlas con el estado basal del sujeto de prueba.
 
 Por otro lado, es necesario mencionar que la señal de EEG obtenida usando la interfaz Ultracortex Mark IV, así como la señal adquirida con BITalino en las posiciones Frontopolar 1 (Fp1) y Frontopolar 2 (Fp2) presentan artefactos musculares, los cuales hacen referencia a la contaminación de una señal de EEG debido a la actividad muscular facial [4]. Además, según lo reportado por Soleymain et al., los artefactos musculares faciales afectan de manera significativa a la señal de EEG, especialmente a aquellos electrodos que se ubican en las regiones frontal, parietal y occipital; y que tales artefactos mencionados se observan de manera más pronunciada en las frecuencias altas, es decir, en los ritmos beta y gamma [4]. En particular, durante los experimentos realizados durante el Laboratorio 5, en ambos sujetos de prueba, debido a que las respuestas a las preguntas realizadas las dieron de forma verbal, se evidenció el uso de músculos involucrados en el habla como actividad voluntaria.
