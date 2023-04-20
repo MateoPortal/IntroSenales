@@ -120,10 +120,7 @@ Debido al tamaño de los videos (mayor a 10 MB, lo cual no admite GitHub), se de
 # Datos ploteados
 [Descargar .txt del EEG](https://github.com/MateoPortal/IntroSenales/tree/main/Documentaci%C3%B3n/Laboratorio5/Ejercicios)
 
-
-<p align="left">
- [Raw data de video de secuencia de palabras](https://github.com/MateoPortal/IntroSenales/tree/main/Documentaci%C3%B3n/Laboratorio5/video%CB%86)
- </p>
+[Raw data de video de secuencia de palabras](https://github.com/MateoPortal/IntroSenales/tree/main/Documentaci%C3%B3n/Laboratorio5/video%CB%86)
  
 # Discusión
 
