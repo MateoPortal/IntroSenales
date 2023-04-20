@@ -79,7 +79,7 @@ En los siguientes videos, se presentan las señales adquiridas mediante los elec
 Debido al tamaño de los videos (mayor a 10 MB, lo cual no admite GitHub), se decidió insertar la lista de reproduccion de los experimentos realizados.
 
 
-[![Example image](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Im%C3%A1genes/videos%2Bwatch%2Bwebsite%2Byoutube%2Bicon-1320168606023940607.png){:height="100" width="100"}](https://www.youtube.com/playlist?list=PLxvSOOUjLVFjCd0TcEhHNcCiBGNQsKtGS)
+[Example image](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Im%C3%A1genes/videos%2Bwatch%2Bwebsite%2Byoutube%2Bicon-1320168606023940607.png)
 
 ### Ploteo de la señal
 
