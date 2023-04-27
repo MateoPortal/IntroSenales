@@ -12,7 +12,7 @@ En una sesión anterior (Laboratorio 4), se obtuvieron señales ECG a través de
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/electrodos.jpg" width="60%">
   </p>
 <p align="center">
-  <i>Colocación de los electrodos [3]</i>
+  <i>Colocación de los electrodos [1]</i>
   </p>
 
 ### Ploteo de la señal
@@ -36,7 +36,9 @@ Ploteamos la señal ECG en milivoltios versus tiempo en los 3 casos que realizam
  ## Dataset de las señales ECG
  
  ## Referencias
- [1]
+ [1] "Using BITalino Mini with Electrocardiography (ECG) Sensor Application Notes". Disponible en:https://www.bitalino.com/storage/uploads/media/bitalino-application-notes---bitalino-mini-solo-ecg.pdf
+ [2]
+ [3]
  
  
  
