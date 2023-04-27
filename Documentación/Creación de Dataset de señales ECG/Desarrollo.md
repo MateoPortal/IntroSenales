@@ -35,13 +35,16 @@ Ploteamos la señal ECG en milivoltios versus tiempo en los 3 casos que realizam
 [Descargar raw data del ECG](https://github.com/MateoPortal/IntroSenales/tree/main/Documentaci%C3%B3n/Laboratorio4/ECG_RawData)
 
  ## Importancia del Procesamiento de señales
- ¿Qué es? El procesamiento de señales se puede describir desde diferentes perspectivas. Para un especialista en acústica, es una herramienta para convertir las señales medidas en información útil. Para un diseñador de sonar, es una parte de un sistema de sonda. Para un ingeniero eléctrico, a menudo se limita a la digitalización, el muestreo, el filtrado y la estimación espectral [2].
+ 
+ **¿Qué es?** El procesamiento de señales se puede describir desde diferentes perspectivas. Para un especialista en acústica, es una herramienta para convertir las señales medidas en información útil. Para un diseñador de sonar, es una parte de un sistema de sonda. Para un ingeniero eléctrico, a menudo se limita a la digitalización, el muestreo, el filtrado y la estimación espectral [2].
 
-¿Cómo se realiza? En la actualidad, el procesamiento de señales digitales se realiza principalmente en sofware, este puede ejecutarse en el procesador o trajeta gráfica de alguna computadora o dispositivo inteligente. En aplicaciones más complejas y exigentes, se ejecuta en DSP dedicados (o procesadores de señales digitales en castellano), ASIC (circuitos integrados específicos de aplicaciones) o FPGA (matrices de puertas programables en campo) y en potentes mainframes de computadora [3].
+**¿Cómo se realiza?** En la actualidad, el procesamiento de señales digitales se realiza principalmente en sofware, este puede ejecutarse en el procesador o trajeta gráfica de alguna computadora o dispositivo inteligente. En aplicaciones más complejas y exigentes, se ejecuta en DSP dedicados (o procesadores de señales digitales en castellano), ASIC (circuitos integrados específicos de aplicaciones) o FPGA (matrices de puertas programables en campo) y en potentes mainframes de computadora [3].
  
  ## Dataset de las señales ECG
  
  [Descargar dataset del ECG](https://github.com/MateoPortal/IntroSenales/tree/main/Documentaci%C3%B3n/Creación%20de%20Dataset%20de%20señales%20ECG/dataset_señales_ecg_grupo_10_.py)
+ 
+ Link de drive: https://drive.google.com/drive/folders/1IdZUR4JmrF4DUJUOrCpT7zsgiDFkiYAJ?usp=share_link
  
  ## Referencias
  [1] "Using BITalino Mini with Electrocardiography (ECG) Sensor Application Notes". Disponible en:https://www.bitalino.com/storage/uploads/media/bitalino-application-notes---bitalino-mini-solo-ecg.pdf
