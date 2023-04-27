@@ -1,10 +1,10 @@
-# Creación de Dataset de señales ECG
+# Creación de Data set de señales ECG
 Laboratorio 6
 
 ### Fecha: 26 de abril de 2023
 
 ## Objetivo 🎯
-En una sesión anterior (Laboratorio 4), se obtuvieron señales ECG a través de un BITalino. Estas señales fueron adquiridas en diferentes contextos: en reposo, durante la exhalación e inhalación y durante la realización de actividad física. En esta oportunidad, se creó el dataset de estas señales ya obtenidas.
+En una sesión anterior (Laboratorio 4), se obtuvieron señales ECG a través de un BITalino. Estas señales fueron adquiridas en diferentes contextos: en reposo, durante la exhalación e inhalación y durante la realización de actividad física. En esta oportunidad, se creó el data set de estas señales ya obtenidas.
 
 ## Recordando sobre la adquisición de las señales ECG 🔙
 ### Imágenes de la colocación de electrodos
@@ -40,11 +40,11 @@ Ploteamos la señal ECG en milivoltios versus tiempo en los 3 casos que realizam
 
 **¿Cómo se realiza?** En la actualidad, el procesamiento de señales digitales se realiza principalmente en sofware, este puede ejecutarse en el procesador o trajeta gráfica de alguna computadora o dispositivo inteligente. En aplicaciones más complejas y exigentes, se ejecuta en DSP dedicados (o procesadores de señales digitales en castellano), ASIC (circuitos integrados específicos de aplicaciones) o FPGA (matrices de puertas programables en campo) y en potentes mainframes de computadora [3].
  
- ## Dataset de las señales ECG
+ ## Data set de las señales ECG
  
- [Ir al dataset del ECG](https://github.com/MateoPortal/IntroSenales/tree/main/Documentaci%C3%B3n/Creación%20de%20Dataset%20de%20señales%20ECG/dataset_señales_ecg_grupo_10_.py)
+ [Ir al data set del ECG](https://github.com/MateoPortal/IntroSenales/tree/main/Documentaci%C3%B3n/Creación%20de%20Dataset%20de%20señales%20ECG/dataset_señales_ecg_grupo_10_.py)
  
- Link de drive donde se encuentra el dataset: https://drive.google.com/drive/folders/1IdZUR4JmrF4DUJUOrCpT7zsgiDFkiYAJ?usp=share_link
+ Link de drive donde se encuentra el data set: https://drive.google.com/drive/folders/1IdZUR4JmrF4DUJUOrCpT7zsgiDFkiYAJ?usp=share_link
  
  ## Referencias
  [1] "Using BITalino Mini with Electrocardiography (ECG) Sensor Application Notes". Disponible en:https://www.bitalino.com/storage/uploads/media/bitalino-application-notes---bitalino-mini-solo-ecg.pdf
