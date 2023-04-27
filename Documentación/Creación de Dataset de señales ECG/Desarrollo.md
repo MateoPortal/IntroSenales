@@ -14,4 +14,9 @@ En una sesión anterior (Laboratorio 4), se obtuvieron señales ECG a través de
  5. [Discusión](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Desarrollo.md#discusi%C3%B3n)
  6. [Bibliografía](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Desarrollo.md#bibliograf%C3%ADa)
 
-
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/electrodos.jpg" width="60%">
+  </p>
+<p align="center">
+  <i>Colocación de los electrodos [3]</i>
+  </p>
