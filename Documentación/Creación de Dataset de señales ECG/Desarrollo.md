@@ -45,7 +45,9 @@ Ploteamos la señal ECG en milivoltios versus tiempo en los 3 casos que realizam
  
  ## Referencias
  [1] "Using BITalino Mini with Electrocardiography (ECG) Sensor Application Notes". Disponible en:https://www.bitalino.com/storage/uploads/media/bitalino-application-notes---bitalino-mini-solo-ecg.pdf
+ 
  [2] D. A. Abraham, “Signal Processing,” Jan. 2017, doi: https://doi.org/10.1016/b978-0-12-811240-3.00011-4.
+ 
  [3] “¿Qué es el procesamiento de señales?,” Soluciones de Adquisición de Datos (DAQ), Mar. 14, 2023. https://dewesoft.com/es/blog/que-es-procesamiento-de-senal (accessed Apr. 27, 2023).
  
  
