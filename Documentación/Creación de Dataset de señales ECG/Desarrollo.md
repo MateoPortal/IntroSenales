@@ -6,7 +6,7 @@ Laboratorio 6
 ## Objetivo 🎯
 En una sesión anterior (Laboratorio 4), se obtuvieron señales ECG a través de un BITalino. Estas señales fueron adquiridas en diferentes contextos: en reposo, durante la exhalación e inhalación y durante la realización de actividad física. En esta oportunidad, se creó el data set de estas señales ya obtenidas.
 
-## Recordando sobre la adquisición de las señales ECG 🔙
+## Recordando sobre la adquisición de las señales ECG 
 ### Imágenes de la colocación de electrodos
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/electrodos.jpg" width="60%">
