@@ -31,6 +31,9 @@ Ploteamos la señal ECG en milivoltios versus tiempo en los 3 casos que realizam
  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio4/Im%C3%A1genes/ecg_time.jpg" width="100%">
  </p>
  
+ # Archivo de datos de la señal ploteada
+[Descargar raw data del ECG](https://github.com/MateoPortal/IntroSenales/tree/main/Documentaci%C3%B3n/Laboratorio4/ECG_RawData)
+
  ## Importancia del Procesamiento de señales
  
  ## Dataset de las señales ECG
