@@ -41,6 +41,8 @@ Ploteamos la señal ECG en milivoltios versus tiempo en los 3 casos que realizam
  
  ## Dataset de las señales ECG
  
+ [Descargar dataset del ECG](https://github.com/MateoPortal/IntroSenales/tree/main/Documentaci%C3%B3n/Creación%20de%20Dataset%20de%20señales%20ECG/dataset_señales_ecg_grupo_10_.py)
+ 
  ## Referencias
  [1] "Using BITalino Mini with Electrocardiography (ECG) Sensor Application Notes". Disponible en:https://www.bitalino.com/storage/uploads/media/bitalino-application-notes---bitalino-mini-solo-ecg.pdf
  [2] D. A. Abraham, “Signal Processing,” Jan. 2017, doi: https://doi.org/10.1016/b978-0-12-811240-3.00011-4.
