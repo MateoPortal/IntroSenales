@@ -12,11 +12,11 @@ A pesar que la tarea de los filtros es bastante simple, representan una pieza fu
 
 En esta sesión, trabajaremos con los filtros digitales IIR y FIR.
 
-Filtro FIR:
+**Filtro FIR:**
 Este tipo de filtro genera una respuesta de impulso finito de un sistema dinámico. En otras palabras, la respuesta de impulso proporcionada por el filtro es de duración finita en este caso.
 En los filtros FIR, la retroalimentación no está presente, por lo que estos filtros operan solo con valores de entrada actuales y pasados. Consecuentemente, la salida es la suma de una cantidad finita de muestras finitas de valores de entrada. Esto los hace sumamente estables[2].
 
-Filtro IIR:
+**Filtro IIR:**
 Este filtro digital está diseñado para generar una respuesta de impulso infinita de un sistema dinámico. Presenta un mecanismo de retroalimentación interno, por lo que el filtro opera por un período de tiempo indefinido. Los filtros IIR son utilizados por los sistemas que generan una respuesta infinita.
 El filtro IIR funciona de manera que no solo se tienen en cuenta las entradas actuales y pasadas, sino también la muestra de salida pasada [2].
 
