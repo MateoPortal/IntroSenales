@@ -24,4 +24,5 @@ El filtro IIR funciona de manera que no solo se tienen en cuenta las entradas ac
 
 ## Referencias
 [1] DEWESoft d.o.o, “Signal filtering, Signal suppression, Signal processing | Dewesoft,” Dewesoft.com, 2023. https://training.dewesoft.com/online/course/filters#fir-and-iir-filters (accessed May 04, 2023).
+
 [2] Roshni Y, “Difference Between FIR Filter and IIR Filter (with Comparison chart) - Circuit Globe,” Circuit Globe, Mar. 24, 2020. https://circuitglobe.com/difference-between-fir-filter-and-iir-filter.html#Definition (accessed May 04, 2023).
