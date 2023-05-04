@@ -22,6 +22,9 @@ El filtro IIR funciona de manera que no solo se tienen en cuenta las entradas ac
 
 ## Dataset filtrado 
 
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/503321ac6b98dd412af11dc4987800b30d8a27e1/Documentaci%C3%B3n/Laboratorio7/images/cuadro.png" alt="Cuadro comparativo" width="45%">
+  </p>
 ## Referencias
 [1] DEWESoft d.o.o, “Signal filtering, Signal suppression, Signal processing | Dewesoft,” Dewesoft.com, 2023. https://training.dewesoft.com/online/course/filters#fir-and-iir-filters (accessed May 04, 2023).
 
