@@ -24,10 +24,12 @@ El filtro IIR funciona de manera que no solo se tienen en cuenta las entradas ac
 https://colab.research.google.com/drive/1VZ3-F02iEn1WtjHVJo-aNChSHuvNRaLE?usp=sharing
 
 
-<p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Filtrado%20de%20Data%20set%20de%20se%C3%B1ales%20ECG/images/cuadro.png" alt="cuadro" width="100%">
+
+ <p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Filtrado%20de%20Data%20set%20de%20se%C3%B1ales%20ECG/images/cuadro.png" width="100%"> 
+ <p align="center">
+ Tabla1. Señales crudas, y señales después de filtros FIR e IIR</em>
   </p>
-  
   
 ## Referencias
 [1] DEWESoft d.o.o, “Signal filtering, Signal suppression, Signal processing | Dewesoft,” Dewesoft.com, 2023. https://training.dewesoft.com/online/course/filters#fir-and-iir-filters (accessed May 04, 2023).
