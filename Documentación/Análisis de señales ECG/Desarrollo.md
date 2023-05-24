@@ -23,7 +23,11 @@ El vector del complejo QRS puede dividirse en 3 derivadas distintas [3]:
 <p align="center">
   <i> Distribución impulso cardiaco y ondas e intervalos del electrocardiograma [3]</i>
   </p>
-  
+ 
+## Aplicación del Algoritmo
+A continuación, presentamos nuestras señales ECG con el logaritmo aplicado:
+
+
 ## Referencias
 [1] J. Pan and W. J. Tompkins, “A Real-Time QRS Detection Algorithm,” vol. BME-32, no. 3, pp. 230–236, Mar. 1985, doi: https://doi.org/10.1109/tbme.1985.325532.
 ‌[2] “Componentes e intervalos en un electrocardiograma (ECG) | Cigna,” Cigna.com, 2022. https://www.cigna.com/es-us/knowledge-center/hw/componentes-e-intervalos-en-un-electrocardiograma-zm2308 (accessed May 24, 2023).
