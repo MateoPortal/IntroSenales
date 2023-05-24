@@ -25,7 +25,7 @@ El vector del complejo QRS puede dividirse en 3 derivadas distintas [3]:
   </p>
  
 ## Aplicación del Algoritmo
-A continuación, presentamos nuestras señales ECG con el logaritmo aplicado:
+A continuación, presentamos nuestras señales ECG con el algoritmo aplicado:
 
 
 ## Referencias
