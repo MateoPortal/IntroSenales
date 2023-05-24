@@ -21,7 +21,7 @@ El vector del complejo QRS puede dividirse en 3 derivadas distintas [3]:
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/qrs.jpg" width="60%">
   </p>
 <p align="center">
-  <i>Complejo QRS [3]</i>
+  <i> Distribución impulso cardiaco y ondas e intervalos del electrocardiograma [3]</i>
   </p>
   
 ## Referencias
