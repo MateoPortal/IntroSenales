@@ -27,6 +27,17 @@ El vector del complejo QRS puede dividirse en 3 derivadas distintas [3]:
 ## Aplicación del Algoritmo
 A continuación, presentamos nuestras señales ECG con el algoritmo aplicado:
 
+# Señales ECG durante reposo
+# Señales ECG después exhalación e inhalación
+# Señales ECG después del realizar ejercicio
+
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/qrs.jpg" width="60%">
+  </p>
+<p align="center">
+  <i> Análisis de Threshold</i>
+  </p>
+
 
 ## Referencias
 [1] J. Pan and W. J. Tompkins, “A Real-Time QRS Detection Algorithm,” vol. BME-32, no. 3, pp. 230–236, Mar. 1985, doi: https://doi.org/10.1109/tbme.1985.325532.
