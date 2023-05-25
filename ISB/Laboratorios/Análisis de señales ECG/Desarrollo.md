@@ -7,7 +7,7 @@ Laboratorio 8
 En una sesión anterior (Laboratorio 4), se obtuvieron señales ECG a través de un BITalino. Estas señales fueron adquiridas en diferentes contextos: en reposo, durante la exhalación e inhalación y durante la realización de actividad física. En esta oportunidad, analizaremos estas muestras mediante la aplicación de un algoritmo para la detección de los complejos QRS [1].
 
 ## ¿Qué es un complejo QRS?
-El llamado Complejo QRS es el registro del movimiento de los impulsos elécttricos a través de las cavidades inferiores del corazón (ventrículos) [2].
+El llamado Complejo QRS es el registro del movimiento de los impulsos eléctricos a través de las cavidades inferiores del corazón (ventrículos) [2].
 
 El vector del complejo QRS puede dividirse en 3 derivadas distintas [3]:
 
