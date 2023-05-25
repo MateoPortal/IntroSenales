@@ -15,14 +15,14 @@
 ### BITalino
 
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/503321ac6b98dd412af11dc4987800b30d8a27e1/Documentaci%C3%B3n/Laboratorio3/Pictures/Bitalino.jpeg" alt="bitalino" width="45%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Adquisici%C3%B3n+-+EMG/Pictures/Bitalino.jpeg" alt="bitalino" width="45%">
   </p>
 
 ### Cable de 2 hilos
 Se utiliza para conectar BITalino a dispositivos externos, como sensores, actuadores, etc. Está compuesto por dos hilos que permiten la transmisión de datos y energía.
 
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/503321ac6b98dd412af11dc4987800b30d8a27e1/Documentaci%C3%B3n/Laboratorio3/Pictures/cable2hilos.jpeg" alt="2hilo" width="25%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Adquisici%C3%B3n+-+EMG/Pictures/cable2hilos.jpeg" alt="2hilo" width="25%">
   </p>
 
 
@@ -31,7 +31,7 @@ Se utiliza para conectar BITalino a dispositivos externos, como sensores, actuad
 Se utiliza para conectar BITalino a los electrodos. Está compuesto por tres hilos: uno para la transmisión de datos, otro para la transmisión de energía y un tercero para la conexión a tierra.
 
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/503321ac6b98dd412af11dc4987800b30d8a27e1/Documentaci%C3%B3n/Laboratorio3/Pictures/cable3hilos.jpeg" alt="2hilo" width="25%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Adquisici%C3%B3n+-+EMG/Pictures/cable3hilos.jpeg" alt="2hilo" width="25%">
   </p>
 
 
@@ -46,7 +46,7 @@ Son sensores que se colocan en el cuerpo para medir la actividad eléctrica de l
 Es la fuente de energía para BITalino. La batería incluida en el kit es recargable y tiene una capacidad de 700mAh.
 
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/b369fe5e0d1f1d11d12c900606117ab97e5308a4/Documentaci%C3%B3n/Laboratorio3/Pictures/BATERIA.jpeg" alt="2hilo" width="25%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Adquisici%C3%B3n+-+EMG/Pictures/BATERIA.jpeg" alt="2hilo" width="25%">
   </p>
 
 ### 1 Guia de inicio rapido
@@ -59,11 +59,11 @@ Es un manual que explica cómo configurar y utilizar BITalino. Incluye informaci
 Utilizamos la entrada EMG de Bitalino. Dos de los electrodos fueron colocados en el músculo Bisceps y un tercero en un hueso ubicado en la zona de la muñeca, este funciona como "tierra"
 
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/d6cd5bdafd6c2734a6577b80e178de1b1586cadd/Documentaci%C3%B3n/Laboratorio3/Pictures/electrodos_en_biceps.jpeg" alt="1" width="40%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Adquisici%C3%B3n+-+EMG/Pictures/electrodos_en_biceps.jpeg" alt="1" width="40%">
   </p>
  
  <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/d6cd5bdafd6c2734a6577b80e178de1b1586cadd/Documentaci%C3%B3n/Laboratorio3/Pictures/electrodo_en_mu%C3%B1eca.jpeg" alt="1" width="40%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Adquisici%C3%B3n+-+EMG/Pictures/electrodo_en_mu%C3%B1eca.jpeg" alt="1" width="40%">
   </p>
 
  
@@ -81,13 +81,13 @@ En la figura se observa la colocación de los electrodos en el músculo bíceps,
 
 
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/pasivo_nuevo.png" alt="1" width="40%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Adquisici%C3%B3n+-+EMG/Pictures/pasivo_nuevo.png" alt="1" width="40%">
 <p align="center">
  Ploteo en OpenSignals del músculo en relajación</em>
   </p>
   
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/activo_nuevo.png" alt="1" width="40%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Adquisici%C3%B3n+-+EMG/Pictures/activo_nuevo.png" alt="1" width="40%">
  <p align="center">
  Ploteo en OpenSignals del músculo en contracción</em>
   </p>
@@ -96,19 +96,19 @@ En la figura se observa la colocación de los electrodos en el músculo bíceps,
 
 
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/brazo_reposo.jpeg" width="40%"> 
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Adquisici%C3%B3n+-+EMG/Pictures/brazo_reposo.jpeg" width="40%"> 
  <p align="center">
  Brazo en relajación</em>
   </p>
   
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/brazo_flexion.jpeg" width="40%"> 
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Adquisici%C3%B3n+-+EMG/Pictures/brazo_flexion.jpeg" width="40%"> 
  <p align="center">
  Brazo en flexion</em>
   </p>
   
 # Archivo de datos de la señal ploteada
-[Descargar raw data del EMG](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/emg.txt)
+[Descargar raw data del EMG](https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Adquisici%C3%B3n+-+EMG/emg.txt)
 
 ### Codigo en Python
 
@@ -258,14 +258,14 @@ plt.show()
     
 # Resultados del ploteo de la señal en Python
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/plot1.jpeg" alt="1" width="100%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Adquisici%C3%B3n+-+EMG/Pictures/plot1.jpeg" alt="1" width="100%">
   </p>
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/plot2.jpeg" alt="1" width="100%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Adquisici%C3%B3n+-+EMG/Pictures/plot2.jpeg" alt="1" width="100%">
   </p>
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/plot3.jpeg" alt="1" width="100%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Adquisici%C3%B3n+-+EMG/Pictures/plot3.jpeg" alt="1" width="100%">
   </p>
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio3/Pictures/Frequency.jpeg" alt="1" width="100%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Adquisici%C3%B3n+-+EMG/Pictures/Frequency.jpeg" alt="1" width="100%">
   </p>
