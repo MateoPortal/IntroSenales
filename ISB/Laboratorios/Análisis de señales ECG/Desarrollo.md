@@ -51,7 +51,7 @@ A continuación, presentamos nuestras señales ECG con el algoritmo aplicado:
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/deporte_filtrado.jpg" width="80%">
   </p>
 <p align="center">
-  <i>  (Amplitud Vs. Muestras[n])</i>
+  <i> Resultado final (Amplitud Vs. Muestras[n])</i>
   </p>
 
 
