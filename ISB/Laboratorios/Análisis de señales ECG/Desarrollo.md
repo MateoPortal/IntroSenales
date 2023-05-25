@@ -37,7 +37,14 @@ A continuación, presentamos nuestras señales ECG con el algoritmo aplicado:
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/threshold.jpg" width="60%">
   </p>
 <p align="center">
-  <i> Análisis de Threshold</i>
+  <i> Análisis de Threshold (Amplitud Vs. Muestras[n])</i>
+  </p>
+  
+ <p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/deporte_filtrado.jpg" width="60%">
+  </p>
+<p align="center">
+  <i> Señal Filtrada (Amplitud Vs. Muestras[n])</i>
   </p>
 
 
