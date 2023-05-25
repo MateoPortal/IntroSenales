@@ -77,6 +77,7 @@ El vector del complejo QRS puede dividirse en 3 derivadas distintas [3]:
 
 La detección del complejo QRS es de vital importancia para realizar el diagnóstico de anomalías cardiacas, por eso se buscan nuevos algoritmos y modelos matemáticos para su detección [4]. El algoritmo usado en el laboratorio se basa en análisis digitales de pendiente, amplitud y ancho para el reconocimiento de este conjunto de ondas. Se usa previamente un filtro pasabandas que elimina las falsas detecciones causadas por diversos tipos de interferencia presentes en la señal y permite el uso de umbrales bajos que aumenta la sensibilidad de detección. Es así que el algoritmo ajusta automáticamente los umbrales y parámetros periódicamente para adaptarse a los cambios de ECG como la morfología QRS y la frecuencia cardíaca [1].
 
+Se puede observar claramanete que se ha logrado identificar el complejo QRS con el algoritmo.
 ## Referencias
 [1] J. Pan and W. J. Tompkins, “A Real-Time QRS Detection Algorithm,” vol. BME-32, no. 3, pp. 230–236, Mar. 1985, doi: https://doi.org/10.1109/tbme.1985.325532.
 
