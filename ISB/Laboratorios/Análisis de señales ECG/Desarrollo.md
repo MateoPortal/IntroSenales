@@ -27,11 +27,11 @@ El vector del complejo QRS puede dividirse en 3 derivadas distintas [3]:
 ## Aplicación del Algoritmo
 A continuación, presentamos nuestras señales ECG con el algoritmo aplicado:
 
-**Señales ECG durante reposo
+**Señales ECG durante reposo**
 
-**Señales ECG después exhalación e inhalación
+**Señales ECG después exhalación e inhalación**
 
-**Señales ECG después del realizar ejercicio
+**Señales ECG después del realizar ejercicio**
 
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/threshold.jpg" width="60%">
