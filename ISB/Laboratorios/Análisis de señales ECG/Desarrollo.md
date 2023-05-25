@@ -10,6 +10,27 @@ En una sesión anterior (Laboratorio 4), se obtuvieron señales ECG a través de
 A continuación, presentamos nuestras señales ECG con el algoritmo aplicado:
 
 **Señales ECG durante reposo**
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/filtrada_reposo.png" width="80%">
+  </p>
+<p align="center">
+  <i> Señales ECG filtradas (Amplitud Vs. Tiempo (s))</i>
+  </p>
+
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/umbral_reposo.png" width="80%">
+  </p>
+<p align="center">
+  <i> Análisis de Threshold (Amplitud Vs. Muestras[n])</i>
+  </p>
+  
+ <p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/qrs_reposo.png" width="80%">
+  </p>
+<p align="center">
+  <i> Resultado final (Amplitud Vs. Muestras[n])</i>
+  </p>
+  
 
 **Señales ECG después exhalación e inhalación**
 
