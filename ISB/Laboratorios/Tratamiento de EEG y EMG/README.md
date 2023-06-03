@@ -144,6 +144,14 @@ La señal EEG amplificada y filtrada se convierte en una señal digital mediante
 
 
 **Detección de la actividad **
+
+La detección de la actividad en el EEG busca identificar tanto el inicio como el final de las señales eléctricas que pueden ser capturadas por el electroencefalograma. El inicio se define como el momento en que se produce un cambio en la actividad detectada, mientras que el final representa el cese de este cambio.
+
+En el contexto de algoritmos aplicados al EEG, la mayoría de los métodos para la detección automática de actividad se basan en un umbral. Estos métodos detectan el inicio y el fin de la actividad comparando el promedio de las señales del EEG dentro de una ventana deslizante con un cierto umbral.
+
+Este proceso permite identificar y minimizar interferencias, ya sean originadas por actividad muscular o por otros factores, en los registros de EEG, mejorando así la precisión de la interpretación de la actividad cerebral.
+
+
 ## Referencias
 [1] Pluxbiosignals, “pluxbiosignals/biosignalsnotebooks: biosignalsnotebooks project includes a set of Jupyter Notebooks explaining some processing tasks which have been specially designed for biosignalsplux and OpenSignals users. A Python package is also present, containing some functions to support biosignalsnotebooks notebooks or to be used independently.,” GitHub, Dec. 12, 2022. https://github.com/pluxbiosignals/biosignalsnotebooks (accessed Jun. 03, 2023).
 
