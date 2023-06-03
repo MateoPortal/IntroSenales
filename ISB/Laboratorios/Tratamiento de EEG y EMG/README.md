@@ -139,7 +139,7 @@ La señal EEG amplificada y filtrada se convierte en una señal digital mediante
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Tratamiento%20de%20EEG%20y%20EMG/Im%C3%A1genes/Electrodos%20colocados.jpg" width="30%">
   </p>
 <p align="center">
-  <i> Posicionamiento de electrodos para lecctura EEG</i>
+  <i> Posicionamiento de electrodos para lectura EEG</i>
   </p>
 
 
