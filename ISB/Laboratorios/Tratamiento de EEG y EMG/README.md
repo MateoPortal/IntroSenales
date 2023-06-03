@@ -4,7 +4,7 @@ Laboratorio 9
 ### Fecha: 3 de junio de 2023
 
 ## Objetivo 🎯
-En sesiones anteriores (Laboratorios 3 y 5), se obtuvieron señales EMG y EEG a través de un BITalino. Estas señales fueron adquiridas en diferentes contextos. Para el caso de EMG fueron los siguientes: ... ... ... ... ... .Para el caso de EEG estos fueron: en estado basal, respondiendo tanto dos preguntas simples como dos preguntas complejas, recordando una secuencia de palabras y mencionando la misma. En esta oportunidad, analizaremos estas muestras mediante la aplicación de algoritmso para ... ... ... ... [1].
+En sesiones anteriores (Laboratorios 3 y 5), se obtuvieron señales EMG y EEG a través de un BITalino. Estas señales fueron adquiridas en diferentes contextos. Para el caso de EMG fueron los siguientes: en reposo y durante la flexión del músculo  .Para el caso de EEG estos fueron: en estado basal, respondiendo tanto dos preguntas simples como dos preguntas complejas, recordando una secuencia de palabras y mencionando la misma. En esta oportunidad, analizaremos estas muestras mediante la aplicación de algoritmso para ... ... ... ... [1].
 
 ## Aplicación de los algoritmos
 ### EMG
