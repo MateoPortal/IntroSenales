@@ -98,26 +98,26 @@ A continuación, presentamos nuestras señales EEG con el algoritmo aplicado:
   </p>
 
 ## Discusión
-### EMG
+### Señales EMG
 
-**Importancia del procesamiento de señales EMG
+**Importancia del procesamiento de señales EMG**
 
 La detección de señales EMG con metodologías potentes y avanzadas se está convirtiendo en un requisito muy importante en la ingeniería biomédica. Un área particularmente interesada en esta tecnología es el campo de la gestión y rehabilitación de la discapacidad motora; debido a que las formas y las tasas de activación de los potenciales de acción de la Unidad motora en las señales EMG proporcionan una importante fuente de información para el diagnóstico de trastornos neuromusculares. 
 
 La aplicación de algoritmos y métodos apropiados para el análisis de señales EMG resulta fundamental para poder comprender adecuadamente la naturaleza y características de la señal en cuestión y, de esta manera, realizar implementaciones de hardware para diversas aplicaciones relacionadas con señales EMG [2].
 
-**Adquisición de señales EMG
+**Adquisición de señales EMG**
 
 Los electrodos que fueron utilizados son los llamados electrodos de superficie, los cuales tienen la peculiaridad de que los registros obtenidos mediante ella muestran actividad poblacional de las unidades motoras, esto es debido a que los electrodos, al estar en la superficie del músculo, no son capaces de captar la señal de una sola unidad motora, sino que por el contrario, captan la información de varias unidades motoras [3].
 
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Tratamiento%20de%20EEG%20y%20EMG/Im%C3%A1genes/muapt.jpg" width="60%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Tratamiento%20de%20EEG%20y%20EMG/Im%C3%A1genes/muapt.jpg" width="40%">
   </p>
 <p align="center">
   <i> Diagrama de descomposición de señales electromiográficas de superficie. [3]</i>
   </p>
 
-...
+### Señales EEG
 
 ## Referencias
 [1] Pluxbiosignals, “pluxbiosignals/biosignalsnotebooks: biosignalsnotebooks project includes a set of Jupyter Notebooks explaining some processing tasks which have been specially designed for biosignalsplux and OpenSignals users. A Python package is also present, containing some functions to support biosignalsnotebooks notebooks or to be used independently.,” GitHub, Dec. 12, 2022. https://github.com/pluxbiosignals/biosignalsnotebooks (accessed Jun. 03, 2023).
