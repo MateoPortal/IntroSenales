@@ -9,178 +9,72 @@ En una sesión anterior (Laboratorio 5), se obtuvieron señales EEG a través de
 ## Aplicación del Algoritmo
 A continuación, presentamos nuestras señales EEG con el algoritmo aplicado:
 
-**Señales EEG en estado basal**
+**Señal EEG en estado basal**
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/filtrada_reposo.png" width="80%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Tratamiento%20de%20EEG%20y%20EMG/Im%C3%A1genes/plot_estado_basal.png" width="80%">
   </p>
 <p align="center">
-  <i> Señales ECG filtradas (Amplitud Vs. Tiempo (s))</i>
-  </p>
-
-<p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/umbral_reposo.png" width="80%">
-  </p>
-<p align="center">
-  <i> Análisis de Threshold (Amplitud Vs. Muestras[n])</i>
-  </p>
-  
- <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/qrs_reposo.png" width="80%">
-  </p>
-<p align="center">
-  <i> Resultado final (Amplitud Vs. Muestras[n])</i>
+  <i> Señal EEG en estado basal (Amplitud Vs. Tiempo (s))</i>
   </p>
   
 
-**Señales EEG en la pregunta simple 1**
+**Señal EEG en la pregunta simple 1**
 
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/ecg_respiracion_filtrado.jpeg" width="80%">
   </p>
 <p align="center">
-  <i> Señales ECG filtradas (Amplitud Vs. Tiempo (s))</i>
+  <i> Señal EEG en la pregunta simple 1 (Amplitud Vs. Tiempo (s))</i>
   </p>
 
-<p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/ecg_respiracion_threshold.jpeg" width="80%">
-  </p>
-<p align="center">
-  <i> Análisis de Threshold (Amplitud Vs. Muestras[n])</i>
-  </p>
-  
- <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/ecg_respiracion_qrs.jpeg" width="80%">
-  </p>
-<p align="center">
-  <i> Resultado final (Amplitud Vs. Muestras[n])</i>
-  </p>
-
-**Señales EEG en la pregunta simple 2**
+**Señal EEG en la pregunta simple 2**
 
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/deporte_filtrado1.jpg" width="80%">
   </p>
 <p align="center">
-  <i> Señales ECG filtradas (Amplitud Vs. Tiempo (s))</i>
+  <i> Señal EEG en la pregunta simple 2 (Amplitud Vs. Tiempo (s))</i>
   </p>
 
-<p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/threshold.jpg" width="80%">
-  </p>
-<p align="center">
-  <i> Análisis de Threshold (Amplitud Vs. Muestras[n])</i>
-  </p>
-  
- <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/deporte_filtrado.jpg" width="80%">
-  </p>
-<p align="center">
-  <i> Resultado final (Amplitud Vs. Muestras[n])</i>
-  </p>
 
-**Señales EEG en la pregunta compleja 1**
+**Señal EEG en la pregunta compleja 1**
 
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/deporte_filtrado1.jpg" width="80%">
   </p>
 <p align="center">
-  <i> Señales ECG filtradas (Amplitud Vs. Tiempo (s))</i>
+  <i> Señal EEG en la pregunta compleja 1 (Amplitud Vs. Tiempo (s))</i>
   </p>
 
-<p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/threshold.jpg" width="80%">
-  </p>
-<p align="center">
-  <i> Análisis de Threshold (Amplitud Vs. Muestras[n])</i>
-  </p>
-  
- <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/deporte_filtrado.jpg" width="80%">
-  </p>
-<p align="center">
-  <i> Resultado final (Amplitud Vs. Muestras[n])</i>
-  </p>
-
-**Señales EEG en la pregunta compleja 2**
+**Señal EEG en la pregunta compleja 2**
 
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/deporte_filtrado1.jpg" width="80%">
   </p>
 <p align="center">
-  <i> Señales ECG filtradas (Amplitud Vs. Tiempo (s))</i>
-  </p>
+  <i> Señal EEG en la pregunta compleja 2 (Amplitud Vs. Tiempo (s))</i>
+  </p>  
 
-<p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/threshold.jpg" width="80%">
-  </p>
-<p align="center">
-  <i> Análisis de Threshold (Amplitud Vs. Muestras[n])</i>
-  </p>
-  
- <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/deporte_filtrado.jpg" width="80%">
-  </p>
-<p align="center">
-  <i> Resultado final (Amplitud Vs. Muestras[n])</i>
-  </p>
-  
-
-**Señales EEG recordando una secuencia de palabras**
+**Señal EEG mencionándole una secuencia de palabras**
 
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/deporte_filtrado1.jpg" width="80%">
   </p>
 <p align="center">
-  <i> Señales ECG filtradas (Amplitud Vs. Tiempo (s))</i>
-  </p>
-
-<p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/threshold.jpg" width="80%">
-  </p>
-<p align="center">
-  <i> Análisis de Threshold (Amplitud Vs. Muestras[n])</i>
+  <i> Señal EEG mencionándole una secuencia de palabras (Amplitud Vs. Tiempo (s))</i>
   </p>
   
- <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/deporte_filtrado.jpg" width="80%">
-  </p>
-<p align="center">
-  <i> Resultado final (Amplitud Vs. Muestras[n])</i>
-  </p>
-  
-**Señales EEG recordando la secuencia de palabras**
+**Señal EEG recordando la secuencia de palabras**
 
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/deporte_filtrado1.jpg" width="80%">
   </p>
 <p align="center">
-  <i> Señales ECG filtradas (Amplitud Vs. Tiempo (s))</i>
-  </p>
-
-<p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/threshold.jpg" width="80%">
-  </p>
-<p align="center">
-  <i> Análisis de Threshold (Amplitud Vs. Muestras[n])</i>
-  </p>
-  
- <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/deporte_filtrado.jpg" width="80%">
-  </p>
-<p align="center">
-  <i> Resultado final (Amplitud Vs. Muestras[n])</i>
+  <i> Señal EEG recordando la secuencia de palabras (Amplitud Vs. Tiempo (s))</i>
   </p>
 
 ## Discusión
-El llamado Complejo QRS es el registro del movimiento de los impulsos eléctricos a través de las cavidades inferiores del corazón (ventrículos) [2].
-
-El vector del complejo QRS puede dividirse en 3 derivadas distintas [3]:
-
--1er vector: corresponde a la despolarización del tabique interventricular, produciendo un pequeño vector que se dirige hacia abajo y a la derecha
-
--2do vector: Los siguientes en despolarizaarse son el ventrículo izquierdo y parte del ventrículo derecho, generando un gran vector que se dirige hacia abajo y a la izquierda.
-
--3er vector: el último en despolarizarse es la parte basal del ventrículo derecho, originando un pequeño vector que se dirige hacia atrás, hacia arriba y a la derecha.
+...
 
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/qrs.jpg" width="60%">
@@ -189,13 +83,7 @@ El vector del complejo QRS puede dividirse en 3 derivadas distintas [3]:
   <i> Distribución impulso cardiaco y ondas e intervalos del electrocardiograma [3]</i>
   </p>
 
-La detección del complejo QRS es de vital importancia para realizar el diagnóstico de anomalías cardiacas, por eso se buscan nuevos algoritmos y modelos matemáticos para su detección [4]. El algoritmo usado en el laboratorio se basa en análisis digitales de pendiente, amplitud y ancho para el reconocimiento de este conjunto de ondas. Se usa previamente un filtro pasabandas que elimina las falsas detecciones causadas por diversos tipos de interferencia presentes en la señal y permite el uso de umbrales bajos que aumenta la sensibilidad de detección. Es así que el algoritmo ajusta automáticamente los umbrales y parámetros periódicamente para adaptarse a los cambios de ECG como la morfología QRS y la frecuencia cardíaca [1].
-
-La señal resultante obtenida a través de la transformación con filtros notch, pasabandas y pasaltos es una señal que se caracteriza por tener una mayor amplitud (en mV) en comparacion a las señal de reposo. Estos picos prominentes en el complejo QRS son los que se preservan luego de la etapa de filtración para ser detectados al establecer los umbrales adaptativos para el ECG y determinar la pendiente de las  ondas en el complejo QRS.
-
-Es importante resaltar que la morfología de la señal adquirida a través de BITalino difiere ligeramente de una señal de ECG adquirida por un equipo que se usa directamente en ambientes clínicos, por lo cual se podría aun realizar una evaluación de la robustez del algoritmo para la señal que se esta trabajando en el presente laboratorio.
-
-Se puede observar claramanete que se ha logrado identificar el complejo QRS con el algoritmo.
+...
 
 ## Referencias
 [1] 
