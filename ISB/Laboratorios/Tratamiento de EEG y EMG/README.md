@@ -147,7 +147,7 @@ La señal EEG amplificada y filtrada se convierte en una señal digital mediante
 
 La detección de la actividad en el EEG busca identificar tanto el inicio como el final de las señales eléctricas que pueden ser capturadas por el electroencefalograma. El inicio se define como el momento en que se produce un cambio en la actividad detectada, mientras que el final representa el cese de este cambio.
 
-En el contexto de algoritmos aplicados al EEG, la mayoría de los métodos para la detección automática de actividad se basan en un umbral. Estos métodos detectan el inicio y el fin de la actividad comparando el promedio de las señales del EEG dentro de una ventana deslizante con un cierto umbral.
+En el contexto de algoritmos aplicados al EEG, la mayoría de los métodos para la detección automática de actividad se basan en un umbral. Estos métodos detectan el inicio y el fin de la actividad comparando el promedio de las señales del EEG dentro de una ventana deslizante con un cierto umbral [6].
 
 Este proceso permite identificar y minimizar interferencias, ya sean originadas por actividad muscular o por otros factores, en los registros de EEG, mejorando así la precisión de la interpretación de la actividad cerebral.
 
@@ -162,4 +162,6 @@ Este proceso permite identificar y minimizar interferencias, ya sean originadas 
 [4] K.-M. Kang, K. Rhee, and H.-C. Shin, “Event Detection of Muscle Activation Using an Electromyogram,” Aug. 2020, doi: https://doi.org/10.3390/app10165593.
 
 [5] Khosla, A., Padmavati Khandnor, & Chand, T. (2020). A comparative analysis of signal processing and classification methods for different applications based on EEG signals. 40(2), 649–690. https://doi.org/10.1016/j.bbe.2020.02.002
+
+[6] Yilmaz G, Ungan P, Sebik O, Uginčius P, Türker KS. Interference of tonic muscle activity on the EEG: a single motor unit study. Front Hum Neurosci. 2014 Jul 11;8:504. doi: 10.3389/fnhum.2014.00504. 
 ‌
