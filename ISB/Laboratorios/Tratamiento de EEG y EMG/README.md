@@ -98,7 +98,7 @@ A continuación, presentamos nuestras señales EEG con el algoritmo aplicado:
   </p>
 
 ## Discusión
-### Señales EMG
+### *Señales EMG*
 
 **Importancia del procesamiento de señales EMG**
 
@@ -111,13 +111,13 @@ La aplicación de algoritmos y métodos apropiados para el análisis de señales
 Los electrodos que fueron utilizados son los llamados electrodos de superficie, los cuales tienen la peculiaridad de que los registros obtenidos mediante ella muestran actividad poblacional de las unidades motoras, esto es debido a que los electrodos, al estar en la superficie del músculo, no son capaces de captar la señal de una sola unidad motora, sino que por el contrario, captan la información de varias unidades motoras [3].
 
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Tratamiento%20de%20EEG%20y%20EMG/Im%C3%A1genes/muapt.jpg" width="40%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Tratamiento%20de%20EEG%20y%20EMG/Im%C3%A1genes/muapt.jpg" width="30%">
   </p>
 <p align="center">
   <i> Diagrama de descomposición de señales electromiográficas de superficie. [3]</i>
   </p>
 
-### Señales EEG
+### *Señales EEG*
 
 ## Referencias
 [1] Pluxbiosignals, “pluxbiosignals/biosignalsnotebooks: biosignalsnotebooks project includes a set of Jupyter Notebooks explaining some processing tasks which have been specially designed for biosignalsplux and OpenSignals users. A Python package is also present, containing some functions to support biosignalsnotebooks notebooks or to be used independently.,” GitHub, Dec. 12, 2022. https://github.com/pluxbiosignals/biosignalsnotebooks (accessed Jun. 03, 2023).
