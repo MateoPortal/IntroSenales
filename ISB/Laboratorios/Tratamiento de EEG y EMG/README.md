@@ -117,6 +117,12 @@ Los electrodos que fueron utilizados son los llamados electrodos de superficie, 
   <i> Diagrama de descomposición de señales electromiográficas de superficie. [3]</i>
   </p>
 
+**Detección de la actividad muscular**
+
+La detección de actividad muscular tiene como objetivo obtener tanto el inicio como el final de la actividad EMG. El inicio se define como el comienzo de una contracción o extensión muscular, mientras que el segundo representa el final de estas acciones.
+
+Como utilizamos en el presente algoritmo, la mayoría de los métodos de detección automática de actividad muscular se basan en un umbral. Estos métodos detectan el momento del evento comparando la media de las señales EMG en una ventana deslizante con un cierto umbral [4].
+
 ### *Señales EEG*
 
 ## Referencias
@@ -126,4 +132,5 @@ Los electrodos que fueron utilizados son los llamados electrodos de superficie, 
 
 [3] G. Orellana, J. Jacob, and C. Nilo, “FACULTAD DE INGENIERÍA ESCUELA DE INGENIERÍA CIVIL MECATRÓNICA DISEÑO E IMPLEMENTACIÓN DE SISTEMA PARA DETECCIÓN DE SEÑALES ELECTROMIOGRÁFICAS Memoria para optar al Título de Ingeniero Civil Mecatrónico Profesor Guía,” 2018. Available: http://dspace.utalca.cl/bitstream/1950/12299/3/tutcur-20180011.pdf
 
-
+[4] K.-M. Kang, K. Rhee, and H.-C. Shin, “Event Detection of Muscle Activation Using an Electromyogram,” Aug. 2020, doi: https://doi.org/10.3390/app10165593.
+‌
