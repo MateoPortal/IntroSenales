@@ -109,8 +109,15 @@ La aplicación de algoritmos y métodos apropiados para el análisis de señales
 **Adquisición de señales EMG**
 
 Cada vez que se requiere utilizar los músculos del cuerpo para una determinada actividad, el cerebro envía señales de excitación a través del Sistema Nervioso Central (SNC). Asimismo, los músculos están inervados en grupos llamados Unidades motoras. Una unidad motora es el punto de unión donde se encuentran la neurona motora y las fibras musculares. 
-La activación del Sistema Nervioso Central se repite continuamente durante el tiempo que se requiere que el músculo genere fuerza, en nuestro caso, la flexión. Esta activación continua produce trenes de acción de unidades motoras potenciales. Estos trenes concurrentemente activas se superponen para producir la señal EMG resultante.
+La activación del Sistema Nervioso Central se repite continuamente durante el tiempo que se requiere que el músculo genere fuerza, en nuestro caso, la flexión. Esta activación continua produce trenes de acción de unidades motoras potenciales. Estos trenes concurrentemente activas se superponen para producir la señal EMG resultante [3].
 
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Tratamiento%20de%20EEG%20y%20EMG/Im%C3%A1genes/relacion.jpg" width="40%">
+  </p>
+<p align="center">
+  <i>  Relación entre la contracción muscular voluntaria y la señal electromiográfica [3]. </i>
+  </p>
+  
 Los electrodos que fueron utilizados son los llamados electrodos de superficie, los cuales tienen la peculiaridad de que los registros obtenidos mediante ella muestran actividad poblacional de las unidades motoras, esto es debido a que los electrodos, al estar en la superficie del músculo, no son capaces de captar la señal de una sola unidad motora, sino que por el contrario, captan la información de varias unidades motoras [3].
 
 <p align="center">
