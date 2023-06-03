@@ -124,7 +124,16 @@ La detección de actividad muscular tiene como objetivo obtener tanto el inicio 
 Como utilizamos en el presente algoritmo, la mayoría de los métodos de detección automática de actividad muscular se basan en un umbral. Estos métodos detectan el momento del evento comparando la media de las señales EMG en una ventana deslizante con un cierto umbral [4].
 
 ### *Señales EEG*
+**Importancia del procesamiento de señales EEG**
 
+
+
+**Adquisición de señales EEG**
+
+
+
+
+**Detección de la actividad **
 ## Referencias
 [1] Pluxbiosignals, “pluxbiosignals/biosignalsnotebooks: biosignalsnotebooks project includes a set of Jupyter Notebooks explaining some processing tasks which have been specially designed for biosignalsplux and OpenSignals users. A Python package is also present, containing some functions to support biosignalsnotebooks notebooks or to be used independently.,” GitHub, Dec. 12, 2022. https://github.com/pluxbiosignals/biosignalsnotebooks (accessed Jun. 03, 2023).
 
