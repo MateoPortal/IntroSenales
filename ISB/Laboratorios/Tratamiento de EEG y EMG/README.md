@@ -5,6 +5,7 @@ Laboratorio 9
 
 ## Objetivo 🎯
 En sesiones anteriores (Laboratorios 3 y 5), se obtuvieron señales EMG y EEG a través de un BITalino. Estas señales fueron adquiridas en diferentes contextos. Para el caso de EMG, fueron los siguientes: músculo Bíceps en reposo y flexionado. Para el caso de EEG, estos fueron: en estado basal, respondiendo tanto dos preguntas simples como dos preguntas complejas, recordando una secuencia de palabras y mencionando la misma. 
+
 En esta oportunidad, analizaremos estas muestras de EMG y EEG mediante la aplicación de un algoritmo para la detección de la actividad muscular y para el análisis básico de la señal (alpha, betta, gama y theta), respectivamente [1].
 
 ## Aplicación de los algoritmos
