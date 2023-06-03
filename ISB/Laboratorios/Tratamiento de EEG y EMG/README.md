@@ -98,7 +98,17 @@ A continuación, presentamos nuestras señales EEG con el algoritmo aplicado:
   </p>
 
 ## Discusión
-...
+### EMG
+
+# Importancia del procesamiento de señales EMG
+
+La detección de señales EMG con metodologías potentes y avanzadas se está convirtiendo en un requisito muy importante en la ingeniería biomédica. Un área particularmente interesada en esta tecnología es el campo de la gestión y rehabilitación de la discapacidad motora; debido a que las formas y las tasas de activación de los potenciales de acción de la Unidad motora en las señales EMG proporcionan una importante fuente de información para el diagnóstico de trastornos neuromusculares. 
+
+La aplicación de algoritmos y métodos apropiados para el análisis de señales EMG resulta fundamental para poder comprender adecuadamente la naturaleza y características de la señal en cuestión y, de esta manera, realizar implementaciones de hardware para diversas aplicaciones relacionadas con señales EMG [2].
+
+# Adquisición de señales EMG
+
+Los electrodos que fueron utilizados son los llamados electrodos de superficie, los cuales tienen la peculiaridad de que los registros obtenidos mediante ella muestran actividad poblacional de las unidades motoras, esto es debido a que los electrodos, al estar en la superficie del músculo, no son capaces de captar la señal de una sola unidad motora, sino que por el contrario, captan la información de varias unidades motoras [3].
 
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/An%C3%A1lisis%20de%20se%C3%B1ales%20ECG/imagenes/qrs.jpg" width="60%">
@@ -112,6 +122,8 @@ A continuación, presentamos nuestras señales EEG con el algoritmo aplicado:
 ## Referencias
 [1] Pluxbiosignals, “pluxbiosignals/biosignalsnotebooks: biosignalsnotebooks project includes a set of Jupyter Notebooks explaining some processing tasks which have been specially designed for biosignalsplux and OpenSignals users. A Python package is also present, containing some functions to support biosignalsnotebooks notebooks or to be used independently.,” GitHub, Dec. 12, 2022. https://github.com/pluxbiosignals/biosignalsnotebooks (accessed Jun. 03, 2023).
 
-[2] 
+[2] M. Mamun, M. Mahmood Hussain, and Faisal Mohd-Yasin, “Techniques of EMG signal analysis: detection, processing, classification and applications,” vol. 8, no. 1, pp. 11–35, Mar. 2006, doi: https://doi.org/10.1251/bpo115.
 
-[3] 
+[3] G. Orellana, J. Jacob, and C. Nilo, “FACULTAD DE INGENIERÍA ESCUELA DE INGENIERÍA CIVIL MECATRÓNICA DISEÑO E IMPLEMENTACIÓN DE SISTEMA PARA DETECCIÓN DE SEÑALES ELECTROMIOGRÁFICAS Memoria para optar al Título de Ingeniero Civil Mecatrónico Profesor Guía,” 2018. Available: http://dspace.utalca.cl/bitstream/1950/12299/3/tutcur-20180011.pdf
+
+
