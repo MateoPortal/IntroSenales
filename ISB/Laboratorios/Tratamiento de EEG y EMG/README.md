@@ -19,7 +19,7 @@ A continuación, presentamos nuestras señales EMG con el algoritmo aplicado:
   <i> Señal EMG y de activación en reposo (Amplitud Vs. Tiempo (s))</i>
   </p>
 
-**Señal EMG en reposo**
+**Señal EMG en flexión ... ... ... ... ...**
 
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Tratamiento%20de%20EEG%20y%20EMG/Im%C3%A1genes/plot_EMG_flexion.png" width="80%">
