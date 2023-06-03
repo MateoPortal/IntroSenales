@@ -135,7 +135,12 @@ Asimismo, el procesamiento de señales EEG contribuye a la investigación en neu
 Se colocaron 3 electrodos en la superficie de la piel en las posiciones sugeridas por la guía de bitalino. Los electrodos están conectados a amplificadores EEG que registran la actividad eléctrica del cerebro. Estos amplificadores aumentan la señal débil captada por los electrodos para que pueda ser detectada y procesada con mayor precisión. Además, los amplificadores suelen incluir filtros para eliminar el ruido no deseado, como la interferencia eléctrica y los artefactos musculares.
 La señal EEG amplificada y filtrada se convierte en una señal digital mediante un convertidor analógico-digital (ADC). El ADC muestrea la señal a una tasa adecuada y la cuantifica en intervalos discretos, generando una secuencia de valores numéricos representativos de la actividad eléctrica del cerebro.Una vez que la señal EEG ha sido digitalizada, se almacena en una computadora o dispositivo de adquisición de datos para su posterior análisis. La señal digitalizada puede ser procesada y analizada utilizando diversas técnicas, como el análisis espectral, la detección de eventos y la extracción de características, para extraer información relevante sobre la actividad cerebral y los patrones de actividad. Las pruebas realizadas fueron vendando los ojos a la compañera a la que se le harían las pruebas. Le pedimos memorizar y repetir después de cinco minutos una secuencia de palabras simple y una compleja, además de pedirle que encuentre el resultado a dos problemas matemáticos, igualmente uno simple y uno complejo.
 
-
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Tratamiento%20de%20EEG%20y%20EMG/Im%C3%A1genes/Electrodos%20colocados.jpg" width="30%">
+  </p>
+<p align="center">
+  <i> Posicionamiento de electrodos para lecctura EEG</i>
+  </p>
 
 
 **Detección de la actividad **
