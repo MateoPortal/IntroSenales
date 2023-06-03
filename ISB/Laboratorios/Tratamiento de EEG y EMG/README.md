@@ -143,7 +143,7 @@ La señal EEG amplificada y filtrada se convierte en una señal digital mediante
   </p>
 
 
-**Detección de la actividad **
+**Detección de la actividad**
 
 La detección de la actividad en el EEG busca identificar tanto el inicio como el final de las señales eléctricas que pueden ser capturadas por el electroencefalograma. El inicio se define como el momento en que se produce un cambio en la actividad detectada, mientras que el final representa el cese de este cambio.
 
