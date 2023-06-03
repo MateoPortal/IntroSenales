@@ -4,9 +4,20 @@ Laboratorio 9
 ### Fecha: 3 de junio de 2023
 
 ## Objetivo 🎯
-En sesiones anteriores (Laboratorios 3 y 5), se obtuvieron señales EMG y EEG a través de un BITalino. Estas señales fueron adquiridas en diferentes contextos. Para el caso de EMG fueron los siguientes: ... ... ... ... ... .Para el caso de EEG estos fueron: en estado basal, respondiendo tanto dos preguntas simples como dos preguntas complejas, recordando una secuencia de palabras y mencionando la misma. En esta oportunidad, analizaremos estas muestras mediante la aplicación de algoritmso para ... ...[1].
+En sesiones anteriores (Laboratorios 3 y 5), se obtuvieron señales EMG y EEG a través de un BITalino. Estas señales fueron adquiridas en diferentes contextos. Para el caso de EMG fueron los siguientes: ... ... ... ... ... .Para el caso de EEG estos fueron: en estado basal, respondiendo tanto dos preguntas simples como dos preguntas complejas, recordando una secuencia de palabras y mencionando la misma. En esta oportunidad, analizaremos estas muestras mediante la aplicación de algoritmso para ... ... ... ... [1].
 
-## Aplicación del Algoritmo
+## Aplicación de los algoritmos
+### EMG
+A continuación, presentamos nuestras señales EMG con el algoritmo aplicado:
+**Señal EMG ... ... ... **
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Tratamiento%20de%20EEG%20y%20EMG/Im%C3%A1genes/plot_estado_basal.png" width="80%">
+  </p>
+<p align="center">
+  <i> Señal EMG ... ... ... ... (Amplitud Vs. Tiempo (s))</i>
+  </p>
+
+### EEG
 A continuación, presentamos nuestras señales EEG con el algoritmo aplicado:
 
 **Señal EEG en estado basal**
