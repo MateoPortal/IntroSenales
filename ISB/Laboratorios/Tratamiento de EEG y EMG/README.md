@@ -4,7 +4,7 @@ Laboratorio 9
 ### Fecha: 3 de junio de 2023
 
 ## Objetivo 🎯
-En una sesión anterior (Laboratorio 5), se obtuvieron señales EEG a través de un BITalino. Estas señales fueron adquiridas en diferentes contextos: en estado basal, respondiendo tanto dos preguntas simples como dos preguntas complejas, recordando una secuencia de palabras y mencionando la misma. En esta oportunidad, analizaremos estas muestras mediante la aplicación de un algoritmo para ... [1].
+En sesiones anteriores (Laboratorios 3 y 5), se obtuvieron señales EMG y EEG a través de un BITalino. Estas señales fueron adquiridas en diferentes contextos. Para el caso de EMG fueron los siguientes: ... ... ... ... ... .Para el caso de EEG estos fueron: en estado basal, respondiendo tanto dos preguntas simples como dos preguntas complejas, recordando una secuencia de palabras y mencionando la misma. En esta oportunidad, analizaremos estas muestras mediante la aplicación de algoritmso para ... ...[1].
 
 ## Aplicación del Algoritmo
 A continuación, presentamos nuestras señales EEG con el algoritmo aplicado:
@@ -86,5 +86,8 @@ A continuación, presentamos nuestras señales EEG con el algoritmo aplicado:
 ...
 
 ## Referencias
-[1] 
-‌
+[1] Pluxbiosignals, “pluxbiosignals/biosignalsnotebooks: biosignalsnotebooks project includes a set of Jupyter Notebooks explaining some processing tasks which have been specially designed for biosignalsplux and OpenSignals users. A Python package is also present, containing some functions to support biosignalsnotebooks notebooks or to be used independently.,” GitHub, Dec. 12, 2022. https://github.com/pluxbiosignals/biosignalsnotebooks (accessed Jun. 03, 2023).
+
+[2] 
+
+[3] 
