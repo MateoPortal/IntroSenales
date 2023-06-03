@@ -9,9 +9,20 @@ En sesiones anteriores (Laboratorios 3 y 5), se obtuvieron señales EMG y EEG a 
 ## Aplicación de los algoritmos
 ### EMG
 A continuación, presentamos nuestras señales EMG con el algoritmo aplicado:
-**Señal EMG ... ... ... **
+
+**Señal EMG en reposo**
+
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Tratamiento%20de%20EEG%20y%20EMG/Im%C3%A1genes/plot_estado_basal.png" width="80%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Tratamiento%20de%20EEG%20y%20EMG/Im%C3%A1genes/plot_EMG_reposo.png" width="80%">
+  </p>
+<p align="center">
+  <i> Señal EMG ... ... ... ... (Amplitud Vs. Tiempo (s))</i>
+  </p>
+
+**Señal EMG en reposo**
+
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Tratamiento%20de%20EEG%20y%20EMG/Im%C3%A1genes/plot_EMG_flexion.png" width="80%">
   </p>
 <p align="center">
   <i> Señal EMG ... ... ... ... (Amplitud Vs. Tiempo (s))</i>
