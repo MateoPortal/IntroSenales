@@ -40,18 +40,19 @@ Muestras de la base de datos :
 
 ### Procesamiento de datos
 
-Para el procesamiento de datos se necesita primero de eliminar muestras en donde falten variables significativas (variables independientes) . Posteriormente a ello se verifica cuales de las variables serán utilizadas para el conjunto de entrenamiento, por ejemplo si una variable en el conjunto de datos es constante(solo tiene una categoría) no se utilizará o no influiría en el entrenamiento.
+Para efectuar un procesamiento de datos adecuado, es esencial iniciar con la eliminación de aquellas muestras que carecen de variables significativas, también conocidas como variables independientes. Una vez realizado este paso, procedemos a determinar cuáles de estas variables se incorporarán en el conjunto de entrenamiento. Es relevante mencionar que si una variable en el conjunto de datos resulta ser constante (posee una única categoría), no se tomará en cuenta o, de lo contrario, no tendría influencia sobre el entrenamiento.
 
-Posteriormente a ello vemos como se encuentra dividida la variable dependiente (el desbalance de los datos) 
+En la etapa posterior, evaluamos la distribución de la variable dependiente, con el objetivo de identificar cualquier posible desbalance en los datos. Este análisis es crucial para asegurar la precisión y eficacia del modelo de aprendizaje automático que se está construyendo.
 
-IMAGEN
+IMAGEN de balanceo
 
-Se selecciona las variables a utilizar ( Se escojerá aleatoriamente)
+La selección de las variables a utilizar en el modelo de aprendizaje automático es una fase crucial del proceso. Este paso se realizará mediante un procedimiento aleatorio, lo que garantiza una representación equitativa y no sesgada de todas las posibles variables presentes.
 
-Dividimos la data en un conjunto de entrenamiento y testeo (0,25%)
+Posteriormente, procedemos a dividir nuestros datos en dos conjuntos distintos: uno de entrenamiento y uno de prueba. La proporción utilizada para esta partición es tal que el (75%) de los datos se asignarán para entrenamiento y el (25%) restante se reservará para pruebas.
 
 
 ### Estandarización de caracteristicas
+
 
 
 
