@@ -40,6 +40,15 @@ Muestras de la base de datos :
 
 ### Procesamiento de datos
 
+Para el procesamiento de datos se necesita primero de eliminar muestras en donde falten variables significativas (variables independientes) . Posteriormente a ello se verifica cuales de las variables serán utilizadas para el conjunto de entrenamiento, por ejemplo si una variable en el conjunto de datos es constante(solo tiene una categoría) no se utilizará o no influiría en el entrenamiento.
+
+Posteriormente a ello vemos como se encuentra dividida la variable dependiente (el desbalance de los datos) 
+
+IMAGEN
+
+Se selecciona las variables a utilizar ( Se escojerá aleatoriamente)
+
+Dividimos la data en un conjunto de entrenamiento y testeo (0,25%)
 
 
 ### Estandarización de caracteristicas
