@@ -24,8 +24,8 @@
 
 Se utilizó una base de datos de 7 variables independientes y de 1 variable dependiente . La base de datos se adapta para utilizar en un modelo de machine learning de clasificación.
 
-Variables in dependientes : [C, Rp, Dif_vol, V_in, V_out, P_ventilador, PIP]
-Variable dependiente : Error_aceptable
+Variables in dependientes : [C, Rp, Dif_vol, V_in, V_out, P_ventilador, PIP]   </p>
+Variable dependiente : Error_aceptable   </p>
 Muestras de la base de datos : 
 
 ### Código 
