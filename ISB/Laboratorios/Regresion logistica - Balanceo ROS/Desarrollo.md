@@ -17,6 +17,7 @@
 * Extraer características de la base de datos.
 * Entrenamiento del modelo de Regresión Logistica.
 * Evaluar las métricas del modelo entrenado. 
+* Balanceo del conjunto de datos y posteriormente evaluar las métricas.
 
 ## Materiales
 
