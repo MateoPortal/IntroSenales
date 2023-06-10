@@ -94,7 +94,7 @@ La precisión es una métrica que indica cuán exactas son las predicciones posi
 Por otro lado, el recall indica qué proporción de casos positivos reales fueron identificados correctamente por el modelo. El recall para la clase 0 es del 60%, lo que quiere decir que el modelo identificó correctamente el 60% de los casos de esta clase. Para la clase 1, el recall es del 92%, es decir, el modelo identificó correctamente el 92% de los casos de esta clase.
 
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Regresion%20logistica%20-%20Balanceo%20ROS/Imagenes/metricasmodelo.JPG" alt="2hilo" width="40%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Regresion%20logistica%20-%20Balanceo%20ROS/Imagenes/metricasmodelo.JPG" alt="2hilo" width="50%">
   </p>
 
 
@@ -111,14 +111,13 @@ En la segunda fila, 1 representa los Falsos Negativos (FN), es decir, los casos 
 Por lo tanto, el modelo ha predicho correctamente la mayoría de los casos, con solo 3 errores (2 Falsos Positivos y 1 Falso Negativo). Esto muestra que el modelo tiene un buen desempeño, aunque tiende a clasificar incorrectamente los casos negativos como positivos un poco más a menudo.
 
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Regresion%20logistica%20-%20Balanceo%20ROS/Imagenes/matrizconfusion1.png" alt="2hilo" width="40%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Regresion%20logistica%20-%20Balanceo%20ROS/Imagenes/matrizconfusion1.png" alt="2hilo" width="60%">
 </p>
 
 <p align="center">
  Figura 4. Matriz de confusión del modelo creado  </em>
 </p>
 
-Imágen de clasificador
 
 ### Balanceo ROS
 
