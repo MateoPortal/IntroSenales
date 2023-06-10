@@ -5,12 +5,11 @@
 
 
 ## Tabla de contenidos
- 1. [Objetivos](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Desarrollo.md#objetivos)
- 2. [Materiales](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Desarrollo.md#materiales)
- 3. [Procedimientos](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Desarrollo.md#procedimientos)
- 4. [Resultados](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Desarrollo.md#resultados-del-ploteo-de-la-se%C3%B1al-en-python)
- 5. [Discusión](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Desarrollo.md#discusi%C3%B3n)
- 6. [Bibliografía](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Desarrollo.md#bibliograf%C3%ADa)
+ 1. [Objetivos]
+ 2. [Materiales]
+ 3. [Resultados]
+ 4. [Discusión]
+ 5. [Bibliografía](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Desarrollo.md#bibliograf%C3%ADa)
 
 ## Objetivos
 
@@ -53,7 +52,10 @@ La regresión logística es uno de los métodos estadisticos mas utilizado para 
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Regresion%20logistica%20-%20Balanceo%20ROS/Imagenes/Imag1.JPG" alt="2hilo" width="40%">
   </p>
 
-Figura 1: Representación grafica de la funcion sigmoidea 
+<p align="center">
+ Figura 2. Matriz de confusión del modelo creado  </em>
+</p>
+
 
 ### Procesamiento de datos
 
@@ -69,12 +71,6 @@ La selección de las variables a utilizar en el modelo de aprendizaje automátic
 
 Posteriormente, procedemos a dividir nuestros datos en dos conjuntos distintos: uno de entrenamiento y uno de prueba. La proporción utilizada para esta partición es tal que el (75%) de los datos se asignarán para entrenamiento y el (25%) restante se reservará para pruebas.
 
-
-### Estandarización de caracteristicas
-
-
-
-
 ### Entrenamiento del modelo
 
 Se realizó el conjunto el entranamiento del modelo con las muestras anteriormente seleccionadas. Para ello, se utilizó la libreria sckit-learn. 
@@ -86,7 +82,7 @@ Luego del entrenamiento se realiza un análisis de los coeficientes utilizando l
   </p>
 
 <p align="center">
- Figura 2. Análisis del p- value de los coeficientes  </em>
+ Figura 3. Análisis del p- value de los coeficientes  </em>
   </p>
 
 Se observa que en este caso, en una variable no se logra obtener un p-value deseado. 
@@ -105,7 +101,7 @@ Por otro lado, el recall indica qué proporción de casos positivos reales fuero
 
 
 <p align="center">
- Figura 3. Análisis de las métricas del modelo  </em>
+ Figura 4. Análisis de las métricas del modelo  </em>
   </p>
 
 La matriz de confusión es una herramienta útil para entender el rendimiento de un modelo de clasificación. 
@@ -121,7 +117,7 @@ Por lo tanto, el modelo ha predicho correctamente la mayoría de los casos, con 
 </p>
 
 <p align="center">
- Figura 4. Matriz de confusión del modelo creado  </em>
+ Figura 5. Matriz de confusión del modelo creado  </em>
 </p>
 
 
@@ -141,7 +137,7 @@ Después de aplicar el balanceo mediante ROS, se revisan los p-values de las var
 
 
 <p align="center">
- Figura 5. Análisis de p value de los coeficientes luego del ROS  </em>
+ Figura 6. Análisis de p value de los coeficientes luego del ROS  </em>
   </p>
 
 Posteriormente, se analizan las métricas del modelo con el conjunto de datos balanceado. La tabla de métricas es la siguiente:
@@ -152,7 +148,7 @@ Posteriormente, se analizan las métricas del modelo con el conjunto de datos ba
 
 
 <p align="center">
- Figura 6. Análisis de métricas luego del ROS  </em>
+ Figura 7. Análisis de métricas luego del ROS  </em>
   </p>
 
 Para la clase 0, se observa un incremento notable en el recall, llegando al 100%, aunque la precisión ha disminuido a 62%. La clase 1 mantiene una precisión perfecta, pero su recall ha disminuido al 77%. En general, la precisión y el recall promedio ponderado para el modelo son 90% y 83% respectivamente, mostrando una mejora en comparación con el modelo anterior sin balancear.
@@ -165,7 +161,7 @@ Estos resultados sugieren que el balanceo de los datos ha permitido al modelo me
 
 
 <p align="center">
- Figura 7. Matriz de confusión luego del ROS  </em>
+ Figura 8. Matriz de confusión luego del ROS  </em>
   </p>
 
 
