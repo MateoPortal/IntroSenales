@@ -50,7 +50,7 @@ Variable dependiente : Error_aceptable   </p>
 La regresión logística es uno de los métodos estadisticos mas utilizado para la clasificación y el más sencillo.  Es una técnica basada en el análisis de regresión estadística utilizada para modelar la relación entre una variable dependiente binaria y una o más variables independientes. Se usa generalmente cuando la variable dependiente representa un resultado binario, como por ejemplo de tipo Si/No, enfermo/sano, etc. La función logística, también conocida como función sigmoidea, asigna cualquier número de valor real a un valor entre 0 y 1, que representa la probabilidad de que ocurra el evento. Esta es una gran ventaja con respecto a otros modelos pues los resultados se muestran como una probabilidad de pertenecer a una de dos categorías. Para llegar a ello, este modelo estima los coeficientes de las variables independientes, que representan el cambio en las probabilidades logarítmicas de la variable dependiente asociada con un cambio de una unidad en la variable independiente correspondiente, suponiendo que todas las demás variables se mantienen constantes. El valor de estas variables se estima usualmente con el método de máxima verosimilitud.
 
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Regresion%20logistica%20-%20Balanceo%20ROS/Imagenes/balanceo1.png" alt="2hilo" width="40%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Regresion%20logistica%20-%20Balanceo%20ROS/Imagenes/Imag1.JPG" alt="2hilo" width="40%">
   </p>
 
 Figura 1: Representación grafica de la funcion sigmoidea 
@@ -62,7 +62,7 @@ Para efectuar un procesamiento de datos adecuado, es esencial iniciar con la eli
 En la etapa posterior, evaluamos la distribución de la variable dependiente, con el objetivo de identificar cualquier posible desbalance en los datos. Este análisis es crucial para asegurar la precisión y eficacia del modelo de aprendizaje automático que se está construyendo.
 
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Regresion%20logistica%20-%20Balanceo%20ROS/Imagenes/Imag1.JPG" alt="2hilo" width="40%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Regresion%20logistica%20-%20Balanceo%20ROS/Imagenes/balanceo1.png" alt="2hilo" width="40%">
   </p>
 
 La selección de las variables a utilizar en el modelo de aprendizaje automático es una fase crucial del proceso. Este paso se realizará mediante un procedimiento aleatorio, lo que garantiza una representación equitativa y no sesgada de todas las posibles variables presentes.
