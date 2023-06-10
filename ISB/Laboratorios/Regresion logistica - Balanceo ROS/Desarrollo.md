@@ -127,17 +127,40 @@ Este desequilibrio puede llevar a que el modelo de aprendizaje automático apren
 
 ### Métricas del modelo y Matriz de Confusión con el Modelo ROS
 
-Después de aplicar el balanceo mediante ROS, se revisan los p-values de las variables nuevamente. Los nuevos p-values para las variables x1 y x2 son 0.037976 y 0.005582 respectivamente, ambos valores por debajo del umbral estándar de 0.05. Por lo tanto, las variables son estadísticamente significativas y aportan información útil para el modelo.
+Después de aplicar el balanceo mediante ROS, se revisan los p-values de las variables nuevamente. Los nuevos p-values para las variables V_dif y PIP son 0.037976 y 0.005582 respectivamente, ambos valores por debajo del umbral estándar de 0.05. Por lo tanto, las variables son estadísticamente significativas y aportan información útil para el modelo.
+
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Regresion%20logistica%20-%20Balanceo%20ROS/Imagenes/coeficientes2.JPG" alt="2hilo" width="40%">
+  </p>
+
+
+<p align="center">
+ Figura 5. Análisis de p value de los coeficientes luego del ROS  </em>
+  </p>
 
 Posteriormente, se analizan las métricas del modelo con el conjunto de datos balanceado. La tabla de métricas es la siguiente:
 
-Imágen de métricas 2 
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Regresion%20logistica%20-%20Balanceo%20ROS/Imagenes/metricas2.JPG" alt="2hilo" width="40%">
+  </p>
+
+
+<p align="center">
+ Figura 6. Análisis de métricas luego del ROS  </em>
+  </p>
 
 Para la clase 0, se observa un incremento notable en el recall, llegando al 100%, aunque la precisión ha disminuido a 62%. La clase 1 mantiene una precisión perfecta, pero su recall ha disminuido al 77%. En general, la precisión y el recall promedio ponderado para el modelo son 90% y 83% respectivamente, mostrando una mejora en comparación con el modelo anterior sin balancear.
 
 Estos resultados sugieren que el balanceo de los datos ha permitido al modelo mejorar en la identificación de la clase minoritaria, a costa de algunas predicciones incorrectas en la clase mayoritaria. Esta es una compensación común en la clasificación, y la elección entre precisión y recall depende del problema específico que se esté resolviendo.
 
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Regresion%20logistica%20-%20Balanceo%20ROS/Imagenes/matrizconfusionfinal.png" alt="2hilo" width="40%">
+  </p>
 
+
+<p align="center">
+ Figura 7. Matriz de confusión luego del ROS  </em>
+  </p>
 
 
 ## Bibliografía
