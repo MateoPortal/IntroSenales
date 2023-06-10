@@ -27,13 +27,17 @@ Se utilizó una base de datos de 7 variables independientes y de 1 variable depe
 
 Variables in dependientes : [C, Rp, Dif_vol, V_in, V_out, P_ventilador, PIP]   </p>
 Variable dependiente : Error_aceptable   </p>
-Muestras de la base de datos : 
+
 
 
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Regresion%20logistica%20-%20Balanceo%20ROS/Imagenes/muestradedatos.JPG" alt="2hilo" width="40%">
   </p>
 
+
+ <p align="center">
+ Figura 1. Muestras de la base de datos : </em>
+  </p>
 
 ### Código 
 
