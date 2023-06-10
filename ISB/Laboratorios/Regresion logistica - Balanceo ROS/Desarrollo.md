@@ -47,7 +47,13 @@ Variable dependiente : Error_aceptable   </p>
 
 ### Modelo a utilizar
 
+La regresión logística es uno de los métodos estadisticos mas utilizado para la clasificación y el más sencillo.  Es una técnica basada en el análisis de regresión estadística utilizada para modelar la relación entre una variable dependiente binaria y una o más variables independientes. Se usa generalmente cuando la variable dependiente representa un resultado binario, como por ejemplo de tipo Si/No, enfermo/sano, etc. La función logística, también conocida como función sigmoidea, asigna cualquier número de valor real a un valor entre 0 y 1, que representa la probabilidad de que ocurra el evento. Esta es una gran ventaja con respecto a otros modelos pues los resultados se muestran como una probabilidad de pertenecer a una de dos categorías. Para llegar a ello, este modelo estima los coeficientes de las variables independientes, que representan el cambio en las probabilidades logarítmicas de la variable dependiente asociada con un cambio de una unidad en la variable independiente correspondiente, suponiendo que todas las demás variables se mantienen constantes. El valor de estas variables se estima usualmente con el método de máxima verosimilitud.
 
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Regresion%20logistica%20-%20Balanceo%20ROS/Imagenes/Imag1.jpg" alt="2hilo" width="40%">
+  </p>
+
+Figura 1: Representación grafica de la funcion sigmoidea 
 
 ### Procesamiento de datos
 
@@ -171,3 +177,9 @@ Estos resultados sugieren que el balanceo de los datos ha permitido al modelo me
 [3] Y. Zhu, Q. Wang, and L. Zhang, “Study of EEG characteristics while solving scientific problems with different mental effort,” Scientific Reports, vol. 11, no. 1, 2021. 
 
 [4] X. Zeng, X. Zhao, S. Wang, J. Qin, J. Xie, X. Zhong, J. Chen, and G. Liu, “Affection of facial artifacts caused by micro-expressions on Electroencephalography signals,” Frontiers in Neuroscience, vol. 16, 2022. 
+
+[X] Heras, J. M. Regresión Logística para Clasificación - IArtificial.net. 2020. Available from: https://www.iartificial.net/regresion-logistica-para-clasificacion/
+
+[X] Horacio Chitarroni. La regresión logística. Diciembre, 2002. Available from: https://racimo.usal.edu.ar/83/1/Chitarroni17.pdf
+
+[X] González, J. R. 6 Regresión logística | Aprendizaje Automático. vol 1. 2021 Nov. Available from: https://isglobal-brge.github.io/Aprendizaje_Automatico_1/regresi%C3%B3n-log%C3%ADstica.html
