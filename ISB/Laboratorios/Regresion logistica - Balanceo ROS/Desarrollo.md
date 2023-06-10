@@ -25,7 +25,7 @@
 
 Se utilizó una base de datos de 7 variables independientes y de 1 variable dependiente . La base de datos se adapta para utilizar en un modelo de machine learning de clasificación.
 
-Variables in dependientes : [C, Rp, Dif_vol, V_in, V_out, P_ventilador, PIP]   </p>
+Variables independientes : [C, Rp, Dif_vol, V_in, V_out, P_ventilador, PIP]   </p>
 Variable dependiente : Error_aceptable   </p>
 
 
@@ -34,10 +34,10 @@ Variable dependiente : Error_aceptable   </p>
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Regresion%20logistica%20-%20Balanceo%20ROS/Imagenes/muestradedatos.JPG" alt="2hilo" width="40%">
   </p>
 
-
  <p align="center">
  Figura 1. Muestras de la base de datos : </em>
   </p>
+
 
 ### Código 
 
@@ -75,6 +75,15 @@ Se realizó el conjunto el entranamiento del modelo con las muestras anteriormen
 
 Luego del entrenamiento se realiza un análisis de los coeficientes utilizando la libreria statsmodels para evaluar si efectivamente las variables son óptimas para el modelo. Para determinar si son óptimas se debe tener en cuenta que el p-value de cada variable debe ser menor a 0.05. 
 
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Regresion%20logistica%20-%20Balanceo%20ROS/Imagenes/Captura.JPG" alt="2hilo" width="40%">
+  </p>
+
+<p align="center">
+ Figura 2. Análisis del p- value de los coeficientes  </em>
+  </p>
+
+Se observa que en este caso, en una variable no se logra obtener un p-value deseado. 
 
 ### Métricas del modelo y Matriz de Confusión
 
