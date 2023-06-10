@@ -9,7 +9,7 @@
  2. [Materiales]
  3. [Resultados]
  4. [Discusión]
- 5. [Bibliografía](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Desarrollo.md#bibliograf%C3%ADa)
+ 5. [Bibliografía]
 
 ## Objetivos
 
@@ -166,19 +166,13 @@ Estos resultados sugieren que el balanceo de los datos ha permitido al modelo me
 
 
 ## Bibliografía
-[1] “BITalino (r)evolution Lab Guide.” Revisado en: Abril 19, 2023. [Online]. Disponible en: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf
 
-[2] Rayi A, Murr N. Electroencephalogram. [Updated 2022 Oct 3]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023 Jan-. Available from: https://www.ncbi.nlm.nih.gov/books/NBK563295/
 
-[3] Y. Zhu, Q. Wang, and L. Zhang, “Study of EEG characteristics while solving scientific problems with different mental effort,” Scientific Reports, vol. 11, no. 1, 2021. 
+[1] Heras, J. M. Regresión Logística para Clasificación - IArtificial.net. 2020. Available from: https://www.iartificial.net/regresion-logistica-para-clasificacion/
 
-[4] X. Zeng, X. Zhao, S. Wang, J. Qin, J. Xie, X. Zhong, J. Chen, and G. Liu, “Affection of facial artifacts caused by micro-expressions on Electroencephalography signals,” Frontiers in Neuroscience, vol. 16, 2022. 
+[2] Horacio Chitarroni. La regresión logística. Diciembre, 2002. Available from: https://racimo.usal.edu.ar/83/1/Chitarroni17.pdf
 
-[X] Heras, J. M. Regresión Logística para Clasificación - IArtificial.net. 2020. Available from: https://www.iartificial.net/regresion-logistica-para-clasificacion/
-
-[X] Horacio Chitarroni. La regresión logística. Diciembre, 2002. Available from: https://racimo.usal.edu.ar/83/1/Chitarroni17.pdf
-
-[X] González, J. R. 6 Regresión logística | Aprendizaje Automático. vol 1. 2021 Nov. Available from: https://isglobal-brge.github.io/Aprendizaje_Automatico_1/regresi%C3%B3n-log%C3%ADstica.html
+[3] González, J. R. 6 Regresión logística | Aprendizaje Automático. vol 1. 2021 Nov. Available from: https://isglobal-brge.github.io/Aprendizaje_Automatico_1/regresi%C3%B3n-log%C3%ADstica.html
 
 
 [def]: ttps://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Regresion%20logistica%20-%20Balanceo%20ROS/Imagenes/balanceo1.jp
