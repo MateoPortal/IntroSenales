@@ -40,7 +40,7 @@ Variable dependiente : Error_aceptable   </p>
 
 ### Código 
 
-[Descargar código de Python](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/py.txt)
+[Libro Jupyter](https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Regresion%20logistica%20-%20Balanceo%20ROS/Balanceo_ROS(2).ipynb)
 
 ## Discusión
 
