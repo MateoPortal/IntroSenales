@@ -68,7 +68,23 @@ Luego del entrenamiento se realiza un análisis de los coeficientes utilizando l
 
 ### Métricas del modelo y Matriz de Confusión
 
+Analizaremos algunas métricas del modelo de regresión logística, principalmente la precisión y el recall.
 
+La precisión es una métrica que indica cuán exactas son las predicciones positivas del modelo. En este caso, la precisión general es del 83%, lo que significa que el modelo predijo correctamente el 83% de las veces. Si desglosamos por clases, tenemos una precisión del 75% para la clase 0 y del 86% para la clase 1.
+
+Por otro lado, el recall indica qué proporción de casos positivos reales fueron identificados correctamente por el modelo. El recall para la clase 0 es del 60%, lo que quiere decir que el modelo identificó correctamente el 60% de los casos de esta clase. Para la clase 1, el recall es del 92%, es decir, el modelo identificó correctamente el 92% de los casos de esta clase.
+
+Imagen de métricas
+
+La matriz de confusión es una herramienta útil para entender el rendimiento de un modelo de clasificación. 
+
+En la primera fila, 3 representa los Verdaderos Positivos (TP), es decir, los casos que fueron correctamente identificados como positivos (clase 1). Luego, 2 representa los Falsos Positivos (FP), los casos que fueron incorrectamente identificados como positivos (clase 1) aunque en realidad son negativos (clase 0).
+
+En la segunda fila, 1 representa los Falsos Negativos (FN), es decir, los casos que fueron incorrectamente identificados como negativos (clase 0) aunque son en realidad positivos (clase 1). Finalmente, 12 son los Verdaderos Negativos (TN), los casos que fueron correctamente identificados como negativos (clase 0).
+
+Por lo tanto, el modelo ha predicho correctamente la mayoría de los casos, con solo 3 errores (2 Falsos Positivos y 1 Falso Negativo). Esto muestra que el modelo tiene un buen desempeño, aunque tiende a clasificar incorrectamente los casos negativos como positivos un poco más a menudo.
+
+Imágen de matriz de confusión
 
 ### Balanceo ROS
 
