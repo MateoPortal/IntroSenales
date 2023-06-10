@@ -45,7 +45,9 @@ Para efectuar un procesamiento de datos adecuado, es esencial iniciar con la eli
 
 En la etapa posterior, evaluamos la distribución de la variable dependiente, con el objetivo de identificar cualquier posible desbalance en los datos. Este análisis es crucial para asegurar la precisión y eficacia del modelo de aprendizaje automático que se está construyendo.
 
-IMAGEN de balanceo
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Regresion%20logistica%20-%20Balanceo%20ROS/Imagenes/balanceo1.png" alt="2hilo" width="25%">
+  </p>
 
 La selección de las variables a utilizar en el modelo de aprendizaje automático es una fase crucial del proceso. Este paso se realizará mediante un procedimiento aleatorio, lo que garantiza una representación equitativa y no sesgada de todas las posibles variables presentes.
 
