@@ -61,9 +61,12 @@ Posteriormente, procedemos a dividir nuestros datos en dos conjuntos distintos: 
 
 ### Entrenamiento del modelo
 
+Se realizó el conjunto el entranamiento del modelo con las muestras anteriormente seleccionadas. Para ello, se utilizó la libreria sckit-learn. 
+
+Luego del entrenamiento se realiza un análisis de los coeficientes utilizando la libreria statsmodels para evaluar si efectivamente las variables son óptimas para el modelo. Para determinar si son óptimas se debe tener en cuenta que el p-value de cada variable debe ser menor a 0.05. 
 
 
-### Métricas del modelo
+### Métricas del modelo y Matriz de Confusión
 
 
 
