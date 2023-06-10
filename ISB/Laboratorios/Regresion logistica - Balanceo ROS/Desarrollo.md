@@ -29,6 +29,12 @@ Variables in dependientes : [C, Rp, Dif_vol, V_in, V_out, P_ventilador, PIP]   <
 Variable dependiente : Error_aceptable   </p>
 Muestras de la base de datos : 
 
+
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Regresion%20logistica%20-%20Balanceo%20ROS/Imagenes/muestradedatos.JPG" alt="2hilo" width="40%">
+  </p>
+
+
 ### Código 
 
 [Descargar código de Python](https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/py.txt)
