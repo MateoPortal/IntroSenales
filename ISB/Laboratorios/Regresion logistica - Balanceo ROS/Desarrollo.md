@@ -154,7 +154,7 @@ Para la clase 0, se observa un incremento notable en el recall, llegando al 100%
 Estos resultados sugieren que el balanceo de los datos ha permitido al modelo mejorar en la identificación de la clase minoritaria, a costa de algunas predicciones incorrectas en la clase mayoritaria. Esta es una compensación común en la clasificación, y la elección entre precisión y recall depende del problema específico que se esté resolviendo.
 
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Regresion%20logistica%20-%20Balanceo%20ROS/Imagenes/matrizconfusionfinal.png" alt="2hilo" width="40%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Regresion%20logistica%20-%20Balanceo%20ROS/Imagenes/matrizconfusionfinal.png" alt="2hilo" width="60%">
   </p>
 
 
