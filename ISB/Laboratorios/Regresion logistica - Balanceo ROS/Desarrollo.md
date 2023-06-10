@@ -127,6 +127,18 @@ Este desequilibrio puede llevar a que el modelo de aprendizaje automático apren
 
 ### Métricas del modelo y Matriz de Confusión con el Modelo ROS
 
+Después de aplicar el balanceo mediante ROS, se revisan los p-values de las variables nuevamente. Los nuevos p-values para las variables x1 y x2 son 0.037976 y 0.005582 respectivamente, ambos valores por debajo del umbral estándar de 0.05. Por lo tanto, las variables son estadísticamente significativas y aportan información útil para el modelo.
+
+Posteriormente, se analizan las métricas del modelo con el conjunto de datos balanceado. La tabla de métricas es la siguiente:
+
+Imágen de métricas 2 
+
+Para la clase 0, se observa un incremento notable en el recall, llegando al 100%, aunque la precisión ha disminuido a 62%. La clase 1 mantiene una precisión perfecta, pero su recall ha disminuido al 77%. En general, la precisión y el recall promedio ponderado para el modelo son 90% y 83% respectivamente, mostrando una mejora en comparación con el modelo anterior sin balancear.
+
+Estos resultados sugieren que el balanceo de los datos ha permitido al modelo mejorar en la identificación de la clase minoritaria, a costa de algunas predicciones incorrectas en la clase mayoritaria. Esta es una compensación común en la clasificación, y la elección entre precisión y recall depende del problema específico que se esté resolviendo.
+
+
+
 
 ## Bibliografía
 [1] “BITalino (r)evolution Lab Guide.” Revisado en: Abril 19, 2023. [Online]. Disponible en: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf
