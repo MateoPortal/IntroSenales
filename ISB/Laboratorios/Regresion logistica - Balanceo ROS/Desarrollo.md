@@ -86,7 +86,15 @@ Por lo tanto, el modelo ha predicho correctamente la mayoría de los casos, con 
 
 Imágen de matriz de confusión
 
+Imágen de clasificador
+
 ### Balanceo ROS
+
+Dado que el conjunto de entrenamiento consta de 51 muestras (11 negativas y 40 positivas), es necesario realizar un balanceo mediante el método de sobremuestreo aleatorio (Random OverSampling, ROS) para abordar el problema del desequilibrio de clases.
+
+Este desequilibrio puede llevar a que el modelo de aprendizaje automático aprenda más sobre la clase dominante (en este caso, la positiva), lo que podría resultar en un sesgo hacia esa clase. Esto significa que el modelo puede no ser tan efectivo para detectar la clase minoritaria (en este caso, la negativa) ya que ha tenido menos datos para aprender sobre ella.
+
+### Métricas del modelo y Matriz de Confusión con el Modelo ROS
 
 
 ## Bibliografía
