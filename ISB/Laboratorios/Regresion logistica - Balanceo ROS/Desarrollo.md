@@ -99,7 +99,7 @@ Por otro lado, el recall indica qué proporción de casos positivos reales fuero
 
 
 <p align="center">
- Figura 2. Análisis de las métricas del modelo  </em>
+ Figura 3. Análisis de las métricas del modelo  </em>
   </p>
 
 La matriz de confusión es una herramienta útil para entender el rendimiento de un modelo de clasificación. 
@@ -110,7 +110,13 @@ En la segunda fila, 1 representa los Falsos Negativos (FN), es decir, los casos 
 
 Por lo tanto, el modelo ha predicho correctamente la mayoría de los casos, con solo 3 errores (2 Falsos Positivos y 1 Falso Negativo). Esto muestra que el modelo tiene un buen desempeño, aunque tiende a clasificar incorrectamente los casos negativos como positivos un poco más a menudo.
 
-Imágen de matriz de confusión
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Regresion%20logistica%20-%20Balanceo%20ROS/Imagenes/matrizconfusion1.png" alt="2hilo" width="40%">
+</p>
+
+<p align="center">
+ Figura 4. Matriz de confusión del modelo creado  </em>
+</p>
 
 Imágen de clasificador
 
