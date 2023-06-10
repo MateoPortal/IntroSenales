@@ -93,7 +93,14 @@ La precisión es una métrica que indica cuán exactas son las predicciones posi
 
 Por otro lado, el recall indica qué proporción de casos positivos reales fueron identificados correctamente por el modelo. El recall para la clase 0 es del 60%, lo que quiere decir que el modelo identificó correctamente el 60% de los casos de esta clase. Para la clase 1, el recall es del 92%, es decir, el modelo identificó correctamente el 92% de los casos de esta clase.
 
-Imagen de métricas
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Laboratorios/Regresion%20logistica%20-%20Balanceo%20ROS/Imagenes/metricasmodelo.JPG" alt="2hilo" width="40%">
+  </p>
+
+
+<p align="center">
+ Figura 2. Análisis de las métricas del modelo  </em>
+  </p>
 
 La matriz de confusión es una herramienta útil para entender el rendimiento de un modelo de clasificación. 
 
