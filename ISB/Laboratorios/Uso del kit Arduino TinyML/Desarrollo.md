@@ -2,7 +2,7 @@
  1. [Objetivos](https://github.com/MateoPortal/IntroSenales/edit/main/ISB/Laboratorios/Uso%20del%20kit%20Arduino%20TinyML/Desarrollo.md#objetivos)
  2. [Materiales y Equipos](https://github.com/MateoPortal/IntroSenales/edit/main/ISB/Laboratorios/Uso%20del%20kit%20Arduino%20TinyML/Desarrollo.md#objetivos)
  3. [Fundamentos](https://github.com/MateoPortal/IntroSenales/edit/main/ISB/Laboratorios/Uso%20del%20kit%20Arduino%20TinyML/Desarrollo.md#objetivos)
- 
+ 4. [Archivos](https://github.com/MateoPortal/IntroSenales/edit/main/ISB/Laboratorios/Uso%20del%20kit%20Arduino%20TinyML/Desarrollo.md#edge-impulse)
 
 ## Objetivos:
 1. Conocer los aspectos básicos del TinyML con el Arduino 33 BLE Sense.
@@ -32,3 +32,6 @@ El kit consta de Arduino Nano 33 BLE Sense. Esta placa tiene la capacidad de det
 ### Edge Impulse
 Edge Impulse es una plataforma que permite trabajar en el desarrollo y la implementación de soluciones  de Machine Learning en dispositivos de borde o "edge devices". Con un enfoque en la simplicidad y la eficiencia, Edge Impulse proporciona las herramientas necesarias para recopilar datos, entrenar modelos de Machine Learning y desplegarlos en dispositivos de baja potencia.
 
+## Archivos
+El video final y los archivos correspondientes a este laboratorio se encuentran en la siguiente carpeta:
+https://drive.google.com/drive/folders/16ubjwJNM1xx-E6nFgoBeqoUyj5rzD_zk?usp=sharing
