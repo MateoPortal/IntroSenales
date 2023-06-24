@@ -12,7 +12,7 @@
 
 ## Materiales y Equipos
 ### Tiny ML Kit 
-EL Kit incluye: 
+El Kit incluye: 
 1. Arduino nano 33 BLE
 2. Cámara OV7675
 3. Tiny ML Shield
