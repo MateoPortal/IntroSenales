@@ -17,10 +17,6 @@ El Kit incluye:
 3. Tiny ML Shield
 4. cable USB
 
-<p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Im%C3%A1genes/bitalino%20y%20bateria.jpg" alt="bitalino" width="45%">
-  </p>
-
 ## Fundamentos
 ### Arduino Tiny Machine Learning Kit
 El kit consta de Arduino Nano 33 BLE Sense. Esta placa tiene la capacidad de detectar movimiento, aceleración, rotación, presión barométrica, sonidos, proximidad, color e intensidad de la luz. Además, incluye un módulo de cámara (OV7675) y una Shield personalizada para facilitar la conexión de los componentes y crear un proyecto TinyML. Se puede explorar casos prácticos de uso de Machine Learning utilizando algoritmos clásicos o redes neuronales profundas con la tecnología de TensorFlow Lite Micro.
