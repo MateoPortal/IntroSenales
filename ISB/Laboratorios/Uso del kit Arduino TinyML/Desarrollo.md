@@ -1,8 +1,8 @@
 # Tabla de contenidos
- 1. [Objetivos]()
- 2. [Materiales y Equipos]()
- 3. [Pautas de seguridad]()
- 4. [Fundamentos]()
+ 1. [Objetivos](https://github.com/MateoPortal/IntroSenales/edit/main/ISB/Laboratorios/Uso%20del%20kit%20Arduino%20TinyML/Desarrollo.md#objetivos)
+ 2. [Materiales y Equipos](https://github.com/MateoPortal/IntroSenales/edit/main/ISB/Laboratorios/Uso%20del%20kit%20Arduino%20TinyML/Desarrollo.md#objetivos)
+ 3. [Pautas de seguridad](https://github.com/MateoPortal/IntroSenales/edit/main/ISB/Laboratorios/Uso%20del%20kit%20Arduino%20TinyML/Desarrollo.md#objetivos)
+ 4. [Fundamentos](https://github.com/MateoPortal/IntroSenales/edit/main/ISB/Laboratorios/Uso%20del%20kit%20Arduino%20TinyML/Desarrollo.md#objetivos)
  
 
 ## Objetivos:
