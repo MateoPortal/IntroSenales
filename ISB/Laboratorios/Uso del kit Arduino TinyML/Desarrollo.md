@@ -1,8 +1,7 @@
 # Tabla de contenidos
  1. [Objetivos](https://github.com/MateoPortal/IntroSenales/edit/main/ISB/Laboratorios/Uso%20del%20kit%20Arduino%20TinyML/Desarrollo.md#objetivos)
  2. [Materiales y Equipos](https://github.com/MateoPortal/IntroSenales/edit/main/ISB/Laboratorios/Uso%20del%20kit%20Arduino%20TinyML/Desarrollo.md#objetivos)
- 3. [Pautas de seguridad](https://github.com/MateoPortal/IntroSenales/edit/main/ISB/Laboratorios/Uso%20del%20kit%20Arduino%20TinyML/Desarrollo.md#objetivos)
- 4. [Fundamentos](https://github.com/MateoPortal/IntroSenales/edit/main/ISB/Laboratorios/Uso%20del%20kit%20Arduino%20TinyML/Desarrollo.md#objetivos)
+ 3. [Fundamentos](https://github.com/MateoPortal/IntroSenales/edit/main/ISB/Laboratorios/Uso%20del%20kit%20Arduino%20TinyML/Desarrollo.md#objetivos)
  
 
 ## Objetivos:
@@ -21,18 +20,6 @@ El Kit incluye:
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/Documentaci%C3%B3n/Laboratorio5/Im%C3%A1genes/bitalino%20y%20bateria.jpg" alt="bitalino" width="45%">
   </p>
-
-## Pautas de Seguridad
-1. Asegurarse que los equipos y material a utilizar se encuentren en una superficie firme y a una distancia prudente de las esquinas o bordes de la superficie.
-2. No manipular los equipos y/o suministros con las manos mojadas o húmedas.
-3. Los alumnos deben maniobrar los equipos de acuerdo con las indicaciones del docente y los contenidos en esta guía.
-4. Si nota algún deterioro físico como fisuras en los cables, abolladuras en la carcasa del equipo o casos similares reportarlo al docente encargado de la sesión del curso.
-5. Verificar el voltaje de funcionamiento de los equipos (si se conecta 110v o 220v). Si el equipo y/o instrumento no trabaja apropiadamente, comunicar al docente encargado de la sesión. No intentar reparar sin supervisión.
-6. Usar equipos de protección personal (lentes, guantes y/o de zapatos de seguridad con suela de alta resistencia eléctrica) cuando sea necesario.
-7. Respetar el tiempo y espacio de trabajo de cada miembro del equipo, sin perturbar su concentración mediante conversaciones inadecuadas, groserías y música a alto volumen.
-8. Si el alumno o grupo de trabajo no están seguros sobre algún paso presentado en la guía, referente a la manipulación de los equipos, deberán consultarlo al docente encargado de la sesión.
-9. Si algún equipo y/o suministro sufriera daño debido a un uso inadecuado (se entiende por “uso inadecuado” cuando el equipo es usado en situaciones y pasos ajenos a las indicaciones del docente), el grupo de trabajo responsable (presentado en la ficha de solicitud de materiales) deberá reponer dicho equipo y/o suministro.
-10. Asegúrese que el equipo se encuentra en las mismas condiciones tanto de funcionamiento como físicas como cuando se le entregó. 
 
 ## Fundamentos
 ### Arduino Tiny Machine Learning Kit
