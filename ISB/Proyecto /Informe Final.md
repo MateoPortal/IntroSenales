@@ -71,19 +71,28 @@ Dispusimos, de manera voluntaria, del consentimiento y colaboración de una muje
 
 La señal electrocardiográfica adquirida mediante BITalino (r)evolution Plugged kit fue adquirida por defecto a una frecuencia de muestreo de 1000 Hz; sin embargo, la información de los tres datasets presentaba una frecuencia de muestreo de 500 Hz, por lo que se decidió decimar la señal por un factor entero igual a 2
 ### b) Procesamiento
-
-#### Decimación de la se ̃nal adquirida mediante BITal-ino (r)evolution Plugged kit
+#### Decimación de la se ̃nal adquirida mediante BITal-ino (r)evolution Plugged kit 
+La señal electrocardiográfica adquirida mediante BITalino (r)evolution Plugged kit fue adquirida por defecto a una frecuencia de muestreo de 1000 Hz; sin embargo, la información de los tres datasets presentaba una frecuencia de muestreo de 500 Hz, por lo que se decidió decimar la señal por un factor entero igual a 2.
 
 #### Eliminación del componente continuo
-
+A diferencia de los tres datasets adquiridos de la base de datos [a1], las señales de la paciente voluntaria captadas a través de BITalino (r)evolution Plugged kit, al ser inspeccionadas visualmente, evidenciaron presentar un offset o componente de corriente continua (CC) indeseado, por lo cual se eliminó dicho componente CC.
 #### Conversión DAC
+Los valores correspondientes a la señal adquirida de la paciente voluntaria con BRI, leídos a partir del formato Matlab (MAT) fueron convertidos al valor analógico correspondiente en unidades de milivoltios multiplicando dichos valores por el voltaje de referencia usado, en este caso, 3.3 V y divididos por la resolución del puerto por el cual se captan las señales electrocardiográficas, es decir, por el puerto A2, el cual cuenta con 10 bits de resolución
+
+$Voltaje_{out}=\frac{3.3 Valor_{dig}}{2^{10} -1}$
 
 #### Filtrado de ruido de las señales
+Tras realizar una inspección visual de las 100 señales de los pacientes sanos, de las 100 señales de los pacientes con BRI y de las 100 señales de los pacientes con FA, se determinó utilizar un filtro pasa banda como un filtro pasa bajos en cascada con un filtro pasa altos para eliminar el ruido presente, limitar la señal de ECG a 50 Hz y mejorar la precision del algoritmo de detección del complejo QRS [aaaareal-time qrs complex].
+
+La implementación de ambos filtros se realizó mediante filtros digitales de respuesta infinita al impulso (IIR) de aproximación Butterworth para obtener la respuesta más plana posible en la banda de paso. El diseño de los filtros presenta las siguiente características: 3 dB de pérdida máxima en la banda de paso, 40 dB de atenuación mínima en la banda de rechazo, 35 Hz como frecuencia de borde de la banda de paso y 50 Hz como frecuencia de borde para la banda de rechazo.
+
 
 #### Deteccioón del complejo QRS
+La detección del complejo QRS de la señal correspondiente a cada paciente de cada clase o cardiopatía se realizó siguiendo el algoritmo de Pan-Tomkins, el cual contempla un (1) filtro pasabanda para el rechazo de ruido, (2) un filtro derivativo cuya función es obtener información de la pendiente del complejo QRS, (3) una función que eleva al cuadrado la señal para amplificar la señal, (4) la integración de una ventana en movimiento cuya finalidad es obtener información de las características de las señales, (5) fiducial mark y (6) un ajuste de umbrales [aaaareal-time qrs complex].
 
 #### Segmentación  de la señal
-
+Conociendo el inicio y el final del complejo QRS a través del algoritmo Pan-Tompkins, se determinó la ubicación de valor máximo de la onda R. A partir de dicha ubicación, de tomó 100 muestras hacia la derecha y 99 muestras hacia la izquierda para finalmente extraer cada latido que formaba parte de la señal ECG de un paciente.
+Las señales y/o latidos que no aportaron información relevante para la posterior etapa de procesamiento fueron eliminadas manualmente.
 ### c) Extracción de características
 
 #### Transformada Wavelet Discreta
