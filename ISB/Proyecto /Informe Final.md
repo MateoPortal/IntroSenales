@@ -67,6 +67,9 @@ Finalmente, se trabajó con 3 datasets: El primer dataset corresponde a la prime
 
 #### Reccolección de datos
 
+Dispusimos, de manera voluntaria, del consentimiento y colaboración de una mujer de 61 años diagnosticada con Bloqueo de la Rama Izquierda (BRI). A través de la plataforma BITalino (r)evolution Plugged kit), se llevó a cabo la recolección de señales de electrocardiograma (ECG) que presentan características específicas asociadas a esta condición médica. Empleamos tres electrodos para la captación de señales eléctricas en las derivaciones I, II y III.
+
+La señal electrocardiográfica adquirida mediante BITalino (r)evolution Plugged kit fue adquirida por defecto a una frecuencia de muestreo de 1000 Hz; sin embargo, la información de los tres datasets presentaba una frecuencia de muestreo de 500 Hz, por lo que se decidió decimar la señal por un factor entero igual a 2
 ### b) Procesamiento
 
 #### Decimación de la se ̃nal adquirida mediante BITal-ino (r)evolution Plugged kit
