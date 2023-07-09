@@ -34,6 +34,10 @@ A continuación, presentamos una tabla comparativa entre ambos métodos de apren
 |   | Preccision (%)  | 85.11 | 95.93 | 87.03 | 89.06 |
 |   | Recall (%) | 84.15 | 98.33 | 86.15 | 89.14 |
 |   | F1 Score (%)  | 84.63 | 97.12  | 86.59 | 89.10 |
+
+## Sobre el equipo
+Puede visualizar la información sobre el equipo (entregable 1) en el siguiente [enlace](https://github.com/MateoPortal/IntroSenales/tree/main/ISB)
+
 --------------------------------------------------------------------------------------------------------------------------
 # Introducción a Señales Biomédicas - Equipo 10
 
