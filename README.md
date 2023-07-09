@@ -13,11 +13,11 @@ Nuestros resultados demuestran la efectividad de estos algoritmos para detectar 
 ## Motivación
 La principal motivación de nuestro estudio es, al utilizar técnicas de aprendizaje automático, automatizar y agilizar el proceso de detección del Bloqueo de la rama izquierda (BRI), lo que puede conducir a una detección más temprana, un tratamiento más efectivo y una mejora en los resultados clínicos de los pacientes. De manera secundaria, esta investigación puede llevar a mejorar el diagnóstico y el tratamiento de las enfermedades cardiovasculares, particularmente aquellas relacionadas con el BRI. Además, al utilizar algoritmos de clasificación como SVM y Random Forest, se busca desarrollar un modelo preciso y confiable para la detección de LBBB a partir de las señales del ECG, lo que puede tener un impacto significativo en la práctica clínica y en la salud cardiovascular en general.
 ## Principales hallazgos
-| Columna 1 | Columna 2 | Columna 3 | Columna 4 | Columna 5 | Columna 6 |
+|  | Métricas | Normal | BRI | FA | Promedio |
 |-----------|-----------|-----------|-----------|-----------|-----------|
-| Celda 1   | Celda 2   | Celda 3   | Celda 4   | Celda 5   | Celda 6   |
-| Celda 7   | Celda 8   | Celda 9   | Celda 10  | Celda 11  | Celda 12  |
-| Celda 13  | Celda 14  | Celda 15  | Celda 16  | Celda 17  | Celda 18  |
+| SVM   | Accuracy (%)   | Celda 3   | Celda 4   | Celda 5   | Celda 6   |
+        Precisión (%)
+| RF  | Celda 14  | Celda 15  | Celda 16  | Celda 17  | Celda 18  |
 --------------------------------------------------------------------------------------------------------------------------
 # Introducción a Señales Biomédicas - Equipo 10
 
