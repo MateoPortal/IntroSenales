@@ -9,7 +9,7 @@ Nuestros resultados demuestran la efectividad de estos algoritmos para detectar 
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/lbbb.png" alt="IMAGEN DE BIENVENIDA" width="35%">
   </p>
 <p align="center">
-  <em>Imagen1. Electrocardiograma del bloqueo de rama izquierda</em>
+  <em>Imagen 1. Electrocardiograma del bloqueo de rama izquierda</em>
 </p>
 
 ## Motivación
@@ -18,7 +18,7 @@ La principal motivación de nuestro estudio es, al utilizar técnicas de aprendi
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/anciano_preview_rev_1.png" alt="IMAGEN DE BIENVENIDA" width="35%">
   </p>
 <p align="center">
-  <em>Imagen2. Motivación del proyecto </em>
+  <em>Imagen 2. Motivación del proyecto </em>
 </p>
 
 ## Principales hallazgos
