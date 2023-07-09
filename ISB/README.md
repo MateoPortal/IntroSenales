@@ -77,5 +77,6 @@ Para conocer más sobre el proyecto, ingresar al siguiente [enlace](https://gith
 
 [3] “Pruebas cardíacas,” NHLBI, NIH, Mar. 24, 2022. https://www.nhlbi.nih.gov/es/salud/estudios-cardiacos (accessed Jul. 09, 2023).
 ‌
+
 [4] “Electrocardiogram (ECG or EKG) - Mayo Clinic,” Mayoclinic.org, 2022. https://www.mayoclinic.org/es/tests-procedures/ekg/about/pac-20384983 (accessed Jul. 09, 2023).
 ‌
