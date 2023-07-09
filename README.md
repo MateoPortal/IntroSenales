@@ -13,16 +13,17 @@ Nuestros resultados demuestran la efectividad de estos algoritmos para detectar 
 ## Motivación
 La principal motivación de nuestro estudio es, al utilizar técnicas de aprendizaje automático, automatizar y agilizar el proceso de detección del Bloqueo de la rama izquierda (BRI), lo que puede conducir a una detección más temprana, un tratamiento más efectivo y una mejora en los resultados clínicos de los pacientes. De manera secundaria, esta investigación puede llevar a mejorar el diagnóstico y el tratamiento de las enfermedades cardiovasculares, particularmente aquellas relacionadas con el BRI. Además, al utilizar algoritmos de clasificación como SVM y Random Forest, se busca desarrollar un modelo preciso y confiable para la detección de LBBB a partir de las señales del ECG, lo que puede tener un impacto significativo en la práctica clínica y en la salud cardiovascular en general.
 ## Principales hallazgos
+A continuación, presentamos una tabla comparativa entre ambos métodos de aprendizaje supervisado que utilizamos para la detección de BRI
 |  | Métricas | Normal | BRI | FA | Promedio |
 |-----------|-----------|-----------|-----------|-----------|-----------|
-| SVM   | Accuracy (%)   | -   | -   | -   | 82.54   |
-|    |  Preccision (%) | 75.20 | 98.39 | 75.66 | 82.59   |
-|    | Recall (%)   | 71.21 | 97.6 | 79.86 | 82.54   |
-|    | F1 Score (%)   | 73.15 | 97.99 | 77.70 | 82.53   |
+| SVM   | Accuracy (%)   | -   | -   | -   | 82.54 |
+|    |  Preccision (%) | 75.20 | 98.39 | 75.66 | 82.59 |
+|    | Recall (%)   | 71.21 | 97.6 | 79.86 | 82.54 |
+|    | F1 Score (%)   | 73.15 | 97.99 | 77.70 | 82.53 |
 | RF  | Accuracy (%)  | -  | -  | -  | 89.14  |
-| RF  | Preccision (%)  | 85.11 | 95.93 | 87.03 | 89.06  |
-| RF  | Recall (%) | 84.15 | 98.33 | 86.15 | 89.14  |
-| RF  | F1 Score (%)  | 84.63 | 97.12  | 86.59 | 89.10 |
+|   | Preccision (%)  | 85.11 | 95.93 | 87.03 | 89.06 |
+|   | Recall (%) | 84.15 | 98.33 | 86.15 | 89.14 |
+|   | F1 Score (%)  | 84.63 | 97.12  | 86.59 | 89.10 |
 --------------------------------------------------------------------------------------------------------------------------
 # Introducción a Señales Biomédicas - Equipo 10
 
