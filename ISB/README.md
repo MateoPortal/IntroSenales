@@ -4,15 +4,13 @@ Bienvenidos al repositorio del Equipo 10 del curso "Introducción a Señales Bio
 
 ## Tabla de contenidos
 
- 1. [Contenido del curso](https://github.com/MateoPortal/IntroSenales/blob/main/README.md#contenido-del-curso)
- 2. [¿Qué es una bioseñal?](https://github.com/MateoPortal/IntroSenales/blob/main/README.md#qu%C3%A9-es-una-biose%C3%B1al)
- 3. [Señal de Interés](https://github.com/MateoPortal/IntroSenales/blob/main/README.md#se%C3%B1al-de-inter%C3%A9s)
- 4. [Temática del proyecto](https://github.com/MateoPortal/IntroSenales/blob/main/README.md#tem%C3%A1tica-del-proyecto)
- 5. [Materiales](https://github.com/MateoPortal/IntroSenales/blob/main/README.md#materiales)
- 6. [Metodología](https://github.com/MateoPortal/IntroSenales/blob/main/README.md#metodolog%C3%ADa)
- 7. [Docentes del curso](https://github.com/MateoPortal/IntroSenales/blob/main/README.md#docentes-del-curso)
- 8. [Miembros del equipo](https://github.com/MateoPortal/IntroSenales/blob/main/README.md#miembros-del-equipo-e10)
- 9. [Referencias](https://github.com/MateoPortal/IntroSenales/blob/main/README.md#referencias)
+ 1. [Contenido del curso](https://github.com/MateoPortal/IntroSenales/edit/main/ISB/README.md#contenido-del-curso)
+ 2. [¿Qué es una bioseñal?](https://github.com/MateoPortal/IntroSenales/edit/main/ISB/README.md#qu%C3%A9-es-una-biose%C3%B1al)
+ 3. [Señal de Interés](https://github.com/MateoPortal/IntroSenales/edit/main/ISB/README.md#se%C3%B1al-de-inter%C3%A9s)
+ 4. [Temática del proyecto](https://github.com/MateoPortal/IntroSenales/edit/main/ISB/README.md#tem%C3%A1tica-del-proyecto)
+ 5. [Docentes del curso](https://github.com/MateoPortal/IntroSenales/edit/main/ISB/README.md#docentes-del-curso)
+ 6. [Miembros del equipo](https://github.com/MateoPortal/IntroSenales/edit/main/ISB/README.md#miembros-del-equipo-e10)
+ 7. [Referencias](https://github.com/MateoPortal/IntroSenales/edit/main/ISB/README.md#referencias)
 
 
 ## Contenido del curso
