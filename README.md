@@ -18,6 +18,12 @@ La principal motivación de nuestro estudio es, al utilizar técnicas de aprendi
 | SVM   | Accuracy (%)   | Celda 3   | Celda 4   | Celda 5   | Celda 6   |
         Precisión (%)
 | RF  | Celda 14  | Celda 15  | Celda 16  | Celda 17  | Celda 18  |
+
+| Columna 1 | Columna 2 | Columna 3 | Columna 4 | Columna 5 | Columna 6 |
+|-----------|-----------|:--------:|:--------:|:--------:|:--------:|
+| Celda 1   | Celda 2   |          |          |          |          |
+| Celda 7   | Celda 8   | Celda 9  | Celda 10 | Celda 11 | Celda 12 |
+| Celda 13  | Celda 14  | Celda 15 | Celda 16 | Celda 17 | Celda 18 |
 --------------------------------------------------------------------------------------------------------------------------
 # Introducción a Señales Biomédicas - Equipo 10
 
