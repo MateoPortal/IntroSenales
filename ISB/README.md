@@ -51,9 +51,6 @@ Es una prueba médica que registra la actividad eléctrica del corazón usando e
 </p>
 
 ## Temática del proyecto
-<p align="justify">
-Por desarrollar durante el semestre.
-</p>
 Para conocer más sobre el proyecto, ingresar al siguiente [enlace](https://github.com/MateoPortal/IntroSenales)
 
 ## Docentes del curso: 
