@@ -15,7 +15,7 @@ Nuestros resultados demuestran la efectividad de estos algoritmos para detectar 
 ## Motivación
 La principal motivación de nuestro estudio es, al utilizar técnicas de aprendizaje automático, automatizar y agilizar el proceso de detección del Bloqueo de la rama izquierda (BRI), lo que puede conducir a un diagnóstico más temprana, un tratamiento más efectivo y una mejora en los resultados clínicos de los pacientes. De manera secundaria, esta investigación puede llevar a mejorar el diagnóstico y el tratamiento de las enfermedades cardiovasculares, particularmente aquellas relacionadas con el BRI. Además, al utilizar algoritmos de clasificación como SVM y Random Forest, se busca desarrollar un modelo preciso y confiable para la detección de LBBB a partir de las señales del ECG, lo que puede tener un impacto significativo en la práctica clínica y en la salud cardiovascular en general.
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/anciano_preview_rev_1.png" alt="IMAGEN DE BIENVENIDA" width="35%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/anciano_preview_rev_1.png" alt="IMAGEN DE BIENVENIDA" width="30%">
   </p>
 <p align="center">
   <em>Imagen 2. Motivación del proyecto </em>
