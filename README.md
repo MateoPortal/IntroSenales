@@ -4,7 +4,7 @@ En el presente proyecto, abordamos la detección de la izquierda bloqueo de rama
 El BRI es una enfermedad cardiovascular que afecta el sistema de conducción eléctrica del corazón y puede indicar la presencia de enfermedades subyacentes. La detección temprana de BRI es crucial para evaluar el pronóstico del paciente y tomar medidas preventivas. Con este fin, adquirimos conjuntos de datos de ECG de pacientes con BRI, pacientes sanos y pacientes con fibrilación auricular. Realizamos el preprocesamiento de la señal, la extracción de características y la clasificación utilizando los algoritmos Support Vector Machine (SVM) y Random Forest (RF).
 Nuestros resultados demuestran la efectividad de estos algoritmos para detectar con precisión el BRI de las señales de ECG. Este enfoque podría mejorar la detección y el tratamiento de enfermedades cardiovasculares relacionadas con el BRI.
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/lbbb.png" alt="IMAGEN DE BIENVENIDA" width="25%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/lbbb.png" alt="IMAGEN DE BIENVENIDA" width="35%">
   </p>
 <p align="center">
   <em>Imagen1. Electrocardiograma del bloqueo de rama izquierda</em>
