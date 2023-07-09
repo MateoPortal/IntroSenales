@@ -39,13 +39,13 @@ Entre los tipos de métodos más comunes para registrar este tipo de señales en
 ## Señal de interés: 
 ### __Electrocardiograma (ECG)__
 <p align="justify">
-Es una prueba médica que registra la actividad eléctrica del corazón usando electrodos colocados en la piel. Se utiliza para diagnosticar y monitorear diversas afecciones cardíacas, como arritmias, ataques cardíacos e insuficiencia cardíaca. La máquina de ECG registra los impulsos eléctricos generados por el corazón y proporciona una representación visual de la actividad del corazón en forma de gráfico. Un ECG se puede realizar en un consultorio médico, clínica u hospital y es un procedimiento no invasivo e indoloro.
+Es una prueba médica que registra la actividad eléctrica del corazón usando electrodos colocados en la piel. Se utiliza para diagnosticar y monitorear diversas afecciones cardíacas, como arritmias, ataques cardíacos e insuficiencia cardíaca. La máquina de ECG registra los impulsos eléctricos generados por el corazón y proporciona una representación visual de la actividad del corazón en forma de gráfico. Un ECG se puede realizar en un consultorio médico, clínica u hospital y es un procedimiento no invasivo e indoloro [3].
 </p>
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/electrocardiograma.png" alt="ecg" width="20%">
 </p>
 <p align="center">
- <em>Imagen 2. Electrocardiograma </em>
+ <em>Imagen 2. Electrocardiograma [4]</em>
 </p>
 
 ## Temática del proyecto
@@ -74,3 +74,8 @@ Para conocer más sobre el proyecto, ingresar al siguiente [enlace](https://gith
 [1] V. C. Pezoulas, T. P. Exarchos, and D. I. Fotiadis, “Types and sources of medical and other related data,” *Medical Data Sharing, Harmonization and Analytics*, pp. 19–65, 2020, doi: https://doi.org/10.1016/b978-0-12-816507-2.00002-5.
 
 [2] “Signals,” *Mdpi.com*, 2023. https://www.mdpi.com/journal/signals/special_issues/Biosignals_Processing_Analysis_Biomedicine (accessed Mar. 25, 2023).
+
+[3] “Pruebas cardíacas,” NHLBI, NIH, Mar. 24, 2022. https://www.nhlbi.nih.gov/es/salud/estudios-cardiacos (accessed Jul. 09, 2023).
+‌
+[4] “Electrocardiogram (ECG or EKG) - Mayo Clinic,” Mayoclinic.org, 2022. https://www.mayoclinic.org/es/tests-procedures/ekg/about/pac-20384983 (accessed Jul. 09, 2023).
+‌
