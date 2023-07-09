@@ -15,15 +15,14 @@ La principal motivación de nuestro estudio es, al utilizar técnicas de aprendi
 ## Principales hallazgos
 |  | Métricas | Normal | BRI | FA | Promedio |
 |-----------|-----------|-----------|-----------|-----------|-----------|
-| SVM   | Accuracy (%)   | Celda 3   | Celda 4   | Celda 5   | Celda 6   |
-        Precisión (%)
-| RF  | Celda 14  | Celda 15  | Celda 16  | Celda 17  | Celda 18  |
-
-| Columna 1 | Columna 2 | Columna 3 | Columna 4 | Columna 5 | Columna 6 |
-|-----------|-----------|:--------:|:--------:|:--------:|:--------:|
-| Celda 1   | Celda 2   |          |          |          |          |
-| Celda 7   | Celda 8   | Celda 9  | Celda 10 | Celda 11 | Celda 12 |
-| Celda 13  | Celda 14  | Celda 15 | Celda 16 | Celda 17 | Celda 18 |
+| SVM   | Accuracy (%)   | -   | -   | -   | 82.54   |
+|    |  Preccision (%) | 75.20 | 98.39 | 75.66 | 82.59   |
+|    | Recall (%)   | 71.21 | 97.6 | 79.86 | 82.54   |
+|    | F1 Score (%)   | 73.15 | 97.99 | 77.70 | 82.53   |
+| RF  | Accuracy (%)  | -  | -  | -  | 89.14  |
+| RF  | Preccision (%)  | 85.11 | 95.93 | 87.03 | 89.06  |
+| RF  | Recall (%) | 84.15 | 98.33 | 86.15 | 89.14  |
+| RF  | F1 Score (%)  | 84.63 | 97.12  | 86.59 | 89.10 |
 --------------------------------------------------------------------------------------------------------------------------
 # Introducción a Señales Biomédicas - Equipo 10
 
