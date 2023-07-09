@@ -1,5 +1,6 @@
 # Addressing detection of left bundle branch block by means of electrocardiogram’s signals using Machine Learning algorithms
-Authors: Aldave A., Huaylinos J., Portal M., Postigo R., Saavedra T. y Salvatierra D.
+# Abordaje de la detección de Bloqueo de la rama izquierda por medio de señales de electrocardiograma utilizando algoritmos de Machine Learning
+Aldave A., Huaylinos J., Portal M., Postigo R., Saavedra T. y Salvatierra D.
 ## Resumen
 En el presente proyecto, abordamos la detección de la izquierda bloqueo de rama la rama izquierda (BRI) a través del análisis de señales de  electrocardiograma (ECG) utilizando algoritmos de aprendizaje automático.
 El BRI es una enfermedad cardiovascular que afecta el sistema de conducción eléctrica del corazón y puede indicar la presencia de enfermedades subyacentes. La detección temprana de BRI es crucial para evaluar el pronóstico del paciente y tomar medidas preventivas. Con este fin, adquirimos conjuntos de datos de ECG de pacientes con BRI, pacientes sanos y pacientes con fibrilación auricular. Realizamos el preprocesamiento de la señal, la extracción de características y la clasificación utilizando los algoritmos Support Vector Machine (SVM) y Random Forest (RF).
