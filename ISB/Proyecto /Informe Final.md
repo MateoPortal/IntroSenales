@@ -109,7 +109,7 @@ Y los subconjuntos del espacio de Hilbert con kernel (k) reproducible son defini
 \[{f:||f||_k ^2 \leq A^2}\]
 
 En el presente artículo, dado que son 3 clases las que se van a clasificar, la implementación de la clasificación se implementa mediante el clasificador "one-versus-one" de SVM, el cual construye tres clasificadores y donde cada uno de ellos entrena data de dos clases diferentes
-
+## Conclusión
 
 #### Clasificación a través de Random Forest
 El algoritmo Random forest es un modelo de aprendizaje automático que se puede utilizar tanto para problemas de clasificación como de regresión. Se basa en el concepto de aprendizaje conjunto, que combina múltiples clasificadores para resolver un problema complejo y mejorar el rendimiento del modelo. El modelo crea múltiples árboles de decisión y los fusiona para obtener una predicción más precisa y estable. Los árboles se entrenan con el método bagging, lo que significa que cada árbol se entrena en un subconjunto aleatorio de los datos para reducir el sobreajuste y mejorar la precisión del modelo. Además de ello el algoritmo es flexible y fácil de usar que produce buenos resultados incluso sin ajuste de hiperparámetros. Es también uno de los algoritmos más utilizados por su sencillez y versatilidad [28]
