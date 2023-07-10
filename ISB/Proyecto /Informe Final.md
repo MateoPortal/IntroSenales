@@ -7,11 +7,9 @@
 
 
 #### Abstract
-Abstract text goes here.
-
+In this study, we addressed the detection of left bundle branch block (LBBB) through the analysis of electrocardiogram (ECG) signals using Machine Learning algorithms. LBBB is a cardiovascular disease that affects the heart's electrical conduction system and may indicate the presence of underlying diseases. Early detection of LBBB is crucial for assessing the patient's prognosis and taking preventive measures. To this end, we acquired datasets of ECGs from patients with LBBB, healthy patients, and patients with atrial fibrillation; we also acquired ECG signals from a volunteer suffering from LBBB through BITalino (r)evolution Plugged kit platform. We performed signal preprocessing, feature extraction, and classification using Support Vector Machine (SVM) and Random Forest (RF) algorithms. Accuracy of classification of 82.54\% and 89.14\% are obtained for SVM and RF, respectively. F1 score of 97.99\% and 97.12\% are obtain for prediction of LBBB with SVM and RF, respectively. Our results demonstrate the effectiveness of these algorithms in accurately detecting LBBB from ECG signals. This approach could improve the detection and treatment of cardiovascular diseases related to LBBB.
 #### Index Terms
-Index terms go here.
-
+ECG, LBBB, Machine Learning, Detection, SVM, Random Forest.
 ## I. INTRODUCCIÓN
 
 Cada año, el número de muertes por enfermedades cardiovasculares (ECV) supera a cualquier otra causa, siendo más del 75\% de estas muertes relacionadas con cardiopatías y accidentes cerebrovasculares en países de ingresos medianos y bajos [1]. Es más, la Organización Mundial de la Salud (OMS) ha informado que cada año se pierden 17,9 millones de vidas por ECV [2]. 
