@@ -127,7 +127,7 @@ Los hiperparámetros a utilizar fueron los siguientes:
 ### e) Diseño de PCB
 
 La PCB (Printed circuit board o placa de circuito impreso en español) se compone del chip ESP32 WROOM 32E, un microcontrolador de alto rendimiento y bajo consumo de energía, junto con el AD8232, un amplificador de instrumentación utilizado para adquirir señales de ECG en tiempo real (Figura 6). El diseño de la PCB se ha adaptado para alojar tanto el chip ESP32 como el AD8232, además de otros componentes necesarios para su funcionamiento. Se optó por desarrollar la PCB desde cero con el objetivo de reducir el tamaño final del producto y eliminar componentes innecesarios presentes en el kit de desarrollo devkit. Además de evitar el ruido y las capacitancias parásitas. La PCB incluye conectores y pines específicos para garantizar una conexión segura entre el ESP32 y el AD8232, un puerto Jack para la conexión de los electrodos y un puerto micro USB para la carga de programas y algoritmos en el microcontrolador, así como para permitir la comunicación con una computadora.Se realizó un diseño 3D del wearable en formato CAD con el uso de \textit{Autodesk Inventor}. El diseño se dividió en dos partes: la carcasa y la tapa. La carcasa, de medidas 120 x 80 x 23.5 mm, es donde irán todos los componentes del dispositivo y cuenta con dos aperturas, la primera para el posicionamiento del \textit{switch} de encendido/apagado y la segunda para la permitir el posicionamiento de los electrodos y la conexión de estos al circuito, ya que este está diseñado para ser usado en el brazo debajo del músculo deltoides. La tapa, por su parte, de dimensiones 120 x 80 x 3.5 mm, se diseñó con una apertura en el centro para el posicionamiento y visualización de la pantalla TFT. Las vistas del diseño pueden verse en las figuras 8-10. 
-### f) Diseño de wearable
+### f) Diseño 3D del wearable
 Se realizó un diseño 3D del wearable en formato CAD con el uso de Autodesk Inventor. El diseño se dividió en dos partes: la carcasa y la tapa. La carcasa, de medidas 120 x 80 x 23.5 mm, es donde irán todos los componentes del dispositivo y cuenta con dos aperturas, la primera para el posicionamiento del switch de encendido/apagado y la segunda para la permitir el posicionamiento de los electrodos y la conexión de estos al circuito, ya que este está diseñado para ser usado en el brazo debajo del músculo deltoides. La tapa, por su parte, de dimensiones 120 x 80 x 3.5 mm, se diseñó con una apertura en el centro para el posicionamiento y visualización de la pantalla TFT. Las vistas del diseño pueden verse en las figuras 8-10. 
 
 A. Cantidad de datos utilizados
@@ -138,18 +138,101 @@ B. Métricas resultantes de clasificación con Support Vector Machin} y textit{R
 Por otro lado, las diferencias entre los electrocardiogramas de la clase normal y la clase FA no son tan notorias como en el caso de BRI ya que las alteraciones en el ECG por FA son principalmente de frecuencia, ritmo y forma en el intervalo PR, segmento ST y onda T. Además, en la segmentación por latidos de los ECGs se pudo observar que, para el caso de FA, la similitud entre las segmentaciones no era tan alta como en el caso de las otras dos clases, principalmente debido a la presencia o ausencia de onda P que no era una característica fija y quedó evidenciado en la obtención de coeficientes de la transformada wavelet de las señales. Esto terminó perjudicando a la precisión obtenida; sin embargo, podría ser mejorada si se consideraran más parámetros para la clasificación de las señales y si se complementa el análisis con más  de una derivación puesto que existen caracteristicas mas definidas que diferencian con mayor enfasis el BRI y la FA [20] [21]. Consideramos que mejorar la presicion aumentando la cantidad de derivaciones podria ser el paso a seguir en futuros estudios. 
 
 ## IV. RESULTADOS
-A. Cantidad de datos utilizados
+### A. Cantidad de datos utilizados
 La segmentación de la derivación bipolar I de 100 pacientes sanos (Normal), de 100 pacientes con BRI y de 100 pacientes con FA resultó en 781 latidos pertenecientes a pacientes sanos, 746 latidos de pacientes con BRI y 1007 latidos de pacientes con FA. Adicionalmente, 30 latidos fueron segmentados a partir de la señal de la paciente voluntaria con BRI, ver Tabla I.
-B. Métricas resultantes de clasificación con \textit{Support Vector Machine} y \textit{Random Forest} \par
-En la tabla 2 se muestran los resultados obtenidos con los distintos algoritmos de Machine Learning para la clasificación de ECGs. La exactitud refiere a la repetibilidad de los resultados, la precisión a la cercanía de los resultados al valor real, 
-
+### B.Métricas resultantes de clasificación con Support Vector Machine y Random Forest
+En la tabla 2 se muestran los resultados obtenidos con los distintos algoritmos de Machine Learning para la clasificación de ECGs. La exactitud refiere a la repetibilidad de los resultados, la precisión a la cercanía de los resultados al valor real.
 ## V. Discusión
-El algoritmo de Support Vector Machine alcanzó una exactitud de 82.54% y el Random Forest de 89.14%. Esto nos quiere decir que, por cada 100 ECGs clasificados, aproximadamente 83 fueron clasificadas correctamente para SVM y 89 para RF. La diferencia de precisión entre la clase Normal y la clase FA, más pronunciada en comparación a la clase BRI puede ser explicada por las formas de los EGCs. La forma del ECG de BRI difiere mucho de un ECG normal y de un ECG de FA debido a la presencia de un complejo QRS muy prolongado o ancho, por lo que resultaba más sencillo realizar la clasificación y ello explica la alta precisión obtenida, mientras que el patrón del latido de clase FA se asemeja al de clase Normal porque la duración del complejo QRS es más corta de lo normal.
+El algoritmo de *Support Vector Machine* alcanzó una exactitud de 82.54% y el *Random Forest* de 89.14%. Esto nos quiere decir que, por cada 100 ECGs clasificados, aproximadamente 83 fueron clasificadas correctamente para SVM y 89 para RF. La diferencia de precisión entre la clase Normal y la clase FA, más pronunciada en comparación a la clase BRI puede ser explicada por las formas de los EGCs. La forma del ECG de BRI difiere mucho de un ECG normal y de un ECG de FA debido a la presencia de un complejo QRS muy prolongado o ancho, por lo que resultaba más sencillo realizar la clasificación y ello explica la alta precisión obtenida, mientras que el patrón del latido de clase FA se asemeja al de clase Normal porque la duración del complejo QRS es más corta de lo normal.
 
-Por otro lado, las diferencias entre los electrocardiogramas de la clase normal y la clase FA no son tan notorias como en el caso de BRI ya que las alteraciones en el ECG por FA son principalmente de frecuencia, ritmo y forma en el intervalo PR, segmento ST y onda T. Además, en la segmentación por latidos de los ECGs se pudo observar que, para el caso de FA, la similitud entre las segmentaciones no era tan alta como en el caso de las otras dos clases, principalmente debido a la presencia o ausencia de onda P que no era una característica fija y quedó evidenciado en la obtención de coeficientes de la transformada wavelet de las señales. Esto terminó perjudicando a la precisión obtenida; sin embargo, podría ser mejorada si se consideraran más parámetros para la clasificación de las señales y si se complementa el análisis con más  de una derivación puesto que existen caracteristicas mas definidas que diferencian con mayor enfasis el BRI y la FA [20] [21]. Consideramos que mejorar la presicion aumentando la cantidad de derivaciones podria ser el paso a seguir en futuros estudios. 
+Por otro lado, las diferencias entre los electrocardiogramas de la clase normal y la clase FA no son tan notorias como en el caso de BRI ya que las alteraciones en el ECG por FA son principalmente de frecuencia, ritmo y forma en el intervalo PR, segmento ST y onda T. Además, en la segmentación por latidos de los ECGs se pudo observar que, para el caso de FA, la similitud entre las segmentaciones no era tan alta como en el caso de las otras dos clases, principalmente debido a la presencia o ausencia de onda P que no era una característica fija y quedó evidenciado en la obtención de coeficientes de la transformada wavelet de las señales. Esto terminó perjudicando a la precisión obtenida; sin embargo, podría ser mejorada si se consideraran más parámetros para la clasificación de las señales y si se complementa el análisis con más  de una derivación puesto que existen características más definidas que diferencian con mayor énfasis el BRI y la FA [20] [21]. Consideramos que mejorar la precisión aumentando la cantidad de derivaciones podría ser el paso a seguir en futuros estudios.
 
+## VI. Conclusiones
 
-La detección y clasificación de arritmias, como el BRI, a partir de señales de ECG presenta desafíos debido a la alta variabilidad entre los pacientes del dataset disponible [16]. En este estudio, se utilizó un conjunto de datos de ECG con una amplia variedad de casos y señales clasificadas, lo que permitió que los algoritmos tradicionales de aprendizaje, como SVM, lograran una clasificación satisfactoria. Sin embargo, la duración variable de las señales (de 6 a 60 segundos) representó un desafío, ya que pueden aparecer eventos de arritmia que duren solo unos segundos. Estos eventos a veces pueden confundirse con segmentos ruidosos, lo que dificulta la clasificación precisa de toda la señal. A pesar de estas dificultades se logró implementar un algoritmo que alcanzó una alta precisión y con una correcta optimizacion pueda ser implementado en un dispositivo de bajo costo y dimensiones reducidas. Esto se realizaría exportando el modelo entrenado utilizando una biblioteca de serialización e integrandolo al ESP 32 a través de un entorno de desarrollo adecuado. Lo cual facilitará la deteccion oportuna de BRI en lugares con recursos limitados y sin acceso a dispositivos con mayor poder de procesamiento. 
-La detección y clasificación de arritmias, como el BRI, a partir de señales de ECG presenta desafíos debido a la alta variabilidad entre los pacientes del dataset disponible [16]. En este estudio, se utilizó un conjunto de datos de ECG con una amplia variedad de casos y señales clasificadas, lo que permitió que los algoritmos tradicionales de aprendizaje, como SVM, lograran una clasificación satisfactoria. Sin embargo, la duración variable de las señales (de 6 a 60 segundos) representó un desafío, ya que pueden aparecer eventos de arritmia que duren solo unos segundos. Estos eventos a veces pueden confundirse con segmentos ruidosos, lo que dificulta la clasificación precisa de toda la señal. A pesar de estas dificultades se logró implementar un algoritmo que alcanzó una alta precisión y con una correcta optimizacion pueda ser implementado en un dispositivo de bajo costo y dimensiones reducidas. Esto se realizaría exportando el modelo entrenado utilizando una biblioteca de serialización e integrandolo al ESP 32 a través de un entorno de desarrollo adecuado. Lo cual facilitará la deteccion oportuna de BRI en lugares con recursos limitados y sin acceso a dispositivos con mayor poder de procesamiento. 
+La detección y clasificación de arritmias, como el BRI, a partir de señales de ECG presenta desafíos debido a la alta variabilidad entre los pacientes del dataset disponible [16]. En este estudio, se utilizó un conjunto de datos de ECG con una amplia variedad de casos y señales clasificadas, lo que permitió que los algoritmos tradicionales de aprendizaje, como SVM, lograran una clasificación satisfactoria. Sin embargo, la duración variable de las señales (de 6 a 60 segundos) representó un desafío, ya que pueden aparecer eventos de arritmia que duren solo unos segundos. Estos eventos a veces pueden confundirse con segmentos ruidosos, lo que dificulta la clasificación precisa de toda la señal. A pesar de estas dificultades se logró implementar un algoritmo que alcanzó una alta precisión y con una correcta optimización pueda ser implementado en un dispositivo de bajo costo y dimensiones reducidas. Esto se realizaría exportando el modelo entrenado utilizando una biblioteca de serialización e integrándolo al ESP32 a través de un entorno de desarrollo adecuado. Lo cual facilitará la detección oportuna de BRI en lugares con recursos limitados y sin acceso a dispositivos con mayor poder de procesamiento.
 
+### Bibliography
 
+\[1\] "Cardiovascular diseases - PAHO/WHO | Pan American Health Organization," Paho.org, 2018. [Online]. Available: [link](https://www.paho.org/en/topics/cardiovascular-diseases) (accessed Jul. 01, 2023).
+
+\[2\] World Health Organization, "World health statistics 2018: monitoring health for the SDGs, sustainable development goals," Who.int, 2018, doi: [link](https://doi.org/9789241565585).
+
+\[3\] B. Al-Naami, H. Fraihat, H. Abu Owida, K. Al-Hamad, R. de Fazio, and P. Visconti, "Automated Detection of Left Bundle Branch Block from ECG Signal Utilizing the Maximal Overlap Discrete Wavelet Transform with ANFIS," vol. 11, no. 6, pp. 93–93, Jun. 2022, doi: [link](https://doi.org/10.3390/computers11060093).
+
+\[4\] O. A. Smiseth and J. M. Aalen, "Mechanism of harm from left bundle branch block," vol. 29, no. 6, pp. 335–342, Aug. 2019, doi: [link](https://doi.org/10.1016/j.tcm.2018.10.012).
+
+\[5\] T. Hardarson, A. Arnason, G. Elíasson, K. Pálsson, K. Eyjolfsson, and N. Sigfússon, "Left bundle branch block: prevalence, incidence, follow-up and outcome," vol. 8, no. 10, pp. 1075–1079, Oct. 1987, doi: [link](https://doi.org/10.1093/oxfordjournals.eurheartj.a062172).
+
+\[6\] "Riesgo Quirúrgico (Incluye Electrocardiograma) - Multilab - Qué es, precio, preparación," Riesgo Quirúrgico (Incluye Electrocardiograma) - Multilab - Qué es, precio, preparación, Jan. 22, 2023. [Online]. Available: [link](https://www.multilab.com.pe/examen/901/riesgo-quirurgico?gclid=CjwKCAjwv8qkBhAnEiwAkY-ahjjGlAQoTQ4nEJKM7NxCkpPmRlUXfGybMjSgTsu2feIvjNxXhr-fghoC-xgQAvD_BwE) (accessed Jun. 28, 2023).
+
+\[7\] "Cardiovascular diseases (CVDs)," Who.int, Jun. 11, 2021. [Online]. Available: [link](https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)) (accessed Jul. 01, 2023).
+
+\[8\] M. Urbich, K. Pantiri, M. M. Heisen, C. Bennison, H. S. Wirtz, and Tanna, "A Systematic Review of Medical Costs Associated with Heart Failure in the USA (2014–2020)," vol. 38, no. 11, pp. 1219–1236, Aug. 2020, doi: [link](https://doi.org/10.1007/s40273-020-00952-0).
+
+\[9\] M. Romero, E. M. Vásquez, F. Acero, and L. M. Huerfano, "Estimación de los costos directos de los eventos coronarios en Colombia," vol. 25, no. 6, pp. 373–379, Nov. 2018, doi: [link](https://doi.org/10.1016/j.rccar.2018.05.010).
+
+\[10\] Hernández et al., "Costo de la hipertensión arterial pulmonar en el Perú," vol. 21, no. 3, pp. 580–587, Jan. 2021, doi: [link](https://doi.org/10.25176/rfmh.v21i3.3905).
+
+\[11\] "Left Bundle Branch Block | Cedars-Sinai," Cedars-sinai.org, 2022. [Online]. Available: [link](https://www.cedars-sinai.org/health-library/diseases-and-conditions/l/left-bundle-branch-block.html#:~:text=How\%20is\%20left\%20bundle\%20branch,done\%20for\%20some\%20other\%20reason) (accessed Jun. 21, 2023).
+
+\[12\] B. Al-Naami, H. Fraihat, H. Abu Owida, K. Al-Hamad, R. de Fazio, and P. Visconti, "Automated Detection of Left Bundle Branch Block from ECG Signal Utilizing the Maximal Overlap Discrete Wavelet Transform with ANFIS," vol. 11, no. 6, pp. 93–93, Jun. 2022, doi: [link](https://doi.org/10.3390/computers11060093).
+
+\[13\] P. Gaba, D. M. Pedrotty, C. V. DeSimone, A. R. Bonikowske, T. G. Allison, and S. Kapa, "Mortality in Patients With Right Bundle‐Branch Block in the Absence of Cardiovascular Disease," vol. 9, no. 19, Oct. 2020, doi: [link](https://doi.org/10.1161/jaha.120.017430).
+
+\[14\] D. Varvarousis et al., "Cardiac arrhythmias in arterial hypertension," vol. 22, no. 8, pp. 1371–1378, Aug. 2020, doi: [link](https://doi.org/10.1111/jch.13989).
+
+\[15\] C. Clinic, "Left Bundle Branch Block: Causes, Symptoms & Treatment - Cleveland Clinic," Cleveland Clinic, 2022. [Online]. Available: [link](https://my.clevelandclinic.org/health/diseases/23287-left-bundle-branch-block#:~:text=If\%20you're\%20over\%2065,or\%20after\%20a\%20heart\%20attack) (accessed Jun. 28, 2023).
+
+\[16\] "The China Physiological Signal Challenge 2018," Icbeb.org, 2018. [Online]. Available: [link](http://2018.icbeb.org/Challenge.html) (accessed Jul. 07, 2023).
+
+\[17\] CDC, "Atrial Fibrillation
+
+," Centers for Disease Control and Prevention, Oct. 14, 2022. [Online]. Available: [link](https://www.cdc.gov/heartdisease/atrial_fibrillation.htm#:~:text=Atrial\%20fibrillation\%2C\%20often\%20called\%20AFib,or\%20in\%20an\%20irregular\%20way) (accessed Jul. 07, 2023).
+
+\[18\] Rohde, "Captura de señales de electrocardiogramas pequeñas en aplicaciones médicas," Rohde-schwarz.com, 2023. [Online]. Available: [link](https://www.rohde-schwarz.com/lat/aplicaciones/captura-de-se-ales-de-electrocardiogramas-peque-as-en-aplicaciones-m-dicas-ficha-de-aplicacion_56279-152385.html) (accessed Jul. 07, 2023).
+
+\[19\] J. Pan and W. J. Tompkins, "A Real-Time QRS Detection Algorithm," IEEE Transactions on Biomedical Engineering, vol. BME-32, no. 3, pp. 230–236, Mar. 1985, doi: [link](https://doi.org/10.1109/tbme.1985.325532).
+
+\[20\] S. Faziludeen and P. Sabiq, "ECG beat classification using wavelets and SVM," Apr. 2013, doi: [link](https://doi.org/10.1109/cict.2013.6558206).
+
+\[21\] M. Hosseinzadeh, "Robust control applications in biomedical engineering: Control of depth of hypnosis," pp. 89–125, Jan. 2020, doi: [link](https://doi.org/10.1016/b978-0-12-817461-6.00004-4).
+
+\[22\] A. Rabee and I. Barhumi, "ECG signal classification using support vector machine based on wavelet multiresolution analysis," IEEE Xplore, Jul. 01, 2012. [Online]. Available: [link](https://ieeexplore.ieee.org/document/6310497) (accessed Jun. 27, 2021).
+
+\[23\] M. Ahsan, S. A. Luna, and Z. Siddique, "Machine-Learning-Based Disease Diagnosis: A Comprehensive Review," vol. 10, no. 3, pp. 541–541, Mar. 2022, doi: [link](https://doi.org/10.3390/healthcare10030541).
+
+\[24\] Z. Keita, "Classification in Machine Learning: An Introduction," Datacamp.com, Sep. 21, 2022. [Online]. Available: [link](https://www.datacamp.com/blog/classification-machine-learning) (accessed Jul. 07, 2023).
+
+\[25\] "Support Vector Machine (SVM)," la.mathworks.com. [Online]. Available: [link](https://la.mathworks.com/discovery/support-vector-machine.html) (accessed Jul. 08, 2023).
+
+\[26\] scikit learn, "1.4. Support Vector Machines — scikit-learn 0.20.3 documentation," Scikit-learn.org, 2018. [Online]. Available: [link](https://scikit-learn.org/stable/modules/svm.html).
+
+\[27\] T. Evgeniou and M. Pontil, "Support Vector Machines: Theory and Applications," Machine Learning and Its Applications, pp. 249–257, 2001, doi: [link](https://doi.org/10.1007/3-540-44673-7\_12).
+
+\[28\] H. Zhang, D. Nettleton and Z. Zhu, "Regression-Enhanced Random Forests," arXiv preprint arXiv:1904.10416, 2019. [Online]. Available: [link](https://arxiv.org/pdf/1904.10416.pdf). [Accessed: 07-Jul-2023].
+
+### Author's Biography
+
+![Alessandra Aldave](ale2.jpg)  
+**Alessandra Aldave**  
+Ninth-semester undergraduate student of Biomedical Engineering at Pontifical Catholic University of Peru - Cayetano Heredia University. Currently, she is engaged in nanobody research as part of her internship at the Molecular Biotechnology and Cell Signaling Laboratory. Her research interest lies in Kidney Tissue Engineering and Biomaterials.
+
+![Jose Huaylinos](jose_bw.jpg)  
+**Jose Huaylinos**  
+He is a Biomedical Engineering student with a focus on healthcare management and the application of AI in patient care. Currently, he serves as a JCI coordinator at the San Pablo Group in Lima, Peru, ensuring their services meet international standards.
+
+![Mateo Portal](mateo.jpeg)  
+**Mateo Portal**  
+Ninth-semester undergraduate student of Biomedical Engineering at Pontifical Catholic University of Peru - Cayetano Heredia University. He is currently interested in Clinical Engineering and his goal is to improve the health sector in Peru and people's quality of life.
+
+![Rosmy Postigo](RP.jpg)  
+**Rosmy Postigo**  
+Seventh-semester undergraduate student of Biomedical Engineering at Pontifical Catholic University of Peru - Cayetano Heredia University. Her areas of interest are Biomaterials and Tissue Engineering. She aims to work on and develop alternative toxicology testing methods to replace the traditional methods currently used.
+
+![Tayel Saavedra](tayell.JPG)  
+**Tayel Saavedra**  
+Seventh-semester undergraduate student studying Biomedical Engineering at Pontifical Catholic University of Peru - Cayetano Heredia University. His current focus is on Biomaterials and Tissue Engineering, and he aspires to innovate the health sector by applying the characteristics of advanced biomaterials.
+
+![Diego Salvatierra](diego1.jpg)  
+**Diego Salvatierra**  
+Peruvian biomedical engineering student at PUCP and UPCH. He would like to specialize in the field of medical signal processing because it offers tremendous potential for improving healthcare outcomes and advancing medical research. Medical signal processing involves the analysis, interpretation, and manipulation of signals obtained from various physiological processes in the human body, such as electrocardiograms (ECGs), electroencephalograms (EEGs), and medical imaging data.
