@@ -3,7 +3,7 @@
 |                |           |                    |
 |:---------------------:|:-----------------------:|:-------------------------------:|
 |   Alessandra Aldave <br>  Biomedical Engineering  <br> alessandra.aldave@upch.pe    |  José Huaylinos   <br>  Biomedical Engineering <br> jose.huaylinos@upch.pe   | Mateo Luis Portal von Hesse <br> Biomedical Engineering <br> mateo.portal@upch.pe        |
-|     Rosmy Postigo    <br>  Biomedical Engineering <br> rosmy.postigo@upch.pe    | Tayel Saavedra   <br>  Biomedical Engineering <br>    @upch.pe | Diego Salvatierra <br> Biomedical Engineering <br> diego.salvatierra@upch.pe       |
+|     Rosmy Postigo    <br>  Biomedical Engineering <br> rosmy.postigo@upch.pe    | Tayel Saavedra   <br>  Biomedical Engineering <br>   tayel.saavedra@upch.pe | Diego Salvatierra <br> Biomedical Engineering <br> diego.salvatierra@upch.pe       |
 
 
 #### Abstract
