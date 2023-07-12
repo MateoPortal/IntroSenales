@@ -27,6 +27,15 @@ A nivel de las enfermedades cardiovasculares, el impacto económico  puede ser c
 Recordando que el BRI es diagnosticado con la ayuda de un ECG, cabe resaltar que, usualmente, el paciente descubre que tiene un bloqueo de rama izquierda cuando se le hace un ECG por alguna otra razón [11].
 Para este diagnóstico, las derivaciones a tomar en cuenta son la  I, V5 y V6 [12]; además, se tienen ciertos criterios a seguir, los cuales son [12]: Una duración de QRS superior a 120 milisegundos, cuya forma del QRS se ensancha y se desvía hacia abajo en la derivación V1. Ausencia de la onda Q en las derivaciones I, V5 y V6. Una onda R monomórfica en I, V5 y V6. Desplazamiento de las ondas ST y T frente a la mayor deflexión del QRS [12].
 
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/lbbb.png" alt="IMAGEN DE BIENVENIDA" width="25%">
+  </p>
+<p align="center">
+  <em>Imagen1. Animación de una Onda P</em>
+</p>
+
+
+
 ## II. PLANTEAMIENTO DEL PROBLEMA
 Detectar el bloqueo de la rama izquierda (BRI) resulta fundamental debido a que puede alertar sobre la presencia de enfermedades cardiovasculares subyacentes, como la enfermedad arterial coronaria o la hipertensión [3][4]. El BRI se ha asociado con un mayor riesgo de eventos cardiovasculares adversos y puede influir en las decisiones terapéuticas. Al identificar el BRI, los médicos pueden evaluar el pronóstico del paciente, tomar medidas preventivas para reducir el riesgo de complicaciones y realizar un seguimiento adecuado de la función cardíaca [13][14].
 Como ya ha sido previamente mencionado, la detección de BRI depende fundamentalmente de una lectura de ECG, tomando en consideración las derivaciones I, V5 y V6. Consecuentemente, esta prueba es imprescindible para este fin. 
@@ -62,6 +71,14 @@ Finalmente, se trabajó con 3 datasets: El primer dataset corresponde a la prime
 #### Reccolección de datos
 
 Dispusimos, de manera voluntaria, del consentimiento y colaboración de una mujer de 61 años diagnosticada con Bloqueo de la Rama Izquierda (BRI). A través de la plataforma BITalino (r)evolution Plugged kit), se llevó a cabo la recolección de señales de electrocardiograma (ECG) que presentan características específicas asociadas a esta condición médica. Empleamos tres electrodos para la captación de señales eléctricas en las derivaciones I, II y III.
+
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/mami_ale.jpg" width="25%">
+  </p>
+<p align="center">
+  <em>Imagen1. Animación de una Onda P</em>
+</p>
+
 
 La señal electrocardiográfica adquirida mediante BITalino (r)evolution Plugged kit fue adquirida por defecto a una frecuencia de muestreo de 1000 Hz; sin embargo, la información de los tres datasets presentaba una frecuencia de muestreo de 500 Hz, por lo que se decidió decimar la señal por un factor entero igual a 2
 ### b) Preprocesamiento
@@ -108,6 +125,13 @@ La formulación más simple de SVM es la formulación lineal, en la cual los hip
 Y los subconjuntos del espacio de Hilbert con kernel (k) reproducible son definidos como en la ecuación siguiente [27]:
 \[{f:||f||_k ^2 \leq A^2}\]
 
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/svmHiperplanoEspacio.jpg" width="25%">
+  </p>
+<p align="center">
+  <em>Imagen1. Animación de una Onda P</em>
+</p>
+
 En el presente artículo, dado que son 3 clases las que se van a clasificar, la implementación de la clasificación se implementa mediante el clasificador "one-versus-one" de SVM, el cual construye tres clasificadores y donde cada uno de ellos entrena data de dos clases diferentes
 ## Conclusión
 
@@ -126,10 +150,40 @@ Los hiperparámetros a utilizar fueron los siguientes:
 
 ### e) Diseño de PCB
 
-La PCB (Printed circuit board o placa de circuito impreso en español) se compone del chip ESP32 WROOM 32E, un microcontrolador de alto rendimiento y bajo consumo de energía, junto con el AD8232, un amplificador de instrumentación utilizado para adquirir señales de ECG en tiempo real (Figura 6). El diseño de la PCB se ha adaptado para alojar tanto el chip ESP32 como el AD8232, además de otros componentes necesarios para su funcionamiento. Se optó por desarrollar la PCB desde cero con el objetivo de reducir el tamaño final del producto y eliminar componentes innecesarios presentes en el kit de desarrollo devkit. Además de evitar el ruido y las capacitancias parásitas. La PCB incluye conectores y pines específicos para garantizar una conexión segura entre el ESP32 y el AD8232, un puerto Jack para la conexión de los electrodos y un puerto micro USB para la carga de programas y algoritmos en el microcontrolador, así como para permitir la comunicación con una computadora.Se realizó un diseño 3D del wearable en formato CAD con el uso de \textit{Autodesk Inventor}. El diseño se dividió en dos partes: la carcasa y la tapa. La carcasa, de medidas 120 x 80 x 23.5 mm, es donde irán todos los componentes del dispositivo y cuenta con dos aperturas, la primera para el posicionamiento del \textit{switch} de encendido/apagado y la segunda para la permitir el posicionamiento de los electrodos y la conexión de estos al circuito, ya que este está diseñado para ser usado en el brazo debajo del músculo deltoides. La tapa, por su parte, de dimensiones 120 x 80 x 3.5 mm, se diseñó con una apertura en el centro para el posicionamiento y visualización de la pantalla TFT. Las vistas del diseño pueden verse en las figuras 8-10. 
+La PCB (Printed circuit board o placa de circuito impreso en español) se compone del chip ESP32 WROOM 32E, un microcontrolador de alto rendimiento y bajo consumo de energía, junto con el AD8232, un amplificador de instrumentación utilizado para adquirir señales de ECG en tiempo real (Figura 6). El diseño de la PCB se ha adaptado para alojar tanto el chip ESP32 como el AD8232, además de otros componentes necesarios para su funcionamiento. Se optó por desarrollar la PCB desde cero con el objetivo de reducir el tamaño final del producto y eliminar componentes innecesarios presentes en el kit de desarrollo devkit. Además de evitar el ruido y las capacitancias parásitas. La PCB incluye conectores y pines específicos para garantizar una conexión segura entre el ESP32 y el AD8232, un puerto Jack para la conexión de los electrodos y un puerto micro USB para la carga de programas y algoritmos en el microcontrolador, así como para permitir la comunicación con una computadora .
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/placaplano.jpeg" width="25%">
+  </p>
+<p align="center">
+  <em>Imagen1. Animación de una Onda P</em>
+</p>
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/placa3d.jpeg" width="25%">
+  </p>
+<p align="center">
+  <em>Imagen1. Animación de una Onda P</em>
+</p>
+
 ### f) Diseño 3D del wearable
 Se realizó un diseño 3D del wearable en formato CAD con el uso de Autodesk Inventor. El diseño se dividió en dos partes: la carcasa y la tapa. La carcasa, de medidas 120 x 80 x 23.5 mm, es donde irán todos los componentes del dispositivo y cuenta con dos aperturas, la primera para el posicionamiento del switch de encendido/apagado y la segunda para la permitir el posicionamiento de los electrodos y la conexión de estos al circuito, ya que este está diseñado para ser usado en el brazo debajo del músculo deltoides. La tapa, por su parte, de dimensiones 120 x 80 x 3.5 mm, se diseñó con una apertura en el centro para el posicionamiento y visualización de la pantalla TFT. Las vistas del diseño pueden verse en las figuras 8-10. 
-
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/frontal_assembly_se%C3%B1ales.png" width="25%">
+  </p>
+<p align="center">
+  <em>Imagen1. Animación de una Onda P</em>
+</p>
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/frontal_se%C3%B1ales.png" width="25%">
+  </p>
+<p align="center">
+  <em>Imagen1. Animación de una Onda P</em>
+</p>
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/frontal_tapa_se%C3%B1ales.png" width="25%">
+  </p>
+<p align="center">
+  <em>Imagen1. Animación de una Onda P</em>
+</p>
 A. Cantidad de datos utilizados
 La segmentación de la derivación bipolar I de 100 pacientes sanos (Normal), de 100 pacientes con BRI y de 100 pacientes con FA resultó en 781 latidos pertenecientes a pacientes sanos, 746 latidos de pacientes con BRI y 1007 latidos de pacientes con FA. Adicionalmente, 30 latidos fueron segmentados a partir de la señal de la paciente voluntaria con BRI, ver Tabla I
 
@@ -146,7 +200,12 @@ En la tabla 2 se muestran los resultados obtenidos con los distintos algoritmos 
 El algoritmo de *Support Vector Machine* alcanzó una exactitud de 82.54% y el *Random Forest* de 89.14%. Esto nos quiere decir que, por cada 100 ECGs clasificados, aproximadamente 83 fueron clasificadas correctamente para SVM y 89 para RF. La diferencia de precisión entre la clase Normal y la clase FA, más pronunciada en comparación a la clase BRI puede ser explicada por las formas de los EGCs. La forma del ECG de BRI difiere mucho de un ECG normal y de un ECG de FA debido a la presencia de un complejo QRS muy prolongado o ancho, por lo que resultaba más sencillo realizar la clasificación y ello explica la alta precisión obtenida, mientras que el patrón del latido de clase FA se asemeja al de clase Normal porque la duración del complejo QRS es más corta de lo normal.
 
 Por otro lado, las diferencias entre los electrocardiogramas de la clase normal y la clase FA no son tan notorias como en el caso de BRI ya que las alteraciones en el ECG por FA son principalmente de frecuencia, ritmo y forma en el intervalo PR, segmento ST y onda T. Además, en la segmentación por latidos de los ECGs se pudo observar que, para el caso de FA, la similitud entre las segmentaciones no era tan alta como en el caso de las otras dos clases, principalmente debido a la presencia o ausencia de onda P que no era una característica fija y quedó evidenciado en la obtención de coeficientes de la transformada wavelet de las señales. Esto terminó perjudicando a la precisión obtenida; sin embargo, podría ser mejorada si se consideraran más parámetros para la clasificación de las señales y si se complementa el análisis con más  de una derivación puesto que existen características más definidas que diferencian con mayor énfasis el BRI y la FA [20] [21]. Consideramos que mejorar la precisión aumentando la cantidad de derivaciones podría ser el paso a seguir en futuros estudios.
-
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/imag%201.JPG" width="25%">
+  </p>
+<p align="center">
+  <em>Imagen1. Animación de una Onda P</em>
+</p>
 ## VI. Conclusiones
 
 La detección y clasificación de arritmias, como el BRI, a partir de señales de ECG presenta desafíos debido a la alta variabilidad entre los pacientes del dataset disponible [16]. En este estudio, se utilizó un conjunto de datos de ECG con una amplia variedad de casos y señales clasificadas, lo que permitió que los algoritmos tradicionales de aprendizaje, como SVM, lograran una clasificación satisfactoria. Sin embargo, la duración variable de las señales (de 6 a 60 segundos) representó un desafío, ya que pueden aparecer eventos de arritmia que duren solo unos segundos. Estos eventos a veces pueden confundirse con segmentos ruidosos, lo que dificulta la clasificación precisa de toda la señal. A pesar de estas dificultades se logró implementar un algoritmo que alcanzó una alta precisión y con una correcta optimización pueda ser implementado en un dispositivo de bajo costo y dimensiones reducidas. Esto se realizaría exportando el modelo entrenado utilizando una biblioteca de serialización e integrándolo al ESP32 a través de un entorno de desarrollo adecuado. Lo cual facilitará la detección oportuna de BRI en lugares con recursos limitados y sin acceso a dispositivos con mayor poder de procesamiento.
@@ -213,26 +272,39 @@ La detección y clasificación de arritmias, como el BRI, a partir de señales d
 
 ### Author's Biography
 
-![Alessandra Aldave](ale2.jpg)  
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/ale2.jpg" width="25%">
+  </p>
 **Alessandra Aldave**  
 Ninth-semester undergraduate student of Biomedical Engineering at Pontifical Catholic University of Peru - Cayetano Heredia University. Currently, she is engaged in nanobody research as part of her internship at the Molecular Biotechnology and Cell Signaling Laboratory. Her research interest lies in Kidney Tissue Engineering and Biomaterials.
 
-![Jose Huaylinos](jose_bw.jpg)  
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/jose_bw.jpg" width="25%">
+  </p> 
 **Jose Huaylinos**  
 He is a Biomedical Engineering student with a focus on healthcare management and the application of AI in patient care. Currently, he serves as a JCI coordinator at the San Pablo Group in Lima, Peru, ensuring their services meet international standards.
 
-![Mateo Portal](mateo.jpeg)  
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/mateo.jpeg" width="25%">
+  </p>
 **Mateo Portal**  
 Ninth-semester undergraduate student of Biomedical Engineering at Pontifical Catholic University of Peru - Cayetano Heredia University. He is currently interested in Clinical Engineering and his goal is to improve the health sector in Peru and people's quality of life.
 
-![Rosmy Postigo](RP.jpg)  
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales![RP](https://github.com/MateoPortal/IntroSenales/assets/70663170/394a289a-e7c0-4baf-a1a1-d6b1ded972c8)
+/blob/main/ISB/Proyecto%20/Im%C3%A1genes/mami_ale.jpg" width="25%">
+  </p> 
 **Rosmy Postigo**  
 Seventh-semester undergraduate student of Biomedical Engineering at Pontifical Catholic University of Peru - Cayetano Heredia University. Her areas of interest are Biomaterials and Tissue Engineering. She aims to work on and develop alternative toxicology testing methods to replace the traditional methods currently used.
 
-![Tayel Saavedra](tayell.JPG)  
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/tayell.JPG" width="25%">
+  </p>
 **Tayel Saavedra**  
 Seventh-semester undergraduate student studying Biomedical Engineering at Pontifical Catholic University of Peru - Cayetano Heredia University. His current focus is on Biomaterials and Tissue Engineering, and he aspires to innovate the health sector by applying the characteristics of advanced biomaterials.
 
-![Diego Salvatierra](diego1.jpg)  
+<p align="center">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/diego1.jpg" width="25%">
+  </p> 
 **Diego Salvatierra**  
 Peruvian biomedical engineering student at PUCP and UPCH. He would like to specialize in the field of medical signal processing because it offers tremendous potential for improving healthcare outcomes and advancing medical research. Medical signal processing involves the analysis, interpretation, and manipulation of signals obtained from various physiological processes in the human body, such as electrocardiograms (ECGs), electroencephalograms (EEGs), and medical imaging data.
