@@ -76,7 +76,7 @@ Dispusimos, de manera voluntaria, del consentimiento y colaboración de una muje
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/mami_ale.jpg" width="25%">
   </p>
 <p align="center">
-  <em>Imagen2. Animación de una Onda P</em>
+  <em>Imagen2. Adquisión con BITalino</em>
 </p>
 
 
@@ -129,7 +129,7 @@ Y los subconjuntos del espacio de Hilbert con kernel (k) reproducible son defini
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/svmHiperplanoEspacio.jpg" width="25%">
   </p>
 <p align="center">
-  <em>Imagen1. Animación de una Onda P</em>
+  <em>Imagen3. Decisión para un problema de dos clases separables linealmente mediante un hiperplano [25].</em>
 </p>
 
 En el presente artículo, dado que son 3 clases las que se van a clasificar, la implementación de la clasificación se implementa mediante el clasificador "one-versus-one" de SVM, el cual construye tres clasificadores y donde cada uno de ellos entrena data de dos clases diferentes
@@ -155,13 +155,13 @@ La PCB (Printed circuit board o placa de circuito impreso en español) se compon
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/placaplano.jpeg" width="25%">
   </p>
 <p align="center">
-  <em>Imagen1. Animación de una Onda P</em>
+  <em>Imagen4. Diseño de la PCB en EasyEda}</em>
 </p>
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/placa3d.jpeg" width="25%">
   </p>
 <p align="center">
-  <em>Imagen1. Animación de una Onda P</em>
+  <em>Imagen5. Animación de una Onda P</em>
 </p>
 
 ### f) Diseño 3D del wearable
@@ -169,20 +169,17 @@ Se realizó un diseño 3D del wearable en formato CAD con el uso de Autodesk Inv
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/frontal_assembly_se%C3%B1ales.png" width="25%">
   </p>
-<p align="center">
-  <em>Imagen1. Animación de una Onda P</em>
-</p>
+
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/frontal_se%C3%B1ales.png" width="25%">
   </p>
-<p align="center">
-  <em>Imagen1. Animación de una Onda P</em>
+
 </p>
 <p align="center">
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/frontal_tapa_se%C3%B1ales.png" width="25%">
   </p>
 <p align="center">
-  <em>Imagen1. Animación de una Onda P</em>
+  <em>Imagen6,7,8.Vistas del diseño 3d</em>
 </p>
 A. Cantidad de datos utilizados
 La segmentación de la derivación bipolar I de 100 pacientes sanos (Normal), de 100 pacientes con BRI y de 100 pacientes con FA resultó en 781 latidos pertenecientes a pacientes sanos, 746 latidos de pacientes con BRI y 1007 latidos de pacientes con FA. Adicionalmente, 30 latidos fueron segmentados a partir de la señal de la paciente voluntaria con BRI, ver Tabla I
@@ -204,7 +201,7 @@ Por otro lado, las diferencias entre los electrocardiogramas de la clase normal 
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/imag%201.JPG" width="25%">
   </p>
 <p align="center">
-  <em>Imagen1. Animación de una Onda P</em>
+  <em>Imagen9. Gráfico de frontera de decisión con SVM</em>
 </p>
 ## VI. Conclusiones
 
