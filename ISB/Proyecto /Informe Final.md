@@ -31,7 +31,7 @@ Para este diagnóstico, las derivaciones a tomar en cuenta son la  I, V5 y V6 [1
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/lbbb.png" alt="IMAGEN DE BIENVENIDA" width="25%">
   </p>
 <p align="center">
-  <em>Imagen1. Animación de una Onda P</em>
+  <em>Imagen1.ECG de bloqueo de la rama izquierda</em>
 </p>
 
 
@@ -76,7 +76,7 @@ Dispusimos, de manera voluntaria, del consentimiento y colaboración de una muje
   <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/mami_ale.jpg" width="25%">
   </p>
 <p align="center">
-  <em>Imagen1. Animación de una Onda P</em>
+  <em>Imagen2. Animación de una Onda P</em>
 </p>
 
 
@@ -291,8 +291,7 @@ He is a Biomedical Engineering student with a focus on healthcare management and
 Ninth-semester undergraduate student of Biomedical Engineering at Pontifical Catholic University of Peru - Cayetano Heredia University. He is currently interested in Clinical Engineering and his goal is to improve the health sector in Peru and people's quality of life.
 
 <p align="center">
-  <img src="https://github.com/MateoPortal/IntroSenales![RP](https://github.com/MateoPortal/IntroSenales/assets/70663170/394a289a-e7c0-4baf-a1a1-d6b1ded972c8)
-/blob/main/ISB/Proyecto%20/Im%C3%A1genes/mami_ale.jpg" width="25%">
+  <img src="https://github.com/MateoPortal/IntroSenales/blob/main/ISB/Proyecto%20/Im%C3%A1genes/RP.jpg" width="25%">
   </p> 
 **Rosmy Postigo**  
 Seventh-semester undergraduate student of Biomedical Engineering at Pontifical Catholic University of Peru - Cayetano Heredia University. Her areas of interest are Biomaterials and Tissue Engineering. She aims to work on and develop alternative toxicology testing methods to replace the traditional methods currently used.
